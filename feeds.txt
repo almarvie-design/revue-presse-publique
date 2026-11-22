@@ -1,0 +1,91 @@
+Le Monde|https://www.lemonde.fr/rss/une.xml
+Libération|https://www.liberation.fr/arc/outboundfeeds/rss/category/politique/?outputType=xml
+Libération|https://www.liberation.fr/arc/outboundfeeds/rss/category/societe/?outputType=xml
+La Croix|https://www.la-croix.com/feeds/rss/politique.xml
+La Croix|https://www.la-croix.com/feeds/rss/societe.xml
+L'Humanité|https://www.humanite.fr/feed
+Mediapart|https://www.mediapart.fr/articles/feed
+Contexte|https://www.contexte.com/articles/rss
+franceinfo|https://www.francetvinfo.fr/politique.rss
+franceinfo|https://www.francetvinfo.fr/societe.rss
+France Inter|https://www.radiofrance.fr/franceinter/rss
+Le Canard enchaîné|https://www.lecanardenchaine.fr/rss/index.xml
+Politis|https://www.politis.fr/rss.xml
+Blast|https://api.blast-info.fr/rss_articles.xml
+Disclose|https://disclose.ngo/feed/
+Brut|https://www.brut.media/rss/fr/france.xml
+Courrier international|https://www.courrierinternational.com/feed/all/rss.xml
+The Conversation France|https://theconversation.com/fr/politique/articles.atom
+RTS|https://www.rts.ch/info/suisse/?format=rss/news
+Le Monde diplomatique|https://www.monde-diplomatique.fr/spip.php?page=backend
+Esprit|https://esprit.presse.fr/rss/news.xml
+Le 1|https://le1.com/rss.xml
+Le Comptoir|https://comptoir.org/feed/
+Ballast|https://www.revue-ballast.fr/feed/
+Frustration|https://www.frustrationlarevue.fr/feed/
+Basta !|https://basta.media/spip.php?page=backend
+Regards|https://regards.fr/feed/
+Contretemps|https://www.contretemps.eu/feed/
+Jef Klak|https://www.jefklak.org/feed/
+La Relève et la Peste|https://lareleveetlapeste.fr/feed
+CQFD|https://cqfd-journal.org/spip.php?page=backend
+Alternatives Économiques|https://www.alternatives-economiques.fr/rss.xml
+Socialter|https://www.socialter.fr/rss
+Mr Mondialisation|https://mrmondialisation.org/feed/
+Alternatiba|https://alternatiba.eu/rss
+Réseau Action Climat|https://reseauactionclimat.org/feed
+Reporterre|https://reporterre.net/spip.php?page=backend
+Actu-Environnement|https://www.actu-environnement.com/ae/news/archives/rss.php4
+Lundi matin|https://lundi.am/spip.php?page=backend
+Fakir|https://fakirpresse.info/feed/
+Révolution permanente|https://www.revolutionpermanente.fr/spip.php?page=backend
+Le Vent se lève|https://lvsl.fr/feed/
+Mémoire des luttes|https://medelu.org/spip.php?page=backend
+Attac|https://france.attac.org/spip.php?page=backend
+Acrimed|https://www.acrimed.org/spip.php?page=backend
+Observatoire des multinationales|https://multinationales.org/spip.php?page=backend
+Les Surligneurs|https://lessurligneurs.eu/feed
+La Vie des idées|https://laviedesidees.fr/spip.php?page=backend
+Là-bas si j'y suis|https://la-bas.org/spip.php?page=backend
+Arrêt sur images|https://api.arretsurimages.net/api/public/rss/all-content
+Euractiv France|https://euractiv.fr/rss
+AOC|https://aoc.media/feed
+Les Jours|https://lesjours.fr/rss.xml
+Les Nouvelles News|https://www.lesnouvellesnews.fr/feed/
+Au Poste|https://auposte.media/flux
+Bon Pote|https://bonpote.com/feed/
+Vert|https://vert.eco/feed/
+Problematik|https://www.problematik-media.com/feed.xml
+Made in Perpignan|https://madeinperpignan.com/feed/
+Le Bondy Blog|https://www.bondyblog.fr/feed/
+Next|https://next.ink/feed/
+Le Média|https://api.lemediatv.fr/rss.xml
+Télé Millevaches|https://telemillevaches.net/feed/
+Mediabask|https://www.mediabask.eus/eu/rss/sections/mediabask.rss
+Le Café pédagogique|https://www.cafepedagogique.net/feed/
+StreetPress|https://www.streetpress.com/rss.xml
+60 millions de consommateurs|https://www.60millions-mag.com/feed
+L'Empaillé|https://lempaille.fr/feed
+STUP.MEDIA|https://stup.media/feed/
+Projet Arcadie|https://projetarcadie.com/feed/
+22-med|https://www.22-med.com/feed/
+altermidi|https://altermidi.org/feed/
+Afrique XXI|https://afriquexxi.info/spip.php?page=backend
+Le Grand Continent|https://legrandcontinent.eu/fr/feed/
+Rue89 Bordeaux|https://rue89bordeaux.com/feed/
+TV Bruits|https://tvbruits.org/spip.php?page=backend
+Mediacités|https://www.mediacites.fr/feed/
+Rapports de force|https://rapportsdeforce.fr/feed
+Acta|https://acta.zone/feed/
+Radio Parleur|https://radioparleur.net/feed/
+Paris-luttes.info|https://paris-luttes.info/spip.php?page=backend
+La Brèche|https://journal-labreche.fr/feed/
+Amnesty International France|https://www.amnesty.fr/feed
+LDH|https://www.ldh-france.org/feed/
+La Cimade|https://www.lacimade.org/feed/
+Observatoire des inégalités|https://www.inegalites.fr/spip.php?page=backend
+Oxfam France|https://www.oxfamfrance.org/feed/
+La Quadrature du Net|https://www.laquadrature.net/feed/
+Greenpeace France|https://www.greenpeace.fr/feed/
+Les Amis de la Terre|https://www.amisdelaterre.org/feed/
+Notre Affaire à Tous|https://notreaffaireatous.org/feed/

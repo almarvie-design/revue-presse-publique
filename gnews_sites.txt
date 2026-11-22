@@ -1,0 +1,22 @@
+AFP|afp.com
+Reuters|reuters.com
+Anticor|anticor.org
+Syndicat de la magistrature|syndicat-magistrature.fr
+ATD Quart Monde|atd-quartmonde.fr
+RSF|rsf.org
+Fondation Abbé Pierre|fondationabbepierre.fr
+CGT|cgt.fr
+CFDT|cfdt.fr
+Force ouvrière|force-ouvriere.fr
+Solidaires|solidaires.org
+FSU|fsu.fr
+UNSA|unsa.org
+CFTC|cftc.fr
+CFE-CGC|cfecgc.org
+UNEF|unef.fr
+FIDL|fidl.org
+Le Club des juristes|leclubdesjuristes.com
+Conseil national des barreaux|cnb.avocat.fr
+Politis|politis.fr
+Révolution permanente|revolutionpermanente.fr
+Amnesty International France|amnesty.fr
