@@ -1,16 +1,72 @@
 {
- "genere": "2026-11-22T08:35:46.942298+00:00",
+ "genere": "2026-11-22T09:39:47.685012+00:00",
  "jours": 4,
- "nb_articles": 1038,
+ "nb_articles": 1037,
  "nb_flux": 113,
- "nb_erreurs": 4,
+ "nb_erreurs": 3,
  "articles": [
   {
+   "src": "Courrier international",
+   "titre": "Chats, chiens et hérissons : ces animaux qui épaulent les soldats ukrainiens au front",
+   "url": "https://www.courrierinternational.com/article/reconfort-chats-chiens-et-herissons-ces-animaux-qui-epaulent-les-soldats-ukrainiens-au-front_288869",
+   "date": "2026-11-22T10:11:17+01:00",
+   "resume": "Beaucoup de ces animaux venus d’eux-mêmes, ou ont été récupérés dans les villages abandonnés prêts du front. Ils jouent aujourd’hui un rôle clé pour le moral des combattants, et certains sont même devenus des stars sur les réseaux sociaux.",
+   "pay": true
+  },
+  {
    "src": "franceinfo",
-   "titre": "Mobilisation du 21 novembre : le ministère de l'Intérieur annonce 144 interpellations en France, selon un bilan provisoire à 18 heures",
-   "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-%5Bsociete%5D",
-   "date": "2026-11-22T09:34:51+01:00",
-   "resume": "Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
+   "titre": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète.",
+   "url": "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html#xtor=RSS-3-%5Bsociete%5D",
+   "date": "2026-11-22T10:00:02+01:00",
+   "resume": "Cette semaine, une spécialiste des relations internationales montre comment la Chine met en scène sa puissance pour faire oublier ses faiblesses et décourager ses adversaires.",
+   "pay": false
+  },
+  {
+   "src": "franceinfo",
+   "titre": "Le Syndicat national des dermatologues \"va saisir le Conseil d'État\" sur le décret sur la médecine esthétique",
+   "url": "https://www.franceinfo.fr/sante/le-syndicat-national-des-dermatologues-va-saisir-le-conseil-d-etat-sur-le-decret-sur-la-medecine-esthetique_8294621.html#xtor=RSS-3-%5Bsociete%5D",
+   "date": "2026-11-22T09:59:23+01:00",
+   "resume": "Le Syndicat national des dermatologues \"va saisir le Conseil d'État\", indique ce dimanche sur France Inter la Dr Catherine Oliveres Ghouti, membre de ce syndicat qui s'oppose au nouveau décret sur la médecine esthétique.",
+   "pay": false
+  },
+  {
+   "src": "Mediapart",
+   "titre": "Alison Bechdel: «Ça semble insensé d’écrire un livre quand le monde part en vrille»",
+   "url": "https://www.mediapart.fr/journal/international/221126/alison-bechdel-ca-semble-insense-d-ecrire-un-livre-quand-le-monde-part-en-vrille",
+   "date": "2026-11-22T09:50:35+01:00",
+   "resume": "Vingt ans après la publication de son best-seller «Fun Home», qui a propulsé l’imaginaire queer dans le monde de la bande dessinée, l’autrice états-unienne observe avec effroi le recul des droits dans son pays et le rouleau compresseur du fascisme.",
+   "pay": true
+  },
+  {
+   "src": "Le Monde",
+   "titre": "Climat : la COP31 au bord de l’impasse ; le dernier texte proposé « nous ramène en arrière », dénonce la France",
+   "url": "https://www.lemonde.fr/climat/article/2026/11/22/climat-la-cop31-au-bord-de-l-impasse-le-dernier-texte-propose-nous-ramene-en-arriere-denonce-la-france_6814199_1652612.html",
+   "date": "2026-11-22T09:48:06+01:00",
+   "resume": "Face à des négociations qui s’enlisent à Antalya, la COP31 est divisée sur la captation du carbone et l’absence d’engagements clairs sur les énergies fossiles, laissant planer l’incertitude d’un accord jusqu’au bout.",
+   "pay": true
+  },
+  {
+   "src": "Arrêt sur images",
+   "titre": "“Enfants d”intérieur” : le carburant médiatique de l’angoisse parentale",
+   "url": "https://www.arretsurimages.net/chroniques/une-famille-en-or/enfants-dinterieur-le-carburant-mediatique-de-langoisse-parentale",
+   "date": "2026-11-22T09:46:11+01:00",
+   "resume": "On les dit cloîtrés chez eux, apeurés à la vue d’un brin d’herbe et guettés par une avalanche de maux. Depuis plusieurs années, l’inquiétant tableau d’une génération d’ \"enfants d'intérieur” ressurgit régulièrement dans l’actualité. Où revient, parmi les coupables, l’angoisse des parents… qu’attisent précisément les médias.",
+   "pay": true
+  },
+  {
+   "src": "Le Monde",
+   "titre": "Max Verstappen remporte un Grand Prix de Las Vegas survolté : 35 changements de leader et du suspense jusqu’au dernier virage",
+   "url": "https://www.lemonde.fr/sport/article/2026/11/22/max-verstappen-remporte-un-grand-prix-de-las-vegas-survolte-35-changements-de-leaders-et-du-suspense-jusqu-au-dernier-virage_6814198_3242.html",
+   "date": "2026-11-22T09:30:43+01:00",
+   "resume": "Le pilote Red Bull a décroché, samedi, sa quatrième victoire de la saison à l’issue d’une course à l’intensité rare, ayant comptabilisé 352 dépassements, un record en formule 1.",
+   "pay": true
+  },
+  {
+   "src": "France Inter",
+   "titre": "\"Ruy Blas\" à la Comédie française, \"Le Père\" de Zeller, \"Faust\" de Castellucci.. Quelles sont les pièces à aller voir ?",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-22-novembre-2026-5391972",
+   "date": "2026-11-22T09:12:40+00:00",
+   "resume": "Au programme du Masque et la Plume : le \"Ruy Blas\" de Julie Duclos à la Comédie française, le \"Faust\" de Roméo Castellucci à l’Odéon, \"Madame de Sade\" par Stanislas Nordey, \"Le Père\" de Florian Zeller, le \"Concert très chic\" de Michel Fau et Lisa Perrio en solo. Place au débat.",
    "pay": false
   },
   {
@@ -22,11 +78,35 @@
    "pay": false
   },
   {
+   "src": "Le Monde",
+   "titre": "L’historien et archéologue François-Xavier Fauvelle redonne à l’Afrique médiévale sa place dans le monde",
+   "url": "https://www.lemonde.fr/livres/article/2026/11/22/l-historien-et-archeologue-francois-xavier-fauvelle-redonne-a-l-afrique-medievale-sa-place-dans-le-monde_6814196_3260.html",
+   "date": "2026-11-22T09:00:10+01:00",
+   "resume": "L’historien et professeur au Collège de France a rassemblé plus de vingt ans de recherche dans cette synthèse exaustive des connaissances actuelles sur le sujet dont il est l’un des grands spécialistes.",
+   "pay": true
+  },
+  {
+   "src": "Force ouvrière",
+   "titre": "Election CNRACL : votez pour vos administrateurs - Force Ouvrière",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa2hoNm1VYnNQQ2dtWXVjSkdZLXhuWmV1RTdaYXUxbXNlSzlYeW5vVHkybmlpUjVmaGVsdzJFcFF2bmRYVVlHWUctV0xfMm1qendJcHQtTVliaDJaSmx5YWRVa2dtZWVocjJGM0hUY3E0T0tfZDdvR2ZXckh2RXB6Vmd3?oc=5",
+   "date": "2026-11-22T09:00:00+00:00",
+   "resume": "Election CNRACL : votez pour vos administrateurs Force Ouvrière",
+   "pay": false
+  },
+  {
    "src": "franceinfo",
    "titre": "Mobilisation sociale : le mouvement est-il en train de ralentir ?",
    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-sociale-le-mouvement-est-il-en-train-de-ralentir_8294564.html#xtor=RSS-3-%5Bsociete%5D",
    "date": "2026-11-22T08:52:19+01:00",
    "resume": "Malgré une mobilisation qui varie d’un samedi à l’autre, les manifestants restent déterminés à faire entendre leurs revendications. Des gilets jaunes aux étudiants et lycéens, le pouvoir d’achat et la précarité restent au cœur de la contestation",
+   "pay": false
+  },
+  {
+   "src": "The Conversation France",
+   "titre": "Face à la demande de participation citoyenne, des élus jaloux de leurs prérogatives : enquête sur la gestion municipale de l’eau à Paris et à Naples",
+   "url": "https://theconversation.com/face-a-la-demande-de-participation-citoyenne-des-elus-jaloux-de-leurs-prerogatives-enquete-sur-la-gestion-municipale-de-leau-a-paris-et-a-naples-287831",
+   "date": "2026-11-22T08:40:42+00:00",
+   "resume": "À Paris et à Naples, la participation citoyenne a été promue avec la fin des concessions privées pour la gestion de l’eau. Mais les élus ont bloqué cette participation lorsque les représentants des citoyens ont voulu intervenir sur des décisions stratégiques.",
    "pay": false
   },
   {
@@ -62,16 +142,8 @@
    "pay": true
   },
   {
-   "src": "Force ouvrière",
-   "titre": "L’inFO militante - Force Ouvrière",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00dE9OelBsanpPb0ZjbEdXUkVpVnp2VVlua2kwMlFGVWgxV0Zrelpmb3kzVFlJRWVVTnkyS2Z0MDd1djhMTDVWRnRRQzFUY3I1SmFOVVA1bmdfdUJI?oc=5",
-   "date": "2026-11-22T07:59:59+00:00",
-   "resume": "L’inFO militante Force Ouvrière",
-   "pay": false
-  },
-  {
    "src": "Libération",
-   "titre": "L’Ain et le Jura en vigilance orange pluies-inondations ce dimanche, le Pas-de-Calais toujours en alerte aux crues",
+   "titre": "L’Ain et le Jura en vigilance orange pluies-inondations ce dimanche, timide décrue dans le Pas-de-Calais",
    "url": "https://www.liberation.fr/societe/lain-et-le-jura-en-vigilance-orange-pluies-inondations-ce-dimanche-le-pas-de-calais-toujours-en-alerte-aux-crues-20261122_6QGNPQ7OBNDKVJ2IXG4JKZR5BA/",
    "date": "2026-11-22T07:54:12+00:00",
    "resume": "Jusqu’à 100 mm de pluies devraient tomber par endroits à partir de l’après-midi et dans la soirée. Dans les Hauts-de-France, les niveaux de la Canche se stabilisent».",
@@ -92,6 +164,14 @@
    "date": "2026-11-22T07:48:20+00:00",
    "resume": "Le dimanche, le philosophe et romancier Charles Pépin, répond à une question philosophique que vous lui posez.",
    "pay": false
+  },
+  {
+   "src": "Le Monde",
+   "titre": "L’Ain et le Jura placés en vigilance orange pluies-inondations dimanche soir ; la Canche à des niveaux toujours élevés dans le Pas-de-Calais",
+   "url": "https://www.lemonde.fr/climat/article/2026/11/22/l-ain-et-le-jura-places-en-en-vigilance-orange-pluies-inondations-dimanche-soir-la-canche-a-des-niveaux-toujours-eleves-dans-le-pas-de-calais_6814193_1652612.html",
+   "date": "2026-11-22T07:33:44+01:00",
+   "resume": "Des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, tandis que la vigilance orange est maintenue pour la Canche dans le Pas-de-Calais.",
+   "pay": true
   },
   {
    "src": "L'Humanité",
@@ -148,14 +228,6 @@
    "date": "2026-11-22T07:15:27+01:00",
    "resume": "\"La Tragédie du sang contaminé\", série documentaire en trois volets, diffusée dimanche soir sur France 5, nous replonge dans la douloureuse affaire du sang contaminé. Des milliers de personnes ont été infectées par le VIH dans les années 1980.",
    "pay": false
-  },
-  {
-   "src": "Le Monde",
-   "titre": "« Le poids des défaites passées dissuade les alliés de l’Arabie saoudite de s’engager au Yémen »",
-   "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/11/22/le-poids-des-defaites-passees-dissuade-les-allies-de-l-arabie-saoudite-de-s-engager-au-yemen_6814191_6116995.html",
-   "date": "2026-11-22T07:00:01+01:00",
-   "resume": "Le royaume saoudien peine à mobiliser la Turquie et l’Egypte, voire la Syrie, contre les houthistes. « Revenir sur l’histoire multiséculaire permet de sortir de la myopie stratégique qui ferait des houthistes de simples relais du régime iranien », explique Jean-Pierre Filiu dans sa chronique au « Monde ».",
-   "pay": true
   },
   {
    "src": "Le Canard enchaîné",
@@ -238,14 +310,6 @@
    "pay": false
   },
   {
-   "src": "Le Monde",
-   "titre": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
-   "url": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
-   "date": "2026-11-22T06:55:03+01:00",
-   "resume": "Quelques jours avant le Suneung, examen décisif pour les lycéens qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient conduit le gouvernement sud-coréen à lancer une vaste chasse aux fraudeurs.",
-   "pay": true
-  },
-  {
    "src": "France Inter",
    "titre": "\"Dans les musées on ne partage pas la haine\", estime la philosophe Laurence Devillairs invite à voir l'art autrement",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-we-du-dimanche-22-novembre-2026-1849570",
@@ -278,6 +342,22 @@
    "pay": false
   },
   {
+   "src": "Le Monde",
+   "titre": "« Très souvent, les personnes vulnérables et vieillissantes ne peuvent pas accéder aux Ehpad ni aux hébergements d’urgence » : à Nîmes, une maison pour ne plus vieillir dans la rue",
+   "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/22/tres-souvent-les-personnes-vulnerables-et-vieillissantes-ne-peuvent-pas-acceder-aux-ehpad-ni-aux-hebergements-d-urgence-a-nimes-une-maison-pour-ne-plus-vieillir-dans-la-rue_6814188_4500055.html",
+   "date": "2026-11-22T06:30:24+01:00",
+   "resume": "Il y a un an, la première demeure destinée à accueillir les sans-abri âgés de plus de 50 ans ouvrait au cœur de la ville du Gard. Sa mission : offrir un toit et un accompagnement adapté à une population souvent exclue des autres dispositifs d’hébergement.",
+   "pay": true
+  },
+  {
+   "src": "Le Monde",
+   "titre": "Le « racisme anti-Blancs », matrice à fantasmes utilisée par l’extrême droite",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/22/le-racisme-anti-blancs-matrice-a-fantasmes-utilisee-par-l-extreme-droite_6814187_3224.html",
+   "date": "2026-11-22T06:30:18+01:00",
+   "resume": "Dans une tentative d’inverser les rapports de domination, une partie de l’extrême droite française veut populariser ce concept né chez les identitaires dans les années 1970.",
+   "pay": true
+  },
+  {
    "src": "Made in Perpignan",
    "titre": "Un an après l’abattage de ses 42 vaches, cette éleveuse des Pyrénées-Orientales repart de zéro",
    "url": "https://madeinperpignan.com/pyrenees-orientales-un-an-apres-abattage-vaches-eleveuse-repart-zero/",
@@ -291,6 +371,14 @@
    "url": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-attaque-en-mer-baltique-des-drones-ukrainiens-produits-au-royaume-uni-les-dernieres-informations_6814183_3210.html",
    "date": "2026-11-22T06:29:37+01:00",
    "resume": "Le ministre de la défense ukrainien, Ievheni Khmara, et son homologue britannique, Wes Streeting, ont signé de nouveaux accords permettant la production, sur le sol britannique, de drones d’attaque conçus par l’Ukraine et destinés aux forces armées ukrainiennes.",
+   "pay": true
+  },
+  {
+   "src": "Le Monde",
+   "titre": "Comme aux Etats-Unis, les victimes françaises d’accidents de la route sont de plus en plus courtisées par les avocats",
+   "url": "https://www.lemonde.fr/economie/article/2026/11/22/comme-aux-etats-unis-les-victimes-francaises-d-accidents-de-la-route-sont-de-plus-en-plus-courtisees-par-les-avocats_6814181_3234.html",
+   "date": "2026-11-22T06:20:07+01:00",
+   "resume": "En France, l’indemnisation des accidentés de la route coûte trois fois plus cher qu’il y a vingt ans. Les victimes y gagnent, mais les assureurs dénoncent une judiciarisation malsaine.",
    "pay": true
   },
   {
@@ -454,6 +542,14 @@
    "pay": false
   },
   {
+   "src": "Le Monde",
+   "titre": "Une balade à Rambouillet, du château des présidents aux trains miniatures",
+   "url": "https://www.lemonde.fr/m-styles/article/2026/11/22/une-balade-a-rambouillet-du-chateau-des-presidents-aux-trains-miniatures_6814142_4497319.html",
+   "date": "2026-11-22T05:00:18+01:00",
+   "resume": "Le destin de la commune des Yvelines est étroitement lié à l’histoire de France, en particulier à celle de la République. En bordure de sa majestueuse forêt domaniale, elle valorise aujourd’hui son glorieux passé.",
+   "pay": true
+  },
+  {
    "src": "France Inter",
    "titre": "Le 6/9 accompagne votre matinée",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-6-9/le-6-9-du-dimanche-du-dimanche-22-novembre-2026-6951876",
@@ -534,11 +630,19 @@
    "pay": false
   },
   {
-   "src": "Le Monde",
-   "titre": "Ligue 1 : le PSG s’impose à Nice mais perd Désiré Doué sur blessure, Lyon fait chuter Lille",
-   "url": "https://www.lemonde.fr/football/article/2026/11/22/ligue-1-le-psg-s-impose-a-nice-mais-perd-desire-doue-sur-blessure-lyon-fait-chuter-lille_6814072_1616938.html",
-   "date": "2026-11-22T00:32:35+01:00",
-   "resume": "Le jeune attaquant parisien doit passer des examens médicaux après sa sortie sur civière, samedi, tandis que le LOSC voit sa préparation au choc face au Bayern Munich perturbée par un revers à domicile. Les Parisiens ont désormais 5 points d’avance en tête du championnat.",
+   "src": "Politis",
+   "titre": "- Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4bndHNkJYR24zWUFDN2IyNGJaQVRXM2dlU2R6a2xCX3NpUkNXR3BqX1lwX01xTU1Mei1aNjFDVWlMSGtIMFhkR2NZT0NIN01MYmp5TzJJNmlsUktIN1Vz?oc=5",
+   "date": "2026-11-21T23:33:42+00:00",
+   "resume": "Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "- Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBieTA1cV92NXRjWjdVWnhYMDJNTzI2SzEwZF9BdC1kR3hVZXJpTkJVcGpLcC1XV0pGVUEzNmJfQ3ZwUTBzeHNzaVVaVTdoaW1iemJMM1NVanNQSE5IazNn?oc=5",
+   "date": "2026-11-21T23:33:42+00:00",
+   "resume": "Politis.fr",
    "pay": true
   },
   {
@@ -548,6 +652,22 @@
    "date": "2026-11-21T23:26:27+00:00",
    "resume": "Reuters",
    "pay": false
+  },
+  {
+   "src": "Politis",
+   "titre": "- Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yc3JGWV82cTRVWGQyMWl2ZTRxUDgwa21sMGdGUzZSRDV4QktjTjBNS0xzNERwYWZLX2pEcnJIcTdscnBVQmpPWm1sS014UExiNGlJZHRzTkNKUmNjVF9j?oc=5",
+   "date": "2026-11-21T23:23:37+00:00",
+   "resume": "Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "- Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hMzI4bGZIcmYzY2lJbmY0TmJmNW1MZFNOZTdCTllxQXVSWTRGeHRyWGQ5NnZzeVN3YjI4dW8xRGVzVlhfandTSEY3X3lWYXdpa0pwWTZ4aDlCRUpoMWFN?oc=5",
+   "date": "2026-11-21T23:21:36+00:00",
+   "resume": "Politis.fr",
+   "pay": true
   },
   {
    "src": "AFP",
@@ -590,11 +710,59 @@
    "pay": false
   },
   {
-   "src": "Le Monde",
-   "titre": "Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
-   "url": "https://www.lemonde.fr/international/article/2026/11/21/israel-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_6814066_3210.html",
-   "date": "2026-11-21T21:00:05+01:00",
-   "resume": "M. Eisenkot a jusqu’au mois prochain pour former un gouvernement, à la suite des législatives de la fin d’octobre, qui n’ont dégagé aucune majorité absolue, ni pour son camp ni pour celui du premier ministre sortant.",
+   "src": "Politis",
+   "titre": "- Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fWExCWWs0aVI0c0tVa3FSRjhTTXlyVDQ3cTRMYlI3YVlSbmdqcXJGSzBMX242WnhVaVlMZ1Z2Q09iQmk3UEpfQ3N3QjdCM0J2eWk1bGFJcW43Q2xyNVpz?oc=5",
+   "date": "2026-11-21T21:52:21+00:00",
+   "resume": "Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "- Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuWTY0MlBISEY4YXJ2M1c1Y21VNGxFcVVHODR2c2dDT2hyeEJQeTJKbzJEVy15NUZRYU4zVEdUYXBoVE1lRGEtUUtoYk14QnBicVh6TXhZbU1sWF9wanM0?oc=5",
+   "date": "2026-11-21T21:46:19+00:00",
+   "resume": "Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "- Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OalZBR2tLQXZXVE5rQV9VaEJ4ZElFUVNKWGg0TDNFN18zQWdzN0JMVC1OVFFZNU9rdFNjNWptQmZ0U0dZb3c5V0p3dV84SXV1N01EUTJteTdCa2FGbGow?oc=5",
+   "date": "2026-11-21T21:46:19+00:00",
+   "resume": "Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "- Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIODFSYmlOTVc5UW5Ka29qY3h2VmVoS1FCVUlGRTY0ek0zVUMwcnFsUFZXRDNqaWFPLVo3bjQ5SVcwcThFZnNLeXppcDUzMVF5UDVac1pHQWRQZV9OOFpV?oc=5",
+   "date": "2026-11-21T21:46:19+00:00",
+   "resume": "Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "- Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zQ21nRk1xRzdORXRXcFN0SlhvOFdvLTI2WlRiZXlub3dpMl83NFpqVzQ1NG94WWMyUWc1YTJGQTdyU0FNNjZqdFo5NDg1TjlNRnJxdy1faUFiYmJ4NGJv?oc=5",
+   "date": "2026-11-21T21:46:19+00:00",
+   "resume": "Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "- Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEQ0JtVUtLWEJScVhVQlpteWFucURsT1BsbzIxX0h6TDJqaVQ4a2tncjNuVnNiVkJFTHBWalZzNjlkTXlwWERra1ByWUR0dFhxc1phWk9RaUFPUGYxWXRz?oc=5",
+   "date": "2026-11-21T21:46:19+00:00",
+   "resume": "Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "- Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mUkxrRlBfcEVHTllsMkotdE12TWJzbUEzWkxqb1hnUmkzNkYzMXM3djZFbldHZThRRS1mTjIzbnpXU042Q1dQTkVxYTM3Ml9fVzI2VkRhaEd6aExLVXFr?oc=5",
+   "date": "2026-11-21T21:46:19+00:00",
+   "resume": "Politis.fr",
    "pay": true
   },
   {
@@ -635,14 +803,6 @@
    "url": "https://www.mediapart.fr/journal/france/211126/ne-veut-pas-abandonner-paris-les-manifestants-refusent-l-essoufflement",
    "date": "2026-11-21T20:01:33+01:00",
    "resume": "À l’occasion du sixième samedi consécutif de mobilisation, quelques milliers de personnes ont défilé derrière des revendications multiples: en soutien aux lycéens et lycéennes, contre la vie chère, la loi «permis de tuer» et pour le logement. Cet «acte 6» marque aussi le huitième anniversaire du mouvement des Gilets jaunes.",
-   "pay": true
-  },
-  {
-   "src": "Le Monde",
-   "titre": "« Même si les démocrates américains enquêtent sur les malversations de Trump et ses proches, il ne se passera rien »",
-   "url": "https://www.lemonde.fr/idees/article/2026/11/21/meme-si-les-democrates-americains-enquetent-sur-les-malversations-de-trump-et-ses-proches-il-ne-se-passera-rien_6814061_3232.html",
-   "date": "2026-11-21T20:00:02+01:00",
-   "resume": "Malgré leur victoire aux midterms, les démocrates doivent s’attendre à deux années « peu productives » avant les élections présidentielles de 2028, estime, dans une tribune au « Monde », Anne Deysine, spécialiste des Etats-Unis, qui rappelle qu’ils peuvent néanmoins s’inspirer d’une vieille recette des républicains.",
    "pay": true
   },
   {
@@ -806,14 +966,6 @@
    "pay": true
   },
   {
-   "src": "Le Monde",
-   "titre": "Faire l’amour en se faisant la guerre : comment les adeptes du « hate sex » lient colère et coït",
-   "url": "https://www.lemonde.fr/intimites/article/2026/11/21/faire-l-amour-en-se-faisant-la-guerre-comment-les-adeptes-du-hate-sex-lient-colere-et-coit_6814049_6190330.html",
-   "date": "2026-11-21T18:00:07+01:00",
-   "resume": "« Nos émotions : la colère ». Une sexualité épanouie, synonyme de complicité avec son ou sa partenaire, semble a priori incompatible avec la colère, qui rend agressif et égoïste. Et pourtant… livres et films témoignent qu’il existe bel et bien des amateurs de « sexe enragé ».",
-   "pay": true
-  },
-  {
    "src": "Les Jours",
    "titre": "Et Chien News hurla à la Morançais",
    "url": "https://lesjours.fr/obsessions/alerte-secheresse-saison-7/ep12-chien-news-christelle-morancais/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
@@ -876,14 +1028,6 @@
    "date": "2026-11-21T17:30:00+00:00",
    "resume": "Qu’il s’agisse des autorités ou des organisateurs, tout le monde s’accorde à décrire des rangs plus clairsemés ce samedi 21 novembre par rapport à la semaine précédente.",
    "pay": true
-  },
-  {
-   "src": "France Inter",
-   "titre": "Comment les musées se réinventent-ils ? Avec Bénédicte Savoy",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/15-de-plus/15-de-plus-du-samedi-21-novembre-2026-9234789",
-   "date": "2026-11-21T17:28:10+00:00",
-   "resume": "Bénédicte Savoy est professeure, elle publie \"1815 le temps du retour\", un essai pour comprendre la matrice des restitutions de l’art en France après la chute de l’Empire napoléonien.",
-   "pay": false
   },
   {
    "src": "Révolution permanente",
@@ -1243,14 +1387,6 @@
    "url": "https://www.liberation.fr/politique/les-trois-piliers-de-la-methode-melenchon-20261121_AMG2LQZHQFHJZMIY2XMZR23EOQ/",
    "date": "2026-11-21T13:46:56+00:00",
    "resume": "Dans ce décryptage vidéo, «Libération» analyse l’ascension électorale de Jean-Luc Mélenchon et sa méthode en trois points : un leader, un mouvement, un programme.",
-   "pay": true
-  },
-  {
-   "src": "Le Monde",
-   "titre": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
-   "url": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
-   "date": "2026-11-21T13:36:49+01:00",
-   "resume": "Alors que la menace des systèmes d’armes létales autonomes, désormais assistées par l’intelligence artificielle, se fait chaque jour plus précise dans les zones de combat, la Russie, les Etats-Unis et Israël se sont opposés à l’ouverture de négociations pour un traité international sur ce type d’armes.",
    "pay": true
   },
   {
@@ -1654,14 +1790,6 @@
    "pay": false
   },
   {
-   "src": "Courrier international",
-   "titre": "Ces résidents étrangers en France qui continuent de manifester malgré la peur",
-   "url": "https://www.courrierinternational.com/article/vu-de-tunisie-ces-residents-etrangers-en-france-qui-continuent-de-manifester-malgre-la-peur_288698",
-   "date": "2026-11-21T09:34:51+01:00",
-   "resume": "En descendant dans la rue, les résidents étrangers prennent des risques importants en cas d’interpellation par la police, comme le retrait de leur titre de séjour ou la notification d’une obligation de quitter le territoire. Malgré tout, de nombreux jeunes choisissent de continuer à protester, rapporte le média tunisien “Inkyfada”, qui est allé à leur rencontre.",
-   "pay": true
-  },
-  {
    "src": "Libération",
    "titre": "A Mayotte, les rixes et rackets se multiplient : «S’il se passait ailleurs le tiers de ce qui a lieu ici, ça ferait la une de tous les journaux»",
    "url": "https://www.liberation.fr/societe/police-justice/a-mayotte-les-rixes-et-rackets-se-multiplient-sil-se-passait-ailleurs-le-tiers-de-ce-qui-a-lieu-ici-ca-ferait-la-une-de-tous-les-journaux-20261121_LCA4R2AJNNB3LPSM2M2N37FMMY/",
@@ -1676,22 +1804,6 @@
    "date": "2026-11-21T09:33:52+00:00",
    "resume": "Malgré un été très sec, les stations de ski suisses disposent d'assez d'eau pour produire de la neige artificielle. Les domaines romands et alémaniques peuvent commencer la saison sans restriction, confient plusieurs exploitants de remontées mécaniques.",
    "pay": false
-  },
-  {
-   "src": "franceinfo",
-   "titre": "Italie, Grande-Bretagne, Espagne, la contestation s'étend dans toute l'Europe... Le 8h30 franceinfo de Philip Turle et Alberto Toscano",
-   "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/italie-grande-bretagne-espagne-la-contestation-s-etend-dans-toute-l-europe-le-8h30-franceinfo-de-philip-turle-et-alberto-toscano_8271740.html#xtor=RSS-3-%5Bsociete%5D",
-   "date": "2026-11-21T09:33:49+01:00",
-   "resume": "De la France à l’Italie et au Royaume-Uni, la contestation contre la vie chère gagne plusieurs pays européens. Alberto Toscano, journaliste et politologue italien, et Philip Turle, journaliste britannique et chroniqueur international à France 24, analysent les ressorts de ces mobilisations, notamment chez les jeunes.",
-   "pay": false
-  },
-  {
-   "src": "Mediapart",
-   "titre": "Le plastique, partout: ce nouvel écosystème qui bouleverse le vivant",
-   "url": "https://www.mediapart.fr/journal/ecologie/211126/le-plastique-partout-ce-nouvel-ecosysteme-qui-bouleverse-le-vivant",
-   "date": "2026-11-21T09:09:36+01:00",
-   "resume": "Comment la biosphère va-t-elle réagir à l’afflux de déchets plastiques qui envahissent la Terre, de l’Antarctique aux abysses des océans? Si les scientifiques envisagent une adaptation des organismes, celle-ci pourrait prendre des millénaires. Une éternité à l’échelle humaine.",
-   "pay": true
   },
   {
    "src": "FSU",
@@ -2206,14 +2318,6 @@
    "pay": false
   },
   {
-   "src": "Le Monde",
-   "titre": "Génocide des Rohingya : la Cour internationale de justice rend un arrêt pour l’histoire",
-   "url": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html",
-   "date": "2026-11-20T21:38:52+01:00",
-   "resume": "La plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat, la Birmanie, dans « le crime des crimes ». Alors que l’Afrique du Sud a saisi l’institution contre Israël, accusant l’Etat hébreu d’un génocide contre les Palestiniens de Gaza, l’arrêt prononcé jeudi pourrait faire jurisprudence.",
-   "pay": true
-  },
-  {
    "src": "La Relève et la Peste",
    "titre": "« Permis de tuer » pour les policiers : la loi définitivement adoptée",
    "url": "https://lareleveetlapeste.fr/permis-de-tuer-pour-les-policiers-la-loi-definitivement-adoptee/",
@@ -2478,14 +2582,6 @@
    "pay": true
   },
   {
-   "src": "AFP",
-   "titre": "Warsaw says Russian missiles hit Poland, denounces 'intentional provocation' - AFP.com",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YY0ptNlhfeUJBWGpVMTZCMWlYclE1bmcxUW5FYkpIaHp1U3RxSTJOdTdCRDJjbjdwUFF6QmJOcHFYNFhOTUdVMm9rYw?oc=5",
-   "date": "2026-11-20T19:03:20+00:00",
-   "resume": "Warsaw says Russian missiles hit Poland, denounces 'intentional provocation' AFP.com",
-   "pay": false
-  },
-  {
    "src": "La Croix",
    "titre": "Villepin candidat en 2027 : le jour où son discours à l’ONU l’a placé sous les projecteurs",
    "url": "https://www.la-croix.com/politique/villepin-candidat-en-2027-le-jour-ou-son-discours-a-l-onu-la-place-sous-les-projecteurs-20261120",
@@ -2531,6 +2627,14 @@
    "url": "https://www.actu-environnement.com/ae/news/antimicrobiens-antibioresistance-one-health-une-sante-sante-humaine-animale-environnement-48830.php4#xtor=RSS-6",
    "date": "2026-11-20T18:33:19+01:00",
    "resume": "Le concept Une santé constitue un levier essentiel dans la lutte contre la résistance des micro-organismes. Mais le chemin est long pour construire des passerelles entre la médecine humaine, animale et l'environnement. Zoom sur des pistes à dévelo...",
+   "pay": false
+  },
+  {
+   "src": "FSU",
+   "titre": "Se mobiliser pour les retraites : mercredi 14 octobre et jeudi 19 novembre ! - FSU ILE-DE-FRANCE",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSEhkd2ZWT2tTLVlTWV83ZENSM3JqR3ptcEVzYUVnSkJkMW9yMVlYSU1sel9qZXowOHhERlVhYzlqM3VlVk9tcFRTTDFRY0l2dVdZVFRYeG1FbFlqc3dFdDJmRGFFbzdPbENZNkVJRTROZVhLUHhmM1RBdTE3RVhyemV2VjJ4V0NFWHlMeXAtMF8ycXRHbVpV?oc=5",
+   "date": "2026-11-20T18:31:13+00:00",
+   "resume": "Se mobiliser pour les retraites : mercredi 14 octobre et jeudi 19 novembre ! FSU ILE-DE-FRANCE",
    "pay": false
   },
   {
@@ -2694,6 +2798,14 @@
    "pay": false
   },
   {
+   "src": "AFP",
+   "titre": "Warsaw says Russian missiles hit Poland, denounces 'intentional provocation' - AFP.com",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YY0ptNlhfeUJBWGpVMTZCMWlYclE1bmcxUW5FYkpIaHp1U3RxSTJOdTdCRDJjbjdwUFF6QmJOcHFYNFhOTUdVMm9rYw?oc=5",
+   "date": "2026-11-20T17:21:14+00:00",
+   "resume": "Warsaw says Russian missiles hit Poland, denounces 'intentional provocation' AFP.com",
+   "pay": false
+  },
+  {
    "src": "Le Club des juristes",
    "titre": "Cession - Le Club des Juristes",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZjVad0l5V0NuUmt5S1c2VWkxNmpJY1J0X1U3cnZwWGFqb0Z3bFNNU3NDM2phaXpkbE1JWlM4RjVseWo4NHpMb3l2Tk5EY0pwVjhBV29ocXBOdHZMdnhBRGFQVzhGMWozZnUzdFM2bnN4S0hZYWdtZnZOVWhXZXNXNlhhUklyeldyWERqc0M1MjJad3RrZ2c?oc=5",
@@ -2739,14 +2851,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTJodWVEUXNxOHNTeWljNEQ3TUI0VnpVOEdGczlKWEJ2cENVWGhLMDRsQlVUUG1qeVZFVDVDTW00b3IwSXNrd2J5c3VEVHlrSk9zWnlJekN3TzhvVkh6NWFPUGVSSlNVU3pTeXJMTUxxWkg3aGRzcWtHTFlqb3RTdjZMWk4tb1BpQVNJOTB0N1BNYWRoU3FGT0FRQVNBSTNtWkdkT3A2SlN5VFloRF94cFpYNHozZDZfcGhSMzFJZEo?oc=5",
    "date": "2026-11-20T17:04:28+00:00",
    "resume": "Le combat continue! Manifestation départementale mardi 17 novembre à 17h30 Place des Halles à Chartres fsu 28",
-   "pay": false
-  },
-  {
-   "src": "Révolution permanente",
-   "titre": "Bordeaux : faire de l'interpro un espace durable de solidarité et d'organisation - Revolution Permanente",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmU5eGN1cmZLLU9oYjM2cmJqWmZ6cm1YNElLZHBZVEp6VmtmT3dIbWZkOEJpeU1GMXlXNHhaWTVFOGpBOEVvQU8yRjVldnZCOVNtSlZIV2NCM0U0ZVhBd0RQcmlWc2cyNW9hUkMxV0lCa1BkVnJLcmp0VklTOE1Ybzc1X0t2REY1OERGZEFDQ29NRXp2Smk2bTZPSmozQkRwWW9MaGw3V2NxQWs4ajllWEI4LUx2cXI4eF9ad9IBvAFBVV95cUxNSmU5eGN1cmZLLU9oYjM2cmJqWmZ6cm1YNElLZHBZVEp6VmtmT3dIbWZkOEJpeU1GMXlXNHhaWTVFOGpBOEVvQU8yRjVldnZCOVNtSlZIV2NCM0U0ZVhBd0RQcmlWc2cyNW9hUkMxV0lCa1BkVnJLcmp0VklTOE1Ybzc1X0t2REY1OERGZEFDQ29NRXp2Smk2bTZPSmozQkRwWW9MaGw3V2NxQWs4ajllWEI4LUx2cXI4eF9adw?oc=5",
-   "date": "2026-11-20T17:04:15+00:00",
-   "resume": "Bordeaux : faire de l'interpro un espace durable de solidarité et d'organisation Revolution Permanente",
    "pay": false
   },
   {
@@ -2908,6 +3012,14 @@
    "date": "2026-11-20T16:30:00+00:00",
    "resume": "",
    "pay": true
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Bordeaux : faire de l'interpro un outil d'organisation collective des travailleurs - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTERabXFaQ214LVFJZjN6Uk9DaTZoV01OVnJLNk82SDJJUXpDdnVJU05kRkU5ZnV6a1FuMkduODVCNmZWLUx5aGdjcW1GdlA5aHp2cWt4Vkh1dTdxVFctVk5DZ3J0WnV0NjREZUZJbVBidHJWSmpCUkV1dlBTWXg5VnBtaDBwak4xeFM5aWYzVUNfQzdBYTNWX3A2c0h0R2xRdFhKeHVtOThXc3dZTVFHSWtmLW85X0lIQ0lFMEhjd1NwajRi0gHEAUFVX3lxTE1MRFptcVpDbXgtUUlmM3pST0NpNmhXTU5Wcks2TzZIMklRekN2dUlTTmRGRTlmdXprUW4yR244NUI2ZlYtTHloZ2NxbUZ2UDloenZxa3hWSHV1N3FUVy1WTkNncnRadXQ2NERlRkltUGJ0clZKakJSRXV2UFNZeDlWcG1oMHBqTjF4UzlpZjNVQ19DN0FhM1ZfcDZzSHRHbFF0WEp4dW05OFdzd1lNUUdJa2YtbzlfSUhDSUUwSGN3U3BqNGI?oc=5",
+   "date": "2026-11-20T16:26:41+00:00",
+   "resume": "Bordeaux : faire de l'interpro un outil d'organisation collective des travailleurs Revolution Permanente",
+   "pay": false
   },
   {
    "src": "Révolution permanente",
@@ -3907,7 +4019,7 @@
    "url": "https://www.blast-info.fr/articles/2026/gta-vi-les-salaries-de-rockstar-reclament-la-manette-vMAUFlLRRqSnFrNNhc609Q",
    "date": "2026-11-20T09:30:00+00:00",
    "resume": "Alors que le monde entier joue à GTA VI, son studio, Rockstar, est attaqué en justice pour le licenciement de 34 salariés, renvoyés en octobre 2025 alors qu’ils cherchaient à se syndiquer. Au même moment, une autre échéance se joue en interne : jusqu’au…",
-   "pay": true
+   "pay": false
   },
   {
    "src": "Libération",
@@ -3923,7 +4035,7 @@
    "url": "https://www.ldh-france.org/la-ldh-dans-les-medias-du-13-au-19-novembre-2026/",
    "date": "2026-11-20T09:27:40+00:00",
    "resume": "Télécharger la revue de presse de la LDH du 13 au 19 novembre 2026",
-   "pay": true
+   "pay": false
   },
   {
    "src": "LDH",
@@ -3931,7 +4043,7 @@
    "url": "https://www.ldh-france.org/la-ldh-dans-les-medias-du-6-au-12-novembre-2026/",
    "date": "2026-11-20T09:24:10+00:00",
    "resume": "Télécharger la revue de presse de la LDH du 6 au 12 novembre 2026",
-   "pay": true
+   "pay": false
   },
   {
    "src": "UNSA",
@@ -4675,6 +4787,14 @@
    "url": "https://paris-luttes.info/tdor-2026-21435",
    "date": "2026-11-19T22:30:00+00:00",
    "resume": "Rendez-vous à la Fontaine des Innocents à Paris à 18h (à confirmer) pour la journée du souvenir trans, à l'appel d' OUTrans , PASTT , AcceptessT , Collectif Insurrection Trans et du Flirt",
+   "pay": false
+  },
+  {
+   "src": "CFDT",
+   "titre": "Tous les outils de la campagne Élections fonctions publiques 2026 - CFDT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmlXanhRYmxvaW1RV3IteEtpN1ZubWUwYmtYNlRteXhTVlczNWhrQkpFQ2RCdEQzdUxwV01KcE10UzB6VEo2M0xSNVZzcTdMS0VoSFJwdnE3emZ6OTB6cDIyYnFiM3dsSUNETi04MDVtUWhUNEVKS0x5amt1V0haZF9kanN0dkd6UFpjWDFTb3BmZ2tMNy0zTEtxMkxoUHk5OVVRRDVXXzc?oc=5",
+   "date": "2026-11-19T22:20:32+00:00",
+   "resume": "Tous les outils de la campagne Élections fonctions publiques 2026 CFDT",
    "pay": false
   },
   {
@@ -5687,7 +5807,7 @@
   },
   {
    "src": "Mediacités",
-   "titre": "Vincent Bougamont laisse la direction générale de la Fabrique des quartiers à Sébastien Chambe, sans vraiment partir",
+   "titre": "Vincent Bougamont laisse la direction générale de la Fabrique des quartiers à Sébastien Chambe",
    "url": "https://www.mediacites.fr/breve/lille/2026/11/19/vincent-bougamont-laisse-la-direction-generale-de-la-fabrique-des-quartiers-a-sebastien-chambe-sans-vraiment-partir/",
    "date": "2026-11-19T13:30:29+00:00",
    "resume": "Le Conseil d’administration de la Fabrique des quartiers, chargée de la réhabilitation et de la requalification des logements dégradés ou vacants de la métropole européenne de Lille (MEL), a voté mi-octobre la nomination de Sébastien Chambe, comme nouveau directeur général. Depuis le 16 novembre, il succède à Vincent Bougamont que Mediacités avait épinglé pour ses méthodes jugées brutales par d’anciennes salariées, qui devient son adjoint.",
@@ -6083,14 +6203,6 @@
    "url": "https://reporterre.net/COP31-encore-un-defile-de-jets-prives-et-de-milliardaires",
    "date": "2026-11-19T10:57:09+00:00",
    "resume": "152 jets privés ont atterri à l'aéroport d'Antalya depuis le 7 novembre, avant-veille de l'ouverture de la COP31 en Turquie, d'après une analyse d'Oxfam révélée le 19 novembre. Si tous les passagers de ces vols ne participent pas nécessairement à la conférence, ce chiffre demeure dix fois plus élevé que d'ordinaire à la même période de l'année. Il est aussi plus de deux fois supérieur à celui enregistré par Oxfam lors de la COP30 au Brésil. Ces informations s'appuient sur les données de (…) Lire",
-   "pay": false
-  },
-  {
-   "src": "FSU",
-   "titre": "CDEN du 12 novembre 2026 - fsu15",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BS2xYVGhKWF9DTTVaaEUtVUdtWnZubThidXEwNm5XUVhMcFBsTjQ5dm1nWWZIRXpHVmNVaDNsTEFENko1UlJ5dWljNTBKUnRoUnhVeDVJaGY4dw?oc=5",
-   "date": "2026-11-19T10:52:08+00:00",
-   "resume": "CDEN du 12 novembre 2026 fsu15",
    "pay": false
   },
   {
@@ -6502,6 +6614,14 @@
    "pay": false
   },
   {
+   "src": "CFDT",
+   "titre": "Déchiffrage[s] : découvrez les chiffres-clés français, européens et de quelques grands pays du monde - CFDT",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYUdEeWlkcEFKSjdQUlljaUxsRVNDUUNwYUd5ck95cXgxRXJCSU5qbUROLU5sUThFcUllQTFuYmNDZjd5SUpnQXd5ZHZRU3Q5Z1BIYWdhVjZiX29OX3hHMUZFbEF3OUhmeWNVVGlxa0d5aERsV0dZNzBiOWR2Zjd1SXFBa3ktbEp2QVBxUFdjalVybjQwWjRiUzdaeEJYcm9uMHJKQWdUTmRET1lJNW9tSWVvRHIydEVRTlVtYTdGSVlQUVRQbjZ5Z3JxN1dLZHJCVmdJelk2aTNlNEFTeld6Sk5TQ3VMdTBk?oc=5",
+   "date": "2026-11-19T08:00:00+00:00",
+   "resume": "Déchiffrage[s] : découvrez les chiffres-clés français, européens et de quelques grands pays du monde CFDT",
+   "pay": false
+  },
+  {
    "src": "Acrimed",
    "titre": "Docu sur l'antisémitisme (France 5) : un chef d'œuvre de confusion et de relativisme",
    "url": "https://www.acrimed.org/Docu-sur-l-antisemitisme-France-5-un-chef-d",
@@ -6607,6 +6727,14 @@
   },
   {
    "src": "FSU",
+   "titre": "25 novembre : Journée Internationale de Lutte Contre les VIOLENCES FAITES aux FEMMES - fsu 44",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR3dWMlVNbkNTdXJhWlJNbDBLTlRZVjdYa1c0dkxuM25XSzI2a05adjRZVEdwT3dLNldRVldvWUdvcWRQbk5VRy1YSDhpRVRaZzZGU0NiNlBZWHdMb0c4NEFRS3NXb2t6LXZHR2oxUnFncnVFY3RpaVI1aVM2bjVxQXRFUFZTZkVKcHlBLThaRWc5emZxdUdMdDZIcDZGcURmNXpuMDM0SlJacEdxUVc5aXQ1VQ?oc=5",
+   "date": "2026-11-19T06:36:57+00:00",
+   "resume": "25 novembre : Journée Internationale de Lutte Contre les VIOLENCES FAITES aux FEMMES fsu 44",
+   "pay": false
+  },
+  {
+   "src": "FSU",
    "titre": "Nice : l’intersyndicale appelle à amplifier la mobilisation pour la justice sociale et les libertés - fsu 06",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUWFFYkd6eXBicE42bERMclRjd1RLeWl4Mnp6Q1pteldfOUxUeG5FOTFzZnIyTkVUdmNDNDZjUWFtR3B1WTExWks5enUwcU9pNFdRajBIa0E1YVBTV1RvU24yODBxZUpzeUNxazBOYVljcWJNcGVHTFU0cVJuLVJsTzF6S25hV3lPZXNVVUpGRngtQnNISDdYbEhQZHhESUFkMDZQM1gtN1lJNVdtYjdYYkFlZGUxcFpFUGc?oc=5",
    "date": "2026-11-19T06:36:25+00:00",
@@ -6643,14 +6771,6 @@
    "url": "https://madeinperpignan.com/prevention-inondations-pyrenees-orientales-elus-pluie/",
    "date": "2026-11-19T06:30:00+00:00",
    "resume": "Prévention des inondations dans les Pyrénées-Orientales : Les élus négocient avec la pluie ? par Mona Bru Sur MADE IN PERPIGNAN - Site information et actualité - Politique Économie Société Culture Pyrénées Orientales INONDATIONS PYRENEES-ORIENTALES PHILIPPE \" data-large-file=\"https://i0.wp.com/madeinperpignan.com/wp-content/uploads/2026/11/INONDATIONS-PYRENEES-ORIENTALES-PHILIPPE-01-2011-11-21.jpg?fit=1024%2C682&ssl=1\" /> Construire avant que l’eau ne monte. Les villes de la communauté urbaine P",
-   "pay": false
-  },
-  {
-   "src": "CFDT",
-   "titre": "- CFDT",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMi1kZmFQdnhNREZSZWxieldZcWNUeEFDWGlzOUdrcGdPSXJJMVQtVFVnMVNLSEhjeTFMaWRKWVJsejR5Qi00Z2R6NjlMbVZrVjJFMkZjR3BtNDJqUE9qRG43SkNjMGM5Z1dSdmpCU2tONzV1TUJLaExlN1JwTFNSSTVUZlN2QTEzak1VMFg1ZnZjWUNUMTVhS1FoVUNLQnFrWDNpRE4zUjlrUHhaOVZTLWVtRTgtQUdzLXlEMXAtSUVQTnVCOEZHUXpNN3EtaGtHYS1EcHFPbjNZbXd5b082dzNjUU84MVk?oc=5",
-   "date": "2026-11-19T06:25:22+00:00",
-   "resume": "CFDT",
    "pay": false
   },
   {
@@ -7638,14 +7758,6 @@
    "pay": true
   },
   {
-   "src": "Politis",
-   "titre": "L'Espagne va-t-elle basculer ? - Politis.fr",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiOUVVS2IyeUV6THY0ZlVweTFmYnRSd1Rjc1pEZlp2bkRLeHVPSnY0b0hXRW90anJ6S3pFWE9mNzk0NW9iSTE1a2JRdDhYT0NyTHozOG5TWTVUT3ppOFRWNGZ5anptYllZQ1ZCeQ?oc=5",
-   "date": "2026-11-18T14:47:44+00:00",
-   "resume": "L'Espagne va-t-elle basculer ? Politis.fr",
-   "pay": true
-  },
-  {
    "src": "LDH",
    "titre": "L’État de droit en péril : le démantèlement des contre-pouvoirs. De l’espace civique à l’indépendance de la justice",
    "url": "https://www.ldh-france.org/echos-du-colloque-organise-par-la-ldh-et-la-fidh-le-12-novembre-2026-a-lassemblee-nationale/",
@@ -8188,126 +8300,6 @@
    "date": "2026-11-18T09:42:52+00:00",
    "resume": "Frédéric Souillot : « Augmentations de salaires : du concret et vite Force Ouvrière",
    "pay": false
-  },
-  {
-   "src": "Arrêt sur images",
-   "titre": "7/8, 18 novembre : \"Caution de gauche\" de BFM ? Corbière répond",
-   "url": "https://www.arretsurimages.net/emissions/le-7-8-la-matinale-dasi/7-8-18-novembre-caution-de-gauche-de-bfm-corbiere-repond",
-   "date": "2026-11-18T09:42:12+01:00",
-   "resume": "",
-   "pay": true
-  },
-  {
-   "src": "Conseil national des barreaux",
-   "titre": "Paris 8ème, rue Boissy d'Anglas : sous-location de deux bureaux (10,65 m² et 19,52 m²) à partir de 1.200 € H.T. charges comprises - Conseil national des barreaux - CNB",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVzNidVVhNjNJOWh6QnB5VHJ0QTlUSmJsZVJvRHdVWHUtU194Yy1nck9ublAwZFNVbFhfcUlCazg0dmVLU3ZWNDk1NWJkbDVQakVXRThNS1IzVzZTNjBOMV9qc2QzN2UtOGxkUGl4NU01SGhsQW16YUVyaEtudlRLU2VxTjUyNW15YlNQNjdSSzNtNW1FMFhNRmlZXzhGdnluci1hOWhFZ2lGczd3bG1pc3B3N1JQU0N0RWN4cXhuNzk5aTVVd056U2c3TTNDc1laLTU2TklZejg3YlI2c1dYdGZ1RTJEc3VvR2Nv?oc=5",
-   "date": "2026-11-18T09:37:26+00:00",
-   "resume": "Paris 8ème, rue Boissy d'Anglas : sous-location de deux bureaux (10,65 m² et 19,52 m²) à partir de 1.200 € H.T. charges comprises Conseil national des barreaux - CNB",
-   "pay": false
-  },
-  {
-   "src": "Next",
-   "titre": "NVIDIA tente de rassurer sur l’après Jensen, sur fond de résultats records",
-   "url": "https://next.ink/268155/nvidia-tente-de-rassurer-sur-lapres-jensen-sur-fond-de-resultats-records/",
-   "date": "2026-11-18T09:37:00+00:00",
-   "resume": "NVIDIA a dépassé les prévisions en annonçant mardi 17 novembre un chiffre d’affaires de 115 milliards de dollars pour le troisième trimestre de son exercice fiscal 2027, en hausse de 103 % sur un an. L’entreprise, chahutée depuis le départ de son cofondateur et CEO Jensen Huang, assure qu’elle va maintenir sa trajectoire de croissance, […]",
-   "pay": true
-  },
-  {
-   "src": "CGT",
-   "titre": "Séminaire des mandaté.es CGT dans le groupe Action Logement 20 et 21 octobre 2026 - Analyses et Propositions - CGT",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUkJXQzhDbVRmZjRMam1qSnpqcG1FanpWLTlSNVNGdWVlVVczODhaWHRFaUNlQkU4ZG80WlJLc2Z3VDlNbjJFMjd4Vm9kSHpFZXIyeU5hZF9VSWpFN1o2QVJRVXZIQnZoQmRSTHRmemc2b25UV2RaanhpYnpfLW9zdDNMQUFxbzJRQVdkaDgwWWdDYW5XdVFiT3NpVXhMYXg0V1V1SFVkSWdEVHdNWlhNVU1CdGJCc1B2?oc=5",
-   "date": "2026-11-18T09:34:26+00:00",
-   "resume": "Séminaire des mandaté.es CGT dans le groupe Action Logement 20 et 21 octobre 2026 Analyses et Propositions - CGT",
-   "pay": false
-  },
-  {
-   "src": "CGT",
-   "titre": "Victoire juridique pour les salarié·es d’E. Leclerc - CGT",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWtlM2VJNmxES0p0M1pEWVVObDRhN2pYWDd6OGREYnc5cEVLUF9LQ0d4aVRtUXo5b0pqOUx4Y2h4NDlleGs1Q2Mxb3NDdG8xcWxPa1BtY3RZNHRvakczek9DVjU2UlNUUDNPODh0eXZHUF9iZDFLdFZrWjB1QjNKbEZ0R2ZMY3Zjc0I3Q25UU0R6cTIyX05Zd29rZWJ6WlpnMF9Fczhaem9raUg0eEVueGcwN21ZeWdD?oc=5",
-   "date": "2026-11-18T09:14:50+00:00",
-   "resume": "Victoire juridique pour les salarié·es d’E. Leclerc CGT",
-   "pay": false
-  },
-  {
-   "src": "Euractiv France",
-   "titre": "Mi-mandat : Un député européen slovène controversé rejoint les Patriotes d’extrême droite",
-   "url": "https://www.rapporteur.com/fr/news/mi-mandat-un-depute-europeen-slovene-controverse-rejoint-les-patriotes-dextreme-droite/",
-   "date": "2026-11-18T09:12:49+00:00",
-   "resume": "L'arrivée de Branko Grims aidera les Patriotes à conserver leur avance sur le CRE The post Mi-mandat : Un député européen slovène controversé rejoint les Patriotes d’extrême droite appeared first on Rapporteur FR .",
-   "pay": false
-  },
-  {
-   "src": "CGT",
-   "titre": "11e journée de manifestations et encore plus de 500 000 manifestant·es ! - CGT",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNczdEQUhJVGxUUWhlN0N6ZDRNcGRsaTdwWU9wYmRWcmx2TmkzalRmaWk0TEhROWd1ZjU3QlBudVRUdTJmUERRellDaVZBczlSZ0drYmFjOHVOd2ZGMlNuZlkydlJaZF9YcmxPY2NCQWJGbnVfZVcyWVFFNXN5c18zMFR5RXBHUERjenZHRzlYRy1Dam9VWnRRMHFwQkd4dUtHbHNYS3R3?oc=5",
-   "date": "2026-11-18T09:09:51+00:00",
-   "resume": "11e journée de manifestations et encore plus de 500 000 manifestant·es ! CGT",
-   "pay": false
-  },
-  {
-   "src": "CGT",
-   "titre": "Semaine européenne pour l'emploi des personnes handicapées - CGT",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUQ0a25kOUFRV0d3TlgwZVZwRHlLMnNmNDJ2bW90Ym91SDV6Zm1aQTNHRkgxdjJhMHFBUUlSdzQ1RHNBMG56T2JrYVFGQkpwZHE0TXY0bnl3V3hfT3ZJZ0NuSXhOM0c4eGNPX2dLbzJ5QnlVcGVWSWdpc0JiTjhIc0E5Ykk3NUVxQVBKNE41UWMwdHNrakhkaDlOSkVEcEdDczNRenh3?oc=5",
-   "date": "2026-11-18T09:04:48+00:00",
-   "resume": "Semaine européenne pour l'emploi des personnes handicapées CGT",
-   "pay": false
-  },
-  {
-   "src": "Next",
-   "titre": "Fibre optique : après le déploiement, le déchirement",
-   "url": "https://next.ink/268128/fibre-optique-apres-le-deploiement-le-dechirement/",
-   "date": "2026-11-18T09:04:22+00:00",
-   "resume": "Que se passe-t-il dans le monde de la fibre optique ? L’Arcep consulte sur les coûts d’entretien des réseaux d’initiative publique et s’attire les foudres d’une bonne partie des acteurs. Des associations d’élus montent au créneau et sont prêtes à dégainer un recours devant le Conseil d’État ; la main est déjà sur la gâchette. Pour […]",
-   "pay": true
-  },
-  {
-   "src": "La Relève et la Peste",
-   "titre": "Face à une corruption massive, la Pologne et la Hongrie ont viré l’extrême droite du pouvoir",
-   "url": "https://lareleveetlapeste.fr/face-a-une-corruption-massive-la-pologne-et-la-hongrie-ont-vire-lextreme-droite-du-pouvoir/",
-   "date": "2026-11-18T08:53:54+00:00",
-   "resume": "Les scénarios observés en Europe centrale démontrent que l'exercice du pouvoir par l'extrême droite se traduit irrémédiablement par un affaiblissement institutionnel, un corruption massive, une polarisation de la société et un isolement diplomatique. Cet article Face à une corruption massive, la Pologne et la Hongrie ont viré l’extrême droite du pouvoir est apparu en premier sur La Relève et La Peste .",
-   "pay": false
-  },
-  {
-   "src": "Euractiv France",
-   "titre": "Les pays de l’UE font pression pour exclure la Russie de la Biennale de Venise",
-   "url": "https://www.rapporteur.com/fr/news/les-pays-de-lue-font-pression-pour-exclure-la-russie-de-la-biennale-de-venise/",
-   "date": "2026-11-18T08:50:39+00:00",
-   "resume": "La Pologne mène la croisade contre la participation de la Russie à la Biennale d'architecture de Venise The post Les pays de l’UE font pression pour exclure la Russie de la Biennale de Venise appeared first on Rapporteur FR .",
-   "pay": false
-  },
-  {
-   "src": "Là-bas si j'y suis",
-   "titre": "LA RUE TIENT BON, LA COLÈRE CHANTE !",
-   "url": "https://la-bas.org/10322",
-   "date": "2026-11-18T08:50:02+00:00",
-   "resume": "GAZER, COGNER, MÉPRISER : LES CHIENS DE GARDE COMMENCENT À SE LASSER Plus de mille CRS se sont fait porter pâles pour les manifs de ce 17 novembre. Leur façon de faire la grève à laquelle ils n'ont pas le droit. Cogner des gamins, gazer des gamines, parquer des syndicalistes, réprimer des gens en lutte contre la vie chère, des gens comme eux, des retraités comme leurs propres parents, on comprendrait que tous ces flics mettent la crosse en l'air. Qu'ils disent basta. C'est le contraire qui étonn",
-   "pay": false
-  },
-  {
-   "src": "Reporterre",
-   "titre": "« On veut le mettre hors circuit » : la répression s'acharne sur Loïc, le « poète maraîcher »",
-   "url": "https://reporterre.net/On-veut-le-mettre-hors-circuit-la-repression-s-acharne-sur-Loic-le-poete-maraicher",
-   "date": "2026-11-18T08:49:33+00:00",
-   "resume": "Arrêté lors de la manifestation du 7 novembre, le militant écologiste Loïc Schneider a l'interdiction de paraître à Nancy jusqu'à son audience prévue le 11 janvier 2027. Il dénonce des mesures liberticides sur fond de répression policière et judiciaire du mouvement social. Malzéville (Meurthe-et-Moselle), correspondance Ce samedi 7 novembre à Nancy, Loïc Schneider, fervent défenseur de la liberté d'expression, tient à être présent à la manifestation à Nancy. Le militant écologiste a déjà (…) Lir",
-   "pay": false
-  },
-  {
-   "src": "Le Club des juristes",
-   "titre": "Pourquoi Gérard Depardieu s’est-il désisté de sa procédure en appel dans le dossier d’agressions sexuelles des « Volets verts - Le Club des Juristes",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPLWNidWZCR3VaNGJ2U0Y5WFViQndIQVdwOXpZRW11dkFDX21DQ1l2NFRJbFp4S1ZDZUUwSUpOVzFuWFJFSEZ4YnAzU1l5YnNRSjBhQThUcFBKMHZzRTMyUjdMUTZ6SUNleVVJUFFiN0xfZnRVdVE3LWl0cFdzSU9FdWZTVlV0bG5US0lyXzJMdE4xU09uMm1IYllZQzE3Vjc3TWpSZXYxZVR0YVUxdEVmSGtleEtaaFFWTmtUZVZNakRrOUpkdGo2Z1VDNlNNUVhZWk9FdXpPTU15Z3lVb29ZV1VNSk1wYVRuS0RoWjlyTFVaaTByTVNVQVBFX2FabnM?oc=5",
-   "date": "2026-11-18T08:41:31+00:00",
-   "resume": "Pourquoi Gérard Depardieu s’est-il désisté de sa procédure en appel dans le dossier d’agressions sexuelles des « Volets verts Le Club des Juristes",
-   "pay": false
-  },
-  {
-   "src": "CGT",
-   "titre": "Appel de la FNPOS CGT à la grève le 17 novembre 2026 ! - Fédération des Organismes Sociaux - CGT",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa2xrT3kxSmE0MHpRekNXLUtYc3g4NVgzVmliX1pCTnJzWkxOWFRWWk1MTDI5LWVnRDBxdEsxT0lFSjVla3BEOWhwbDJ3Z0Z1eWVLREdFR0x6TjNtYmJvRWtrSXdrV2swSW1Ycmh2akwyZk9vcUtuVElmT29MRjh4aDN5cF9NMUxsaFp6aGRsdnhYclFFUHA0?oc=5",
-   "date": "2026-11-18T08:38:50+00:00",
-   "resume": "Appel de la FNPOS CGT à la grève le 17 novembre 2026 ! Fédération des Organismes Sociaux - CGT",
-   "pay": false
   }
  ],
  "errors": [
@@ -8325,11 +8317,6 @@
    "src": "Amnesty International France",
    "feed": "https://www.amnesty.fr/feed",
    "erreur": "ParseError: not well-formed (invalid token): line 245, column 14"
-  },
-  {
-   "src": "Fondation Abbé Pierre",
-   "feed": "https://news.google.com/rss/search?q=site%3Afondationabbepierre.fr%20when%3A4d&hl=fr&gl=FR&ceid=FR:fr",
-   "erreur": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  ]
 }
