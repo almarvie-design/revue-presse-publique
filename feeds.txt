@@ -93,3 +93,7 @@ Reflets.info|https://reflets.info/feeds/public
 Orient XXI|https://orientxxi.info/spip.php?page=backend&lang=fr
 La Déferlante|https://www.revueladeferlante.fr/feed/
 Alternative Libertaire (UCL)|https://www.unioncommunistelibertaire.org/spip.php?page=backend
+Rue89 Strasbourg|https://www.rue89strasbourg.com/feed
+Rue89 Lyon|https://www.rue89lyon.fr/feed/
+Marsactu|https://marsactu.fr/feed/
+Le Poulpe|https://www.lepoulpe.info/feed/
