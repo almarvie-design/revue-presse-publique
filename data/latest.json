@@ -1,15 +1,15 @@
 {
- "genere": "2026-11-22T08:11:07.624520+00:00",
+ "genere": "2026-11-22T08:35:46.942298+00:00",
  "jours": 4,
- "nb_articles": 936,
- "nb_flux": 110,
- "nb_erreurs": 3,
+ "nb_articles": 1038,
+ "nb_flux": 113,
+ "nb_erreurs": 4,
  "articles": [
   {
    "src": "franceinfo",
    "titre": "Mobilisation du 21 novembre : le ministère de l'Intérieur annonce 144 interpellations en France, selon un bilan provisoire à 18 heures",
    "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-%5Bsociete%5D",
-   "date": "2026-11-22T09:08:57+01:00",
+   "date": "2026-11-22T09:34:51+01:00",
    "resume": "Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
    "pay": false
   },
@@ -30,6 +30,22 @@
    "pay": false
   },
   {
+   "src": "AFP",
+   "titre": "L’extrême droite au sommet de l’État en Espagne ? - AFP.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzhpcktpVHg5RlE1T1d1YkJLRHd3NE16WXp3WWs4dnhGblMtSGlyWTJhNjdhTlVtZWFVMmd0ZFlHRTNhM0h1VWRCSV9hVmFqTGk2cTZORUlMVEtwMEVCYW80aXJkSUlJQll1RFNrYTFZeU4zWGRXMUN3QUhoZjlzc240RDdMaFJ0OGY4a1g4NVctaFJVMC1GU2xZQk9lakdHMW44ZWZSaw?oc=5",
+   "date": "2026-11-22T08:21:31+00:00",
+   "resume": "L’extrême droite au sommet de l’État en Espagne ? AFP.com",
+   "pay": false
+  },
+  {
+   "src": "France Inter",
+   "titre": "Convention citoyenne sur les finances publiques, \"accélération bleue\" et Black Friday au programme de Verso.",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/recto-verso/verso-du-dimanche-22-novembre-2026-1051670",
+   "date": "2026-11-22T08:12:40+00:00",
+   "resume": "Claire Thoury, Guillaume Pitron et Charlotte Lemay sont les invités de ce dimanche.",
+   "pay": false
+  },
+  {
    "src": "Courrier international",
    "titre": "L’abondante littérature de nos élus",
    "url": "https://www.courrierinternational.com/article/sacres-francais-l-abondante-litterature-de-nos-elus_288895",
@@ -44,6 +60,14 @@
    "date": "2026-11-22T08:00:00+00:09",
    "resume": "Alors que la défiance envers les chaînes info atteint des sommets, ces médias sont-ils capables d'autocritique ?",
    "pay": true
+  },
+  {
+   "src": "Force ouvrière",
+   "titre": "L’inFO militante - Force Ouvrière",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00dE9OelBsanpPb0ZjbEdXUkVpVnp2VVlua2kwMlFGVWgxV0Zrelpmb3kzVFlJRWVVTnkyS2Z0MDd1djhMTDVWRnRRQzFUY3I1SmFOVVA1bmdfdUJI?oc=5",
+   "date": "2026-11-22T07:59:59+00:00",
+   "resume": "L’inFO militante Force Ouvrière",
+   "pay": false
   },
   {
    "src": "Libération",
@@ -95,11 +119,11 @@
   },
   {
    "src": "France Inter",
-   "titre": "Le grand entretien du dimanche 22 novembre 2026",
+   "titre": "\"Le pouvoir de quelques-uns\": Nora Hamadi alerte sur l'émergence d'une \"techno-oligarchie\", notamment aux États-Unis.",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-8h20-du-week-end/le-grand-entretien-du-dimanche-22-novembre-2026-8934864",
    "date": "2026-11-22T07:21:40+00:00",
    "resume": "La journaliste et autrice Nora Hamadi et l'essayiste et ancien haut fonctionnaire Raphaël Doan débattent au lendemain d'un sommet contre l'oligarchie internationale autour de l'économiste Gabriel Zucman.",
-   "pay": true
+   "pay": false
   },
   {
    "src": "France Inter",
@@ -286,6 +310,14 @@
    "pay": false
   },
   {
+   "src": "Politis",
+   "titre": "France Télévisions investit moins dans le cinéma - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPck5lVHNvdzdjcUhvTkdIMERTcjhsZE5uX1VpUll1bHY2STRIcXlqTERHOVg4eU5Fd0JzZl9HNmZQU2FrZ0dDMUh4djlzb0szb01QUkdfY1ExelViTkhqUFl1dEZ4Tm1XcGJ0REpxTXFpcDVpMlJJSHlSbVp6T2RLTnJlZW5NVEQtckFHZzBtVEJkVzg?oc=5",
+   "date": "2026-11-22T06:12:05+00:00",
+   "resume": "France Télévisions investit moins dans le cinéma Politis.fr",
+   "pay": true
+  },
+  {
    "src": "France Inter",
    "titre": "La collection « Fragments » réalisée par Aurélie Sfez",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/les-80/les-80-du-dimanche-22-novembre-2026-6881796",
@@ -454,6 +486,14 @@
    "pay": true
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Industrie textile - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Yk1nUzZmdHdaOThTU0FyVm5DSEZpcHNkOFFjVXdjYTRrRjFsLTBUaWNzVXhmWjg2T2RFWUZrTkVnaUlhLTQ4LUxvWDQxek9sTkdHTVdWcG4tcXEtcGlDaklNOA?oc=5",
+   "date": "2026-11-22T02:35:49+00:00",
+   "resume": "Industrie textile Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "AFP",
    "titre": "Myanmar guilty of genocide against Rohingya, says top UN court - AFP.com",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83TUVlcWlQdXhqZWRZOHlXNjJXa2lYaFRmdzMtbDloTVVZTERaMm14M1NKSzZ1RDlxTk94MzY3VTBCZW96ZzZNYkdEQQ?oc=5",
@@ -468,6 +508,14 @@
    "date": "2026-11-22T01:17:23+00:00",
    "resume": "Wilson elated as Wallabies beat Wales to snap losing run AFP.com",
    "pay": false
+  },
+  {
+   "src": "Politis",
+   "titre": "Auchan, même pas honte… - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QTERPUGNVNnF2VEM5cmxFb2lZeVdUSEtaRXB6bXZyY21hSGhrMjlrQ0t2ZUJtMVRXUElBaDNZTXlZRGpvZ1pIcWFja2VDMVpIMVNSdWFIUnJqTW41RmN0WHJFY056UXd2N3h3M0VNcw?oc=5",
+   "date": "2026-11-22T01:07:30+00:00",
+   "resume": "Auchan, même pas honte… Politis.fr",
+   "pay": true
   },
   {
    "src": "France Inter",
@@ -838,20 +886,20 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "[🔴 EN DIRECT]. De la RÉVOLTE à la RÉVOLUTION : MEETING de RP avec Anasse Kazib, Elsa Marcel... - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT05rVjFrX3JXREpiOFBobGw3MUY4NjNldDV1U1NFSkxuU2JuZ0swdlB4U01kWHRFRTJCbFVnRzBhUWE3Tk12R2xUNTgyUlpiV3hFcjE1eks4bkY4ODVZRU9PNUZieTVwTW5EM3RTNHZCNWFqR25HU3JmY2ZydHNzZ0E2c3ZESi0tSkdRMXhiOE9nVTJEaUdDaEoyQTdWNnVRbXFqRjBWVW16bmdiOU5OUUV4NjRDMFVNU3JlRUQta2ZsNUR1dkhObw?oc=5",
+   "date": "2026-11-21T17:25:54+00:00",
+   "resume": "[🔴 EN DIRECT]. De la RÉVOLTE à la RÉVOLUTION : MEETING de RP avec Anasse Kazib, Elsa Marcel... Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "Mediapart",
    "titre": "Philippe Sands: «Il a fallu quatre-vingts ans pour qu’un État soit reconnu coupable de génocide»",
    "url": "https://www.mediapart.fr/journal/international/211126/genocide-des-rohingyas-reconnu-contre-l-etat-birman-c-est-un-moment-cle-la-hauteur-de-nuremberg-et",
    "date": "2026-11-21T17:23:56+01:00",
    "resume": "La Cour internationale de justice a jugé la Birmanie coupable de génocide contre les Rohingyas. L’avocat franco-britannique Philippe Sands, grand spécialiste du sujet et qui a participé à la procédure, revient sur cet arrêt historique: pour la première fois, un État est condamné.",
    "pay": true
-  },
-  {
-   "src": "France Inter",
-   "titre": "Il y a 100 ans, Agatha Christie disparaissait",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/dans-le-detail/alix-van-pee-dans-le-detail-du-samedi-21-novembre-2026-3093913",
-   "date": "2026-11-21T17:21:40+00:00",
-   "resume": "Il y a 100 ans, Agatha Christie disparaissait, au sens propre. Elle s’est volatilisée pendant onze jours avant de réapparaître dans le nord de l’Angleterre. Alix Van Pée en profite pour nous parler d’un détail, d’un de ses romans.",
-   "pay": false
   },
   {
    "src": "Courrier international",
@@ -884,6 +932,14 @@
    "date": "2026-11-21T17:07:29+01:00",
    "resume": "Venus des États-Unis, du Japon et de Chine , trois lycéens racontent à “Die Zeit” leurs expériences en Allemagne : la nature, les professeurs qui écoutent, les repas froids… Ces échanges scolaires se font pourtant de plus en plus rares.",
    "pay": true
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "« L'incarcération des mineurs est un traumatisme d'État » : Lise Brygo, pédopsychiatre - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzBFYWFFRFVLM3g0VEZjYzRjZHd3bHE2UGlWWEhGRFBRMDhEZVctc3UzNzZiMWlzdi1kalQ0Vksyai1GUTdKa3puNFd1a3BxRGhsRDg1TlZUWmxwX1lVdXMydVFzSXBxcjJFcnFWSzRDd2QzWTFXYWt3cmhILW9yZnA5VWdqWjY1TDg4aFhCRlcwdUxXelN0VjA1Z05DanQ3RDZlWlRjcVNqcEtReWlZOWJjMnB4UdIBvgFBVV95cUxPbjJVMnB5RGtrdnFmaUM5M3JJYlNoR0RZNHJoOEMyTGtPN1daT2dSRHhJeFF0ek9jbHk3d21Lbi1mb1ZaQkdfT0ZlVE1xUHZCWVFIV1p3OHdndkRJM0x0VGxnRnAxTTNmdWUwaUp6bTNXZE9QSFZMX1ltcWE2aUlTMTcyVHhmcC1CVWQ5WDdBT0NfM3RNczF5eW53blBheV81eHZOLVFXVkZ6bXkzSDhGbXpuQXczY3lPTGNjLWtn?oc=5",
+   "date": "2026-11-21T17:05:50+00:00",
+   "resume": "« L'incarcération des mineurs est un traumatisme d'État » : Lise Brygo, pédopsychiatre Revolution Permanente",
+   "pay": false
   },
   {
    "src": "La Croix",
@@ -940,6 +996,14 @@
    "date": "2026-11-21T16:38:27+01:00",
    "resume": "Le navire, identifié comme le “Sparta II”, utilisé selon les services de renseignement ukrainiens pour transporter du matériel militaire russe, aurait été ciblé par des drones dans le golfe de Finlande. L’attaque n’a pas été revendiquée, mais le Premier ministre finlandais a très vite réaffirmé le droit, pour l’Ukraine, “de se défendre contre son agresseur” russe.",
    "pay": true
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Contre la venue de Macron à Toulouse : Appel à un rassemblement ce lundi - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1Exc1hsb1oxRWllUnd5dzEwUTExSjRnYzZTR3RselV5Z2NYbzBQT2JqS0NzMGc5cTdab3VZZHBadjZ2dk82a1Rkd2daWTNkcVFuLU02bFFzN0dnUy0tUy11M2VrYzNrN0FiVERXOFlXYUhRZlp6OU41VDBnN3ppa2o2dTR5UGZFQmtUbFVmSGtCbDQ5Z25XS3MtSlVRckZRM3VVUThFM3dpc0RMN2xNcWZ30gGyAUFVX3lxTE9rUTFzWGxvWjFFaWVSd3l3MTBRMTFKNGdjNlNHdGx6VXlnY1hvMFBPYmpLQ3MwZzlxN1pvdVlkcFp2NnZ2TzZrVGR3Z1pZM2RxUW4tTTZsUXM3R2dTLS1TLXUzZWtjM2s3QWJURFc4WVdhSFFmWno5TjVUMGc3emlrajZ1NHlQZkVCa1RsVWZIa0JsNDlnbldLcy1KVVFyRlEzdVVROEUzd2lzREw3bE1xZnc?oc=5",
+   "date": "2026-11-21T16:33:01+00:00",
+   "resume": "Contre la venue de Macron à Toulouse : Appel à un rassemblement ce lundi Revolution Permanente",
+   "pay": false
   },
   {
    "src": "Le Grand Continent",
@@ -1099,6 +1163,14 @@
    "url": "https://www.humanite.fr/societe/manifestation/mouvement-lyceen-une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-lors-de-la-manifestation-du-31-octobre",
    "date": "2026-11-21T15:11:34+00:00",
    "resume": "Le parquet a ouvert une enquête à la suite des plaintes de deux manifestants, interpellés lors de la mobilisation du 31 octobre dernier. Les deux jeunes hommes sont par ailleurs accusés de violences sur personnes dépositaire de l’autorité publique, ce qu’ils contestent.",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "21 novembre : le Festival de la non-violence à Paris - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWFDQTJDVkpRa2VLVGlDYkNmZXdpZWZqeU1ZdTJyOTlGdFBoUDU4Q1hNSlJVQjRieFNSaVpwRUplQXV2NGYwbElueUFycGl6Z2ppcVEzaDFDcks2WHd6akM4b09HaXlPNVc5RzZXcnlaOVVscE1IWXZXWU1PQTkyOV9MdG1vcW1pMVJyN3lfRkNfdDRKQWc?oc=5",
+   "date": "2026-11-21T14:54:16+00:00",
+   "resume": "21 novembre : le Festival de la non-violence à Paris Politis.fr",
    "pay": true
   },
   {
@@ -1414,6 +1486,14 @@
    "pay": true
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Blocus lycéens : un télégramme ministériel pour systématiser la répression - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFl0ZXBpS1I4MTczSzlGUDR4NXFtOWcwc1pUMFVqbHhiUXJvdzY0cmxHU2R1WklteThXZm1GZzBWTEFPeGVuQVJDckxibUlydVV6bm9OQTUtTl8xTUZ6RHIyZ013UWdpZ0FSSF96VXZDQnhENEhmbTdCdHdJYkVKLWVxUFlYTmladG81V1JPRkFraV9xajJnSnJWekh3a25WU1RHZ2s1X2dsa0pt0gG0AUFVX3lxTE1kN090OGxrYjZJZF9La3pwZVVobUF1bTdhTDRub1p1UHBVajhHMXR1V3l0QVdpOGF2b21GS2NnR0RCdFBjQVBDZk1hU2FMVFlTNGpRU0tqUHc3XzFjM3h4emIwY1NmZ3hCSWpXZjRzZk9iT3FMWUNsUzljeGNoNnExMHZYZUxIdVZ4ZjhaUUY5LUN0LXlZNGxWZVBOb1I2YkNMd2dLWXU1Y25DWmlKc0d2ZlNEMA?oc=5",
+   "date": "2026-11-21T10:51:49+00:00",
+   "resume": "Blocus lycéens : un télégramme ministériel pour systématiser la répression Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "franceinfo",
    "titre": "Préfet soupçonné de fuites vers le RN : \"Il doit être mis à pied\", estime la députée écologiste Sandrine Rousseau",
    "url": "https://www.franceinfo.fr/france/centre-val-de-loire/loiret/prefet-soupconne-de-fuites-vers-le-rn-il-doit-etre-mis-a-pied-estime-la-depute-ecologiste-sandrine-rousseau_8293574.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -1508,6 +1588,14 @@
    "date": "2026-11-21T10:12:30+00:00",
    "resume": "Dans son dernier ouvrage, le journaliste Éric Rohde se propose de revenir aux origines de la prétention occidentale à conquérir le monde et l’attribue à un discours chrétien qui élève les hommes aux rangs de dieux.",
    "pay": true
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "20 novembre : de l'Italie à la France, la jeunesse européenne se mobilise contre la militarisation - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmkyY3V0VWFMWVNSYzJ1Y0pvam5XUXNxSnJvQURoNk9SMGFxcEtUcE93T3B6UUlyQl9zdHdDVnk3dXdmbldyWDFicHRmb3JUZWFKQXd1MVp3SHhqMmN0UmlZTDNvT2NSZFhzbWhNc1NXN2xhZG83YUVIeFVoS2JrWWFUU2VMU19vanRHYlM0ZHZzNzJ1VVp5bEMwb3ctZGZBcnc0RWw5V3BRaTNKTjU3YmhxaEZ5Ul94TG9GVGhRYUQwOWh6Q2VQTTUtd9IB0wFBVV95cUxQRFRST0Y5alFpdnQ2ODhQR1lCclhDemJnVDUtQzFqeVdaOFRiOFpuLUFaNnFUTFJGaHJTN0N6em8zZTFPM2hTUndKanNTLXBGNTdxbWdoZThwcHFSMXlmY0hTWWpiY19iYWwtSVJOSUhRUE9RMDJ0Q0pfa3RWdnlvRm1PeWdOY2JMNHNYbkZJZUZKOXliUHVZTWUtamNpa3FfQlJicjJKekVWblRNYWpKcUlpeVA4Y3RrM05OWmZnbzNhZ01RSHZ5dElkOFFBUjJNMmhF?oc=5",
+   "date": "2026-11-21T10:01:34+00:00",
+   "resume": "20 novembre : de l'Italie à la France, la jeunesse européenne se mobilise contre la militarisation Revolution Permanente",
+   "pay": false
   },
   {
    "src": "franceinfo",
@@ -1619,6 +1707,22 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQjBHaHRiV2NTblhEWVdzSDhxRER3LXlnLUlUZ29NMlBLX1Y0YVdVc2Q0Z1FUU3BnRTgwVVlCY1VnYUMycGhkekFHT0ptOS1wZXJ6S0lKZW15LWQ1NVRoVUdPUGtsb2VPNG5ONm9YYk1oaTF5WmU1bmZ5cWdMUXprQlhneHRKM1BZQjdxbXh5cm5MVllMMjd0ejZLUm9XTnFXcmZ4c3BMdkpHRVZYZXl0TGc4MWJQMWJibmRfc2JGSmpxR1dCclBqTVJpOVlNU2JlaWFaXzRVeERuOFk?oc=5",
    "date": "2026-11-21T08:58:34+00:00",
    "resume": "Le 28 novembre, contre les violences faites aux femmes, pour une loi intégrale, un budget intégral et des droits pout toutes fsu42",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Tunisie. Les autorités durcissent l’offensive contre les droits humains en condamnant à nouveau Sihem Ben Sedrine, cette fois-ci à cinq ans de prison - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWVZaM1dBNDFBUVU3ZUJpdE9GcktqVzluR19XRHZzWVNBaGZLQ2tzYlVoVmlZY1htU1pkNU1iWnpGNzEtU3VXZ3FOVVBjbzE3TGhwN2thR0ZPVmZ6djdrUUVLY2gyRUhQVTdweG5WMEN0ZEZzY1E1UENXV3J1S1ktbGI5WHhiVVNmQklkOExZOV9iX0UyeUpLdTlDUXBvYkJXUVhaZ0ZnY19MNXR2bjBiNE56WXBBN1Jsc0c3YzRHQkxwcTlSTUVmektXY1NXRWZDMnF0T2VrRjRYbzFiUGJ2MWpTWlF3QS1EMzlkMWRmSkVaeU5iSkJXb0Rrdl9jX2k5Y1FBVG92a0VlV2MtbEk0?oc=5",
+   "date": "2026-11-21T08:43:13+00:00",
+   "resume": "Tunisie. Les autorités durcissent l’offensive contre les droits humains en condamnant à nouveau Sihem Ben Sedrine, cette fois-ci à cinq ans de prison Amnesty International France",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Décision historique de l’ONU reconnaissant que le Myanmar a commis un génocide contre les Rohingyas : une victoire rare pour les rescapé·e·s - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQd2hYT2pFTGhMMXN1WFQxUVhtYjRKUHZsZFMzQVp5RDRHdWFDeDM5V09ROHpGTEF5UXRwREVDamJGeGprMlBadGpYTHc3bERaQVE0dlJmRHZ5WVEtcFdBNThuTkUxWDRhc0R6U3pZYmlSLW9yX0d0VW4yY2dwRWFibU11eUgyT2FtejNpcGtCRjROM2twYjlNR3dmVy1pSHpDaUlQdDd0U0thSjU2c1JIUThWa2ItaUJGV2haUHNjekxuTjZRaE02OWlZYjVSa00yNDJ0STFnY3RVamhDRmRGQTRZdDFBTzIzMHR2WHVnNlZpallfSTBPb3ZyWGpGb1VVdEl6WFUySi1DVWNZalBGUQ?oc=5",
+   "date": "2026-11-21T08:43:13+00:00",
+   "resume": "Décision historique de l’ONU reconnaissant que le Myanmar a commis un génocide contre les Rohingyas : une victoire rare pour les rescapé·e·s Amnesty International France",
    "pay": false
   },
   {
@@ -1990,6 +2094,14 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Louise Armand - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VYkRGZTJYT3RQWlBMcnd5bUo1bEUyTXZ5eGxjNmRkOHd3bF9RdUcxVlJfZjNZUEg2YXg4VHRrampnSV9SbnRBdUdxN1Q5a1JNRW1LVE1kbXlEWjJlaEE?oc=5",
+   "date": "2026-11-21T01:16:04+00:00",
+   "resume": "Louise Armand Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "CQFD",
    "titre": "Et si… Raphaël Glucksmann remportait l'élection présidentielle ?",
    "url": "https://cqfd-journal.org/Et-si-Raphael-Glucksmann",
@@ -2070,6 +2182,14 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Sarah Micoski - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vNUFMZy14Z0g0UXVzMENRRjlEX0R4b1cwTEZtLWlTdTdxLTY1QW50cUxxdmtUaXU4c3FXUEVHNWEzSElNMjZ1OTUwVVlLUWx6T1g4ZklqVnlfR3pBeEE?oc=5",
+   "date": "2026-11-20T21:58:32+00:00",
+   "resume": "Sarah Micoski Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "La Croix",
    "titre": "Emmanuel Macron dénonce un « agenda agressif » de la Russie sur le territoire européen",
    "url": "https://www.la-croix.com/macron-denonce-un-agenda-agressif-de-la-russie-sur-le-territoire-europeen-un-pari-irresponsable-20261120",
@@ -2110,6 +2230,14 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "TDoR 2026 : la transphobie et la précarité tuent - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM01VVjJtS1pJc3FFajhsbm1IOUVraTZEQTN3NUZSWnhkakRseHFPNWZCb25femxBTk5NTlJ3M0wtWmNBN1oybkE3dU11OFZ3eU55cllQS1VzZVg2dzE5QW9qTDF1ZmtrWE02eXkwZllxXzhjUDNfd0lxQTBMLVR5bXFKQzU1cWVwZVHSAZIBQVVfeXFMTVplSlpSMmdVZFZHZktKWTBhbFhXd0RmRmFDeTYwRGswTlNkd21UdWd5enpWUEdGM2tMVWctMm1admUycDhZMUFMSk1hYzlFa3pXaVJEZjJnWXhxSFZRRkdtWlluY2otZFctSTBmTGhmRTJPdjBvNVRJckZpLXJrc3hUalNxcnBlY0hEb1drcFc0Nmc?oc=5",
+   "date": "2026-11-20T21:27:58+00:00",
+   "resume": "TDoR 2026 : la transphobie et la précarité tuent Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "RTS",
    "titre": "Des ONG posent 4000 chaussures sur la Place fédérale en mémoire des enfants tués à Gaza et en Israël",
    "url": "https://www.rts.ch/info/suisse/2026/article/berne-4-000-chaussures-sur-la-place-federale-pour-les-enfants-de-gaza-29422736.html?rts_source=rss_t",
@@ -2134,6 +2262,14 @@
    "pay": true
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Le Sénat adopte le permis de tuer : macronistes et extrême droite main dans la main pour renforcer l'impunité policière - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVXh2RlVaS2FaRTJqelNuTWl1ckxmb3kzWFVjOFJXLWpDZ1h5YnNOYzZhdjl0Ynk3dUpIeEVMZDRfVVNYRXIyeG04VGRUeUxlMV9idGMtMjVTZ2JuRENvU2Uyb3BxZElZak1yakhmZHFrMDBySnp5ZDg5bkFobHdHNWI4czZSQXhXanhHN3dfUC1xb05IY1ZlelBHb3lyd3d2ZkhmUzYza3dQSWxyanRIeXBhbFJzRjZ0WjVvWE1jYjBVQnkwOVZ1OWNpeVBLUng5M21oNU0xNNIB1wFBVV95cUxPVXh2RlVaS2FaRTJqelNuTWl1ckxmb3kzWFVjOFJXLWpDZ1h5YnNOYzZhdjl0Ynk3dUpIeEVMZDRfVVNYRXIyeG04VGRUeUxlMV9idGMtMjVTZ2JuRENvU2Uyb3BxZElZak1yakhmZHFrMDBySnp5ZDg5bkFobHdHNWI4czZSQXhXanhHN3dfUC1xb05IY1ZlelBHb3lyd3d2ZkhmUzYza3dQSWxyanRIeXBhbFJzRjZ0WjVvWE1jYjBVQnkwOVZ1OWNpeVBLUng5M21oNU0xNA?oc=5",
+   "date": "2026-11-20T20:44:58+00:00",
+   "resume": "Le Sénat adopte le permis de tuer : macronistes et extrême droite main dans la main pour renforcer l'impunité policière Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "Libération",
    "titre": "Le patron de Malakoff Humanis, Thomas Saunier, visé par une enquête pour corruption, démis de ses fonctions",
    "url": "https://www.liberation.fr/societe/le-patron-de-malakoff-humanis-thomas-saunier-vise-par-une-enquete-pour-corruption-demis-de-ses-fonctions-20261120_U4GLNJEDV5D5BPPEPDNQPEQ77Y/",
@@ -2148,6 +2284,22 @@
    "date": "2026-11-20T20:34:01+00:00",
    "resume": "Au lendemain de l’annonce du régulateur de l’audiovisuel et du numérique, de nombreux influenceurs, comme Jean Massiet ou Gaspard G, s’offusquent de ces nouvelles règles en vue de la présidentielle.",
    "pay": true
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Anasse 2027 : en finir avec les politiciens professionnels, des élus révocables payés comme des infirmières ! - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdkVFYnZhQjI3eFFGRmpObVJERnI2RlBjV0Mtc3cxSG5WcG5IREc3cUdHUlpMUkx2UkdYTjhueTAybXlHMGhwdG13dlNaaS14TkdfNDZEUUZtQUtYTzltMnpUcDAyUlJabmRuanpXQU92dHhOcFdsaGthYUZqc0xZbjd4dGFMMFpUZTBMRzhYT2ZiMFJudkVhMjN2TFFsTXE2UWZOeWNQMllyOXdkcGdkV1Q3MzZBeXNybllRck9iazdGY0pyMVdr0gHPAUFVX3lxTE1NRGJ5Y1VzMWlkZi16SDNaM3EzRC1rZVVBOWNPWFFwazZkVENDb1RHWHhUc1hKMDRxQnBmMXplY2hXM3hQbFJKbzF4MTc4a0UzRHdpWVpMcmtxMkFfMkZENnVHQXJkMjc5ZlBTZlVoaC1NWklMdG5kQmptcUpaM0J3SnhPOWtXaW9wTy1qd3JCVGJBeXgtY05zbmJoX2RSMy1oMm9uVmM4ZzNDUG82bWhobWdKTjJaakRaYnhOU0F5Z0RwaUNjclo0eFhCeW1Raw?oc=5",
+   "date": "2026-11-20T20:31:46+00:00",
+   "resume": "Anasse 2027 : en finir avec les politiciens professionnels, des élus révocables payés comme des infirmières ! Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Anasse 2027 : en finir avec les politiciens professionnels, des élus révocables payés comme une infirmière ! - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY1p3cjdYY3JZUkVBZXRfY2NSTzNvdU1QZHp5ZFd1b05abFBPYnlQX3prVWJrdmN5WG9QSC1fN3ZtWkNmTnhpZVZLRWV5ZUFHZkl3Q3lQMnhzclBia2syY1E3Nml0eEFxNnU5WVpmcFFYYUpoNmw4YTRTenZHOFUycXRBa3ZfUXd6X2N0Tll4b1UxOWhZdm93V0pNOTE5Y2J1Wmg3M2ZlRDJCVFNEYWMySVlVSTNpSVlsYmo2NWNqeGR5U3lPc2JJ?oc=5",
+   "date": "2026-11-20T20:31:46+00:00",
+   "resume": "Anasse 2027 : en finir avec les politiciens professionnels, des élus révocables payés comme une infirmière ! Revolution Permanente",
+   "pay": false
   },
   {
    "src": "AFP",
@@ -2190,6 +2342,22 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Netanyahou prêt à relancer la guerre en Iran pour rester au gouvernement - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTTc3cDdOeHkzVUJvd05zb2JSdzU2czVWTGtERWRuQlp0WTJaang5bGNJOVZMcUdYeklMazhQZWZadVV5YU1wLWw5dGNiTmtSbXpOZlNyRlNEUFZnQUc0NVlZQjd6a0JwZFBjQy1fZmZNRWIxU0g0VU1mOUZzdGJmU2FnOHJlTldSc21falFSYXpjSmsxMGZjNmgzS2hiUG56Ylo2dmt4S0xBbXoxc0t2bGQ3MlNZVUUwYlhnNWVTcTVGQ0RyZUk3ONIB0AFBVV95cUxQMFFoTnJnZ1lCdEFPWjEyUEt1ckJUUW9mbjdzUWttenU1d0RGZk1MZG9hUVJXd1I4WU1RQjctVFo5Y1MyaEVTa3cwOEFxUlpRcmc5c3E4S1NIem1fdm1RZzE2MFpmVF9oYVp1enRxUXY0cWZtclRISm1ncUdTRlNsVnBtZ19GeExqUjBUSFZDb1RSQnhQc0gyYlRfbXY5Zkw3UnpqYVlER1dCUF9vYmNTWTg3bm15TXVtcGM5cGs5YkE0TEUwRzZDZjhjSm41OXI3?oc=5",
+   "date": "2026-11-20T20:05:45+00:00",
+   "resume": "Netanyahou prêt à relancer la guerre en Iran pour rester au gouvernement Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Le secrétaire américain à la Défense Pete Hegseth débarque au Vénézuela pour poursuivre le pillage impérialiste - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObG1rc2RfSVdfS09rR2M0RDFhdlA1SldmUlB0azRsd3AtYU53NkpiWVNZQTJSaUJyYTNNWHhCaE9ndklMZzBCNE9hcTFRVF9ZVjFPQ1k0SVR6SmNHWm5YWUFyVG1lWlhlb2J2YkVFVGhpSHEzaUJETUhEVlNmVjFiNEZfWHlWcGQzR3FCb1NtZ0ZCcnlta0p2cHlsamlpajhab1FyakNxcFlMR0lhSXZ6amNBUm1wcnh1MmxKX2ZxS0gzVzd0aGcyVUF4d0pmMjDSAdcBQVVfeXFMTWczVG0zSEdJRTE0R3lZTUhBNDJ3MHY2UllwYkJ4WlYzc3R5TElqdVBieERpcEc2MXZKOTZmNmtvejlCMWRJRlo0RmFoV2dsYlNfc0F6MkEyUDJ0OWxkZ294cWFtVGpwc21wTFlZa2dZSm1KcGZraTB3WG5VSlFqRHJnSlRidDRlRTNJZEstbmVCRExnbGR5WjN5aGkzOWxmV3JiWjIyTTNydFZoTGVnZXEyMmUzV0dXOWdlOWdYQmxad3ROLWl3NDYxNFR1YVhTc0xIdUFxZG8?oc=5",
+   "date": "2026-11-20T20:02:53+00:00",
+   "resume": "Le secrétaire américain à la Défense Pete Hegseth débarque au Vénézuela pour poursuivre le pillage impérialiste Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "franceinfo",
    "titre": "Dominique de Villepin : des coups par sa droite",
    "url": "https://www.franceinfo.fr/elections/dominique-de-villepin-des-coups-par-sa-droite_8292857.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -2220,6 +2388,30 @@
    "date": "2026-11-20T19:52:48+00:00",
    "resume": "Le maire de Cannes et candidat Nouvelle Energie à la présidentielle a réussi à bousculer le trio Attal-Philippe-Retailleau. Ses rivaux dénoncent sa proximité avec l’extrême droite et refusent sa proposition d’une primaire jusqu’à Zemmour.",
    "pay": true
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Ce samedi, rendez-vous au meeting d'Anasse Kazib : 4 raisons d'y participer ! - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDVnMHFtUzRPUHJrVUdIcTAxRm5vUTdGU2FpYVBtRlVrUTA1cmxqb2x0U1Mta2pRcmxDZXcySlo5Tm9mWXZhOUszU09Fd2ZkYWxkTTkzSXpXZW1xanhDQTE1ZnV2ZmNHcnMtY3JDVVJNRkMzZVl1NHg4c2dsS3Z0VFozU1Y1NUZlUy1veUdyUnhMcFAtSGlsRGlFQ19rWnBJRUFPZ3JqS3ZLMzg50gG0AUFVX3lxTE1vTWhPUDlBQ2tVdHFldEpfQnJzVlByVDI5bzZwRFM2eFBPVmtwUkVFZGVtQ0Y4b0xVcjZCc3BqWkNLbHEwZXpkYUlwcEJpckFQRXhFTVU1SzZ3UFh0NG8tbGQweTlVVGpldnJhczRqZlV1UUd1S0ZGYXRieXlYMGpmSk1XdHFDd2Y3RjVIMWZLX3dySlNIV2E2S2pzNzlzbVE1Sl8tWjVPMVB0UEREZ1NoTUNVMg?oc=5",
+   "date": "2026-11-20T19:45:03+00:00",
+   "resume": "Ce samedi, rendez-vous au meeting d'Anasse Kazib : 4 raisons d'y participer ! Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Meeting de RP : Vanessa Pedinotti, travailleuse et syndicaliste dans l'aérospatiale, sera présente ! - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWE1IQlVqZUpWLS04ZHdxMGswMXlXSk53aGF5WWRRei1hZE1IN0RfelBxZlhzN2RqWTRWeGotdHZZREZhUzFUc285cjJEQmxZdmE1cUZCaGRsV0JaanpwRVM1cG9LZExzMFRSWlJDdjBLMjE5Tl9YZkhCOFVZM1UxanB5T2JVMUhwTjIwWVJaWFNGa3QyeVZLcEQ0NVphSWxBdlNiUUFTYjBtYWtfZzg5RzFfd0UyeklnaHJkclU4NnQ1SzlTSlRJckNBUHVudllTVVHSAdIBQVVfeXFMT1hNSEJVamVKVi0tOGR3cTBrMDF5V0pOd2hheVlkUXotYWRNSDdEX3pQcWZYczdkalk0VnhqLXR2WURGYVMxVHNvOXIyREJsWXZhNXFGQmhkbFdCWmp6cEVTNXBvS2RMczBUUlpSQ3YwSzIxOU5fWGZIQjhVWTNVMWpweU9iVTFIcE4yMFlSWlhTRmt0MnlWS3BENDVaYUlsQXZTYlFBU2IwbWFrX2c4OUcxX3dFMnpJZ2hyZHJVODZ0NUs5U0pUSXJDQVB1bnZZU1VR?oc=5",
+   "date": "2026-11-20T19:38:02+00:00",
+   "resume": "Meeting de RP : Vanessa Pedinotti, travailleuse et syndicaliste dans l'aérospatiale, sera présente ! Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Toulouse : étudiants et travailleurs tractent devant Thales contre la militarisation - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVQ3c1ZvQmVsMHlwc3pROUQ4bHNrdWdMeDBKWEhEVmYza0YwWmNtNDJfMXRVaGFfeExSR0xQcGZ1Zk9WeEppZUdadHlnd3RISDd4TERaa0JrY0RaNjhEa0RMMVliUWJMQW5Eam9IbXZ0aWZpTkx4VjhOMEZHTWFrZ0VCMkpUUk9ZMnhsRU4yWkhKSUFyMWN5bmNfWXJtbTR5d0ZaZk9lS1BNNkgxeW5xcVFLYnBON3Y5blNsVDdpV05BZ9IBwgFBVV95cUxOeVQ3c1ZvQmVsMHlwc3pROUQ4bHNrdWdMeDBKWEhEVmYza0YwWmNtNDJfMXRVaGFfeExSR0xQcGZ1Zk9WeEppZUdadHlnd3RISDd4TERaa0JrY0RaNjhEa0RMMVliUWJMQW5Eam9IbXZ0aWZpTkx4VjhOMEZHTWFrZ0VCMkpUUk9ZMnhsRU4yWkhKSUFyMWN5bmNfWXJtbTR5d0ZaZk9lS1BNNkgxeW5xcVFLYnBON3Y5blNsVDdpV05BZw?oc=5",
+   "date": "2026-11-20T19:34:32+00:00",
+   "resume": "Toulouse : étudiants et travailleurs tractent devant Thales contre la militarisation Revolution Permanente",
+   "pay": false
   },
   {
    "src": "AFP",
@@ -2286,6 +2478,14 @@
    "pay": true
   },
   {
+   "src": "AFP",
+   "titre": "Warsaw says Russian missiles hit Poland, denounces 'intentional provocation' - AFP.com",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YY0ptNlhfeUJBWGpVMTZCMWlYclE1bmcxUW5FYkpIaHp1U3RxSTJOdTdCRDJjbjdwUFF6QmJOcHFYNFhOTUdVMm9rYw?oc=5",
+   "date": "2026-11-20T19:03:20+00:00",
+   "resume": "Warsaw says Russian missiles hit Poland, denounces 'intentional provocation' AFP.com",
+   "pay": false
+  },
+  {
    "src": "La Croix",
    "titre": "Villepin candidat en 2027 : le jour où son discours à l’ONU l’a placé sous les projecteurs",
    "url": "https://www.la-croix.com/politique/villepin-candidat-en-2027-le-jour-ou-son-discours-a-l-onu-la-place-sous-les-projecteurs-20261120",
@@ -2315,6 +2515,14 @@
    "url": "https://www.liberation.fr/societe/police-justice/le-senat-se-fracture-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-20261120_WPSHZYWZYRBYNHESCLCJHQEMSU/",
    "date": "2026-11-20T18:47:00+00:00",
    "resume": "Le Sénat, comme l’Assemblée nationale en juillet dernier, a validé ce vendredi 20 novembre, ce texte décrit comme un «permis de tuer» par la gauche et plusieurs associations.",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "Écologie : en Haute-Garonne, pour bifurquer, l’alliance des cerveaux et des voix - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdU1EeFpOR3E2Y05JMmVXcDRRbGRYUUJ6TDhLckFMUmdxTHM3M1BoSzVSRmVqQ0QxLVI2bS1DOXNBa2h0WW1LRE9BWDZoQ3AxaXpUQ1d0SENZNExhQ21EMGhhbWt1UDh6MWEwWFZTSG9LTHd6TmRjT1BKYXI1TFprVFd1NnlXRkRVVUhhTEhYeTI3MllUbHd2MnppZGxYaFRTZ2t5NlhUZGtKblV4RV8xN0tkVkZiRkRPX2VDS0FiQQ?oc=5",
+   "date": "2026-11-20T18:33:32+00:00",
+   "resume": "Écologie : en Haute-Garonne, pour bifurquer, l’alliance des cerveaux et des voix Politis.fr",
    "pay": true
   },
   {
@@ -2356,6 +2564,14 @@
    "date": "2026-11-20T18:12:01+00:00",
    "resume": "L’ancien président socialiste, qui avait renoncé à se représenter en 2017 au vu de sa très forte impopularité, continue d’entretenir le doute sur ses intentions et sur une éventuelle candidature.",
    "pay": true
+  },
+  {
+   "src": "RSF",
+   "titre": "Baromètre - RSF",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCU3dBV19QSEV1dkFMSVJKc09YQWhHZllwam9ZRlVyRndMYU1EYm9PT2s4YWRjSmtDRElvX19hcXBBdw?oc=5",
+   "date": "2026-11-20T18:03:13+00:00",
+   "resume": "Baromètre RSF",
+   "pay": false
   },
   {
    "src": "Le Canard enchaîné",
@@ -2478,14 +2694,6 @@
    "pay": false
   },
   {
-   "src": "AFP",
-   "titre": "Warsaw says Russian missiles hit Poland, denounces 'intentional provocation' - AFP.com",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YY0ptNlhfeUJBWGpVMTZCMWlYclE1bmcxUW5FYkpIaHp1U3RxSTJOdTdCRDJjbjdwUFF6QmJOcHFYNFhOTUdVMm9rYw?oc=5",
-   "date": "2026-11-20T17:21:14+00:00",
-   "resume": "Warsaw says Russian missiles hit Poland, denounces 'intentional provocation' AFP.com",
-   "pay": false
-  },
-  {
    "src": "Le Club des juristes",
    "titre": "Cession - Le Club des Juristes",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZjVad0l5V0NuUmt5S1c2VWkxNmpJY1J0X1U3cnZwWGFqb0Z3bFNNU3NDM2phaXpkbE1JWlM4RjVseWo4NHpMb3l2Tk5EY0pwVjhBV29ocXBOdHZMdnhBRGFQVzhGMWozZnUzdFM2bnN4S0hZYWdtZnZOVWhXZXNXNlhhUklyeldyWERqc0M1MjJad3RrZ2c?oc=5",
@@ -2510,6 +2718,14 @@
    "pay": true
   },
   {
+   "src": "Politis",
+   "titre": "Mouvement social : derrière les blocus et les cortèges, la force de la solidarité - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGJNS2JMQzJsTS1aQTJhcDZjdzk1eDdvMXZUNnpSQi1nbEZKS3pUaWtNVnlhSnp2ZUF1TElJMU41VXRTLTBpNHJHdGdUS2RWbGc4dVpSSWpEWEQzZHpSVVdURXBQZnBuLXh3UENHbEw0bm5RaHh4bUdUNkhBT0xNMzN1MDAtUzIxLXBrbFdtb1U4VlVOWlVYQjd1TVItM0NPcVlqaXBIQ2lRSFQ1eEpKdkJ3?oc=5",
+   "date": "2026-11-20T17:05:06+00:00",
+   "resume": "Mouvement social : derrière les blocus et les cortèges, la force de la solidarité Politis.fr",
+   "pay": true
+  },
+  {
    "src": "Libération",
    "titre": "Affaires et couacs, tout semble glisser sur Marine Le Pen… Jusqu’à quand ?",
    "url": "https://www.liberation.fr/politique/affaires-et-couacs-tout-semble-glisser-sur-marine-le-pen-jusqua-quand-20261120_WH4B75J2EZGYRH6NVYTZ7SV2JQ/",
@@ -2526,12 +2742,28 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Bordeaux : faire de l'interpro un espace durable de solidarité et d'organisation - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmU5eGN1cmZLLU9oYjM2cmJqWmZ6cm1YNElLZHBZVEp6VmtmT3dIbWZkOEJpeU1GMXlXNHhaWTVFOGpBOEVvQU8yRjVldnZCOVNtSlZIV2NCM0U0ZVhBd0RQcmlWc2cyNW9hUkMxV0lCa1BkVnJLcmp0VklTOE1Ybzc1X0t2REY1OERGZEFDQ29NRXp2Smk2bTZPSmozQkRwWW9MaGw3V2NxQWs4ajllWEI4LUx2cXI4eF9ad9IBvAFBVV95cUxNSmU5eGN1cmZLLU9oYjM2cmJqWmZ6cm1YNElLZHBZVEp6VmtmT3dIbWZkOEJpeU1GMXlXNHhaWTVFOGpBOEVvQU8yRjVldnZCOVNtSlZIV2NCM0U0ZVhBd0RQcmlWc2cyNW9hUkMxV0lCa1BkVnJLcmp0VklTOE1Ybzc1X0t2REY1OERGZEFDQ29NRXp2Smk2bTZPSmozQkRwWW9MaGw3V2NxQWs4ajllWEI4LUx2cXI4eF9adw?oc=5",
+   "date": "2026-11-20T17:04:15+00:00",
+   "resume": "Bordeaux : faire de l'interpro un espace durable de solidarité et d'organisation Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "LDH",
    "titre": "Garde à vue des mineurs : la LDH intervient devant le Conseil constitutionnel",
    "url": "https://www.ldh-france.org/garde-a-vue-des-mineurs-la-ldh-intervient-devant-le-conseil-constitutionnel/",
    "date": "2026-11-20T17:03:06+00:00",
    "resume": "Le Conseil constitutionnel a été saisi d’une question prioritaire de constitutionnalité (QPC) concernant la conformité à la constitution des dispositions de l’article L. 413-10 du code de justice pénale des mineurs qui ne prévoit pas que les représentants légaux du mineur, ainsi que le service auquel il est confié, soient informés lorsque sa garde à…",
    "pay": false
+  },
+  {
+   "src": "Politis",
+   "titre": "La solidarité, base arrière de la mobilisation - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1IxVzFPLUNlMkRiXzFMWFVPd3pWQXQzeDFZTWdfRnpaZkFqcl9YczN6eGp6akVfS2g3Y0dLMTFFaTBEaGpsME8wVXdobUM1Y1RKb1pRa0RvSFJtTkdnLXZfaEZ3UDZlSGJHVmFZbU1VVkhseVowalczRVNvRGFZajdTMWs?oc=5",
+   "date": "2026-11-20T17:02:30+00:00",
+   "resume": "La solidarité, base arrière de la mobilisation Politis.fr",
+   "pay": true
   },
   {
    "src": "AOC",
@@ -2654,6 +2886,14 @@
    "pay": false
   },
   {
+   "src": "Politis",
+   "titre": "« Le livre de K », un conte de résistance - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck5kcVIyQmNIZGFLNEtQUXFiY1dQSGtIX0trdHV5QXRfaU1KREZnekJBUUxuMVl5Nl85SEVoQzU1MVdpajJSa2NXUWdlR0NQeFBQMDFBMnlYY29VNm5Yd1F1U0lkeTEzdDhDVXJFd3BSSUluaFJVMnloVk5IaTc4cDBvNGI3QXVPLURSUldmaXlRUTRHMEZKTjZndEtHN1J3aU93bw?oc=5",
+   "date": "2026-11-20T16:30:56+00:00",
+   "resume": "« Le livre de K », un conte de résistance Politis.fr",
+   "pay": true
+  },
+  {
    "src": "Attac",
    "titre": "Offrez un livre d'Attac, un cadeau engagé pour les fêtes !",
    "url": "https://france.attac.org/actus-et-medias/le-flux/article/offrez-un-livre-d-attac-un-cadeau-engage-pour-les-fetes",
@@ -2668,6 +2908,14 @@
    "date": "2026-11-20T16:30:00+00:00",
    "resume": "",
    "pay": true
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Lyon 2 : les étudiants envahissent la CFVU contre le maintien des partiels ! - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3JKSFNmSkRVeDF1d3BTNUZKQzRHZ0Z4ZE9Ca1FmdUNrRXdDT0JvdjE5Q1VsTjd6eTZXeXpZckVwMF9BVlFpdUZVVWgtaTFqazZHTVBkNjc3SE9SZU5MNTVFSnJiQlBZQWhsQWdOTDhzVnNXa0dKa0NqUU5Qb3VoOVMwc1ZoODRPbmVSUkZsMk5BU25GVlN6WWxkdS15OGlseXlqaHVpV204Z1RRbGxCeVNwbVnSAbQBQVVfeXFMUEtySkhTZkpEVXgxdXdwUzVGSkM0R2dGeGRPQmtRZnVDa0V3Q09Cb3YxOUNVbE43enk2V3l6WXJFcDBfQVZRaXVGVVVoLWkxams2R01QZDY3N0hPUmVOTDU1RUpyYkJQWUFobEFnTkw4c1ZzV2tHSmtDalFOUG91aDlTMHNWaDg0T25lUlJGbDJOQVNuRlZTellsZHUteThpbHl5amh1aVdtOGdUUWxsQnlTcG1Z?oc=5",
+   "date": "2026-11-20T16:23:29+00:00",
+   "resume": "Lyon 2 : les étudiants envahissent la CFVU contre le maintien des partiels ! Revolution Permanente",
+   "pay": false
   },
   {
    "src": "Force ouvrière",
@@ -2718,6 +2966,14 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "« De la mobilisation à la Révolution » : viens rencontrer Anasse Kazib le 27 novembre à Toulouse ! - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEM3ejQxMkN4VmJBdkNVWkZKSWt0ZFhCSDB4ZGs2cVhqbzdOREFCOU5kbFlFWWgyWlJnMHF6ZV95c1hsemo3S0JFYnRIM1NqMUo2NXY0a3g0WXYtenVBNTNQV1dHVkpMV0JvVmlNYVlFT3lrQ3RMdGJubkZNY3dMQ3pUb29kRUVlUVlyVHg0bDdFQXppUmdnRWNHVzdNS2J0aUV4dHMtaEhLLU5YYzZJYjFPRHlFTndPRlZiOWUwUEowN3ZW0gHMAUFVX3lxTE1mT2VQSTI0X3dwYnd6WXYwekx4dEpPTlNURHRHWEF4MXNwRjltVWVWbzJJLXpLUkpocnIxUUN6Ty1ocmc4dTRVUFdrWlA0UmtVbDB3TlVTNnYzNldlTC1IaXZHcUlHU1l2QUo4TzFnazAyU0NiWDhydUNBc1hiZkdodEpBX0hPM0JMbmNQZGp0WEpSbEZSYjZvRi03X3VpN3BzN0JjNzY2VVVIbWp0eFdFcEdoUUNzZ19KV3NOdUF3TlI2RXRHVTVRREl2cg?oc=5",
+   "date": "2026-11-20T16:07:00+00:00",
+   "resume": "« De la mobilisation à la Révolution » : viens rencontrer Anasse Kazib le 27 novembre à Toulouse ! Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "Libération",
    "titre": "Maylis Adhémar, écrivaine : confessions d’une ex-fasciste",
    "url": "https://www.liberation.fr/portraits/maylis-adhemar-ecrivaine-confessions-dune-ex-fasciste-20261120_TO3X677RTVD5VLJ4WVVOVVDJUY/",
@@ -2763,6 +3019,14 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JWnZKdmpuVWVONFk2czM4c2RHbnNLMUhRUEtJdlpFbWZGYmFSRnV5UkxMV0VmR0I2SXMxRXp1bXlJX2haZVY3TE5vRi1abmpGOU5nNEt4VV83WV9LZ2xwbjdGTlRYSjBiRVUwN1Q2QTF6UQ?oc=5",
    "date": "2026-11-20T15:45:10+00:00",
    "resume": "GREVE et mobilisations dans la Manche le 1er décembre FSU Manche",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "« Contre la répression et ce système, il faut s'organiser » : retour sur l'Assemblée ouverte de RP à Melun - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHFtOURUcmZlYjAzV3RGR045c2JCZXNhNUh4elBST2xrUmdYVGRNLVM5NE9FaUlWX1hUUDFmeVRRdURTZk5DZ2VnVzhpV0dkbUp2Q1l5dHg2T3prZWZ1aGhTWklfVlNlQWY1VmgyNnBhbU9URVpIOUxnRmthSXJDMVZvc3NtcEs5M1ZoRXFqNWFncFlnV1ZrdGFwdHIwLWM3M1lKZE9rMUJkb2RaVFF2NkJBUTdWOXlGMmE4Ry1DT0tnS2ZFT01DQjcwSndRN054WGdLaTRmSFbSAdgBQVVfeXFMT3hxbTlEVHJmZWIwM1d0RkdOOXNiQmVzYTVIeHpQUk9sa1JnWFRkTS1TOTRPRWlJVl9YVFAxZnlUUXVEU2ZOQ2dlZ1c4aVdHZG1KdkNZeXR4Nk96a2VmdWhoU1pJX1ZTZUFmNVZoMjZwYW1PVEVaSDlMZ0ZrYUlyQzFWb3NzbXBLOTNWaEVxajVhZ3BZZ1dWa3RhcHRyMC1jNzNZSmRPazFCZG9kWlRRdjZCQVE3Vjl5RjJhOEctQ09LZ0tmRU9NQ0I3MEp3UTdOeFhnS2k0ZkhW?oc=5",
+   "date": "2026-11-20T15:43:32+00:00",
+   "resume": "« Contre la répression et ce système, il faut s'organiser » : retour sur l'Assemblée ouverte de RP à Melun Revolution Permanente",
    "pay": false
   },
   {
@@ -2918,11 +3182,27 @@
    "pay": true
   },
   {
+   "src": "Politis",
+   "titre": "« Les luttes se nourrissent entre elles » : les enseignant·es se mobilisent aux côtés de leurs élèves - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR0pReHY0Y1E5b2YwMF9LdEhjNm40YjBOQy0yc3JvVWlmR045MTMyekJiREZMX2hpYlVqOE1ncGQwd1lwMWUtVVpLaGhuMmRhai1zQXhNTU55aXNRUUZVM1hKTmlQMkl1MVJRZTlqaXVXdTR1Q2F2Q09kdkxkVWZhVEhnZnZKVWw1WTdmZjZmNUs1TXJuVDhDWVVHSGtWNUtQbVJvZG1pN092Qm1hU0RwWE9vUUhKVkd3M0VQSnJMWHl1am11OFpkVHRqQmRBVlpiU0NZcURSVmc?oc=5",
+   "date": "2026-11-20T14:34:16+00:00",
+   "resume": "« Les luttes se nourrissent entre elles » : les enseignant·es se mobilisent aux côtés de leurs élèves Politis.fr",
+   "pay": true
+  },
+  {
    "src": "Libération",
    "titre": "Le statut de favori du RN à l’épreuve de l’avalanche des affaires",
    "url": "https://www.liberation.fr/politique/le-statut-de-favori-du-rn-a-lepreuve-de-lavalanche-des-affaires-20261120_4QE66TMBRNCKFPSTKZ7QH3F34M/",
    "date": "2026-11-20T14:32:25+00:00",
    "resume": "Soupçonné d’avoir bénéficié de fuites illégales du ministère de l’Intérieur via le préfet Hugues Moutouh, le parti fait le dos rond. L’accumulation des controverses n’a pour l’instant pas nui à son potentiel électoral.",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "Maboula Soumahoro : \"Ce qui se passe aujourd’hui n’est pas un point de bascule, c’est une continuation\" - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONERjTW5QWk9SeTFsbVFUZHIwRjkxWVRrcWxZTWctNUtmQjNWQmJ1bS1Kd3poMHN3VGFxNjl0aklLNEZvb0JuUDM2Ym5wcFR0S3V4bmxodjRiVTBjMVZUV2NubThHREY1cFlrc29RY041TWpKNGxRV3o1LVlIYjA4NEJEYy1hcE9LN3dCZ283cTczeVg3ckU3TXR4X09aME5uSWFFY3ExU0N1dkJqQTR1aTJXWUdRME9FSk84QnRRUzhuWDZ0NmxmODI2ZlBHdTNVQk9PYVFRMWNZSndwZGJDTXhWbnlmRkU?oc=5",
+   "date": "2026-11-20T14:31:49+00:00",
+   "resume": "Maboula Soumahoro : \"Ce qui se passe aujourd’hui n’est pas un point de bascule, c’est une continuation\" Politis.fr",
    "pay": true
   },
   {
@@ -2988,6 +3268,14 @@
    "date": "2026-11-20T14:04:37+00:00",
    "resume": "CFDT",
    "pay": false
+  },
+  {
+   "src": "Politis",
+   "titre": "Bifurcation écologique - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vb0FKWWRaT1U0d01yT2N4b29acjZCbTV4LWE4dUNROFo4TzFpOGNNTWxEc0E4Rm5WZFRienp1TElDcDFOQ2hvMzVKSkJLVDBoSkkweFBRQnJHbGg3UDNZbUlpLVR4SkR6ZU1fSA?oc=5",
+   "date": "2026-11-20T14:03:52+00:00",
+   "resume": "Bifurcation écologique Politis.fr",
+   "pay": true
   },
   {
    "src": "AFP",
@@ -3108,6 +3396,22 @@
    "date": "2026-11-20T13:32:44+01:00",
    "resume": "Une information judiciaire ouverte en juillet pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel de ces délits » vise le RN. Soupçonné d’être à l’origine des fuites, le préfet Hugues Moutouh a été convoqué vendredi 20 novembre 2026 au ministère de l’intérieur.",
    "pay": true
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Zambie : 18 membres de l’opposition politique placés en détention - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSlVBSi03YmY0ckhnd0tKZ0YtdTA2RlYxR2hTdzJfVExtaFprWmU0SV9lOVVwc3VIeE9fbG9JRUJTNFZ6WjIzX3FEOEpsUHl6YVNLWTcyMU5kV0M2SzNjdVRwemN2THpUSmhmMHhpeW5sYmRnZnpuaFJDdDFxdWNrTTBVNm8wdktZN05TU053WERKblgwUE5TSzRUaG14Nnc?oc=5",
+   "date": "2026-11-20T13:30:20+00:00",
+   "resume": "Zambie : 18 membres de l’opposition politique placés en détention Amnesty International France",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Somalie : Il faut abandonner les charges pesant sur un journaliste et un poète : Ismael Yusuf Abdi et Abdiqani Hussein Abokor - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYVF3Wmk2REI5ZnFOcVFFN2ZTdE9UV1JEQk5BOHlPMXBjdHU3dkpBTXRTeVlxQ01jNjJ0bHI4RENpSGVlN2Y1cV9rUHFGNUhqM0xEUEQzdXcybUdMT3lHSVFkNGhRWDIzbHl6ZmduV25CcGNGUkFpMEJ5Z3RpdWJqV1Nxc2tqTnNVWHNub0t1Z2p2b29JbjBWNlZwU2ZNQmN2VEVib1hWazN2VFRTWllvS0NHNHhSTnRtR1lPZlhQSEN3U3Y4V2RSMEUtNlAwSGJNWnMwUjQtQllIa3Z6ak52Und6N19QUEJmNktwa193?oc=5",
+   "date": "2026-11-20T13:30:20+00:00",
+   "resume": "Somalie : Il faut abandonner les charges pesant sur un journaliste et un poète : Ismael Yusuf Abdi et Abdiqani Hussein Abokor Amnesty International France",
+   "pay": false
   },
   {
    "src": "AFP",
@@ -3510,6 +3814,14 @@
    "pay": false
   },
   {
+   "src": "Politis",
+   "titre": "« Le Messager », l’enfance de l’art - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmtydFBqT0M1RFRvQzBpVjdOOFlwdTlCZUhCUzdzNTE5RFUxZHE3clZodGotRDU4WGlMUjZXU3FXZ0Q1TnppSEV6c0tWcmg5QWZxdHdsWEpWdF9zSlI2Q3ctR19nbnhoaWw4WjgxY2Z1SDhUcF9lWG5FQXhZRVROOHFfc3RwUUt2R1NqcWtpRldHREpWTzZmNHJWWW9uNnZHMV9R?oc=5",
+   "date": "2026-11-20T10:01:34+00:00",
+   "resume": "« Le Messager », l’enfance de l’art Politis.fr",
+   "pay": true
+  },
+  {
    "src": "Libération",
    "titre": "La primaire de la droite est-elle déjà morte et enterrée ?",
    "url": "https://www.liberation.fr/politique/la-primaire-de-la-droite-est-elle-deja-morte-et-enterree-20261120_PSQIURS3FVFCZITJD4WYEDA37I/",
@@ -3676,6 +3988,22 @@
    "date": "2026-11-20T09:00:00+00:00",
    "resume": "Ils le trouvent neuf, direct, aiment son programme libéral sans être gênés par son côté populiste et ses clins d’œil à l’extrême droite. «Libération» a rencontré des adhérents au parti du maire de Cannes, Nouvelle Energie, réunis pour un «afterwork» à Courbevoie.",
    "pay": true
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Des AED de Paul Eluard chez Révolution Permanente ?? On en est très fiers ! Elsa Marcel sur BFM - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHlxeG91WTZBYm9NczUxQy1BRVBRTGVTMy1mWTA3MjU3UUlOT29PUVZNanRIY3VBNW5udGNMeHJ3NDNQMmJqck82RmYwSFRUTTJ6TWhzOE5uZXdCek1icDVKVF85U3I0ZklRejZGMXVySGt2ZXowU1J0RlhXUHVMZGxxcGozeUs5UURMSUFVaVZOLS03Y3RidmhzLUc4VW1zZWdyMWd5S2dfMHp4X0VCcUp0STFXOE1IWmNscHpFT1NUY0JLckVvaXh1akrSAcwBQVVfeXFMUEx5cXhvdVk2QWJvTXM1MUMtQUVQUUxlUzMtZlkwNzI1N1FJTk9vT1FWTWp0SGN1QTVubnRjTHhydzQzUDJianJPNkZmMEhUVE0yek1oczhObmV3QnpNYnA1SlRfOVNyNGZJUXo2RjF1ckhrdmV6MFNSdEZYV1B1TGRscXBqM3lLOVFETElBVWlWTi0tN2N0YnZocy1HOFVtc2VncjFneUtnXzB6eF9FQnFKdEkxVzhNSFpjbHB6RU9TVGNCS3JFb2l4dWpK?oc=5",
+   "date": "2026-11-20T08:58:27+00:00",
+   "resume": "Des AED de Paul Eluard chez Révolution Permanente ?? On en est très fiers ! Elsa Marcel sur BFM Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Des AED de Paul Eluard chez Révolution Permanente ?? On en est très fiers ! Elsa Marcel sur BFM - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDkwVjlnM0tqSndUNzhzNHR6T3kybWloQlAzcUNSSG04bUZydms0SDRPa3NHM1lzeFZXNDR5SmN2ZGw4M0ZXRWdzb3dIY0U5cVc3MHVYaUVlWlF2aDJvenFiQ2IwSzZWVF9jLTZjM3FDMmxpUFlGa2pwQTJNTGlHVzZfczdCS2JWS0hLWTRfdHF5aFFPNTRIc1hBZlBzSElPTTFmLTJIWTdFbUFHV2NXRWlZdWM1d2NvblBCMWpuc3o5bTFY0gHMAUFVX3lxTFBMeXF4b3VZNkFib01zNTFDLUFFUFFMZVMzLWZZMDcyNTdRSU5Pb09RVk1qdEhjdUE1bm50Y0x4cnc0M1AyYmpyTzZGZjBIVFRNMnpNaHM4Tm5ld0J6TWJwNUpUXzlTcjRmSVF6NkYxdXJIa3ZlejBTUnRGWFdQdUxkbHFwajN5SzlRRExJQVVpVk4tLTdjdGJ2aHMtRzhVbXNlZ3IxZ3lLZ18wenhfRUJxSnRJMVc4TUhaY2xwekVPU1RjQktyRW9peHVqSg?oc=5",
+   "date": "2026-11-20T08:58:27+00:00",
+   "resume": "Des AED de Paul Eluard chez Révolution Permanente ?? On en est très fiers ! Elsa Marcel sur BFM Revolution Permanente",
+   "pay": false
   },
   {
    "src": "Euractiv France",
@@ -4270,12 +4598,44 @@
    "pay": false
   },
   {
+   "src": "Amnesty International France",
+   "titre": "Haïti. Les violences des gangs à Kenscoff rappellent que les enfants sont toujours exposés au risque d’être tués, enlevés et soumis à d’autres exactions – Nouvelle recherche - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQUUx3b0FNbjRuenZpeDg5dGNYZ0NCWEp6MjNhalo1dzlnYVJiZ1dPblRqaDZRelFkY3VXYmZTRGdza1RVWFNoLXkzY0FFUWxxMFlvM1Q4TUFnZUtNTm4wejJEQmpuSUtmdG9fVWQ0SDNFREM1Y0FjVnhROGhadUQ1Sl9jQkt0bG4xb1BSNkJ3cTZGM1NKQS1MSHM2cHRyMmdhV0VRZzk0cGJ6Y190cGc0QVpQQ3RxMHNQMXdUVkdZMTlMT0FZZ3M0RUhTXzhRbE5aejFOcGpHU1pwd2U1c1l2WTgxbFpHX3FlX2ZYWEdnSEMwRTFyNWwyM0pmYXY3S1l0Mk41RGtrMjVTS01CMHBZeU5wOFhCenIyY2Rwdno4c1VYSHhaNUNvUg?oc=5",
+   "date": "2026-11-20T01:50:27+00:00",
+   "resume": "Haïti. Les violences des gangs à Kenscoff rappellent que les enfants sont toujours exposés au risque d’être tués, enlevés et soumis à d’autres exactions – Nouvelle recherche Amnesty International France",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Monde. Les mineur·e·s et les jeunes qui manifestent sont victimes de violations des droits humains, notamment de violence et de discrimination - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZHdIZUVIcFJnNDZhR2k2QnA2ZDM4TnkzaDFVYkF3SS1MSWd4aDk1MmxtVjZkZUxiSmJpQnQ3dWd3aGVqV0JSa2phTi1iRTg3VUxxdGxIQVhSRXJrRHVJS0NfTXN6dUxDQTdjekNjTHBhQVk5MFZaNTd3enVLR0lZWTZrVjdKSTNNY2c2akRiNnBvUS1hTXBFZHlZcmcxOWhMRzRCU0ZxNC1CeWl0S1B4NmQ4bktRZnJzMTFfSk1mYXNVZjlHTU5LcDRBN1BBUC1pMzZucXhBUlNaY1lnSUlfVEEzelppWXBHVzl0dzBId3VEZV9WTm5xSTZCR0E5LUcwaTVhc2Nnalh4MEswaUFRczFIX1M?oc=5",
+   "date": "2026-11-20T01:50:27+00:00",
+   "resume": "Monde. Les mineur·e·s et les jeunes qui manifestent sont victimes de violations des droits humains, notamment de violence et de discrimination Amnesty International France",
+   "pay": false
+  },
+  {
    "src": "AFP",
    "titre": "Shelton on brink of ATP Finals last four after beating Jodar - AFP.com",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SdE1TSy1INEVNNnRiTDdVYUc3aGdwY2Z0THBMUTJyUlJ0X0N3aE5kSnktRzR1TTNOUHdPQzRFSlRhUnJSS1VQSjFzbw?oc=5",
    "date": "2026-11-20T00:45:33+00:00",
    "resume": "Shelton on brink of ATP Finals last four after beating Jodar AFP.com",
    "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Gabriel Moreau - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GU2pVT2FlY3p1NTE4R2xOS2REMHZkUW9tUjQ2THBkaFMxRVNvSHZPX0hpV21qN2t5MDBIWTJ5a0lCZzdKaEhGUjZIRTctY3JtRlpxTVZUTVRxaks1aXA0?oc=5",
+   "date": "2026-11-20T00:39:57+00:00",
+   "resume": "Gabriel Moreau Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Politis",
+   "titre": "28 et 29 novembre : La Fête de l’Humanité Bretagne - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHdXYUUxQ3E0ZVJMOG9wbVp4YUN6bWtsa2JVekp3b1J4eWEydFV6aEdmOEx4MElEZTc2akl5OGJ2bHp2R1lzN2tkVE5kcVJpT2VMRlhyZGdHSi1KMTZLZlQzZkZUY2lLdHp1Y0FaTzZNYjdmQ3I4QWJwNFV0TDczYjhUSWpMNnF6T3U2el9VbFB1Zw?oc=5",
+   "date": "2026-11-19T23:25:46+00:00",
+   "resume": "28 et 29 novembre : La Fête de l’Humanité Bretagne Politis.fr",
+   "pay": true
   },
   {
    "src": "RSF",
@@ -4294,6 +4654,22 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Troubles gynécologiques, fausses couches : le gaz lacrymogène, un outil de répression patriarcale - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ1RveWxCejJHLUd6d05OS1dJY2MtU1hpNmxzUHNxZlpyTHFjdFhTOGtGb0NaZXJsdDUzMVZPLUhDc3hjYzAwR3BISXk0cTVobVl1TVR5MEl1VnIxTWxpbGloa2JIeEdXQVpOWTN1dWYteG9YRXRBX0RIRmg5UFZaSHNuaGI0M2hPWnRhNmRkWlEzWDhYbEdpaU4xUTZxMXJZa2hHUGp6YmY0STA5amViUWtwU04tdV9yUWI3UkstQktUSU1rQV9hUQ?oc=5",
+   "date": "2026-11-19T22:38:11+00:00",
+   "resume": "Troubles gynécologiques, fausses couches : le gaz lacrymogène, un outil de répression patriarcale Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Troubles gynécologiques, 50% de fausses couches : le gaz lacrymogène, un outil de répression patriarcale - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPanhaVktSYk9jYUNNWEJzSW9KTVBUM1lMOE5ndkpxZHhLYmJzd0RTZk1IV0dvX0lfS0pHYVpRM0pLUGJObHN3anpYTV9fVU55aGdLV3lKcGtoelllQUhVM3NBS1JrWUhNMGoyMHNpcFd0bkdRYk0teFdRanJiUzVNMDdwaGtmQXdfTGRZaHhEa3c4VFh4VWNQRW5ZYzVTT3BxMkdZU0o4NmdVa25kelVJY21Kc3J4enhoQU9GUlVpbVVZQmtKZkpBX1ladTgwY0J60gHYAUFVX3lxTE1HV1FLUlhXbzlhWHRhYklWcmNIeWtvdHYwdV85N2hLSGdYdUs2d0F2MTg4Qk85dWFkY1ByNlhFcGVoZ3BxR01mZkxUYVhiOHh2Yk9vaVJmUG5aSzhwNW5DVHp6amoxT09ndnpfSDZtdzJHZF9tT3JzSUZOdHd1ZVRMSTU3ekFvVVZlZUdkNmdiQWJxdTZQTG8ySmFMTzJjdkFLUEpzTk8yVlF1QWtpdlVwRTNNeU9QWURUdDNuQVAzT0JwMGlhSmZreUpjYW5fRzBSRWg0S3FOdA?oc=5",
+   "date": "2026-11-19T22:38:11+00:00",
+   "resume": "Troubles gynécologiques, 50% de fausses couches : le gaz lacrymogène, un outil de répression patriarcale Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "Paris-luttes.info",
    "titre": "TDOR 2026",
    "url": "https://paris-luttes.info/tdor-2026-21435",
@@ -4308,6 +4684,22 @@
    "date": "2026-11-19T21:53:19+01:00",
    "resume": "Jean-Luc Mélenchon s’est dit jeudi 19 novembre confiant quant à une alliance avec Marine Tondelier pour l’élection présidentielle. La candidate des Écologistes s’était déclarée la veille prête à travailler à une coalition autour de la candidature du leader de La France insoumise.",
    "pay": true
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Anasse 2027 : 28 heures sans baisse de salaire, travailler moins et travailler tous - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa25ycWN2V1AtOVdsQV9nallPU05Id0J6OF9pbmVodUhIejFsNU5PejFYeHhGQmxVdnFUWUtlQ1lPc1hUbnBJbnVuU3I2YkMyby13WGh6OGNGd2FCcG0xWjlpOFUwdVB3bDhXaDBjdTJkUUlDWFFHOER1Ukl1VFFockNFTFVJdlJsa2ZaVWdpX2tIZUw0TEpGaVFlb2FsZWdLSHlGM0w5ZFJMay1TTm5oYi1QWUs5VG_SAb8BQVVfeXFMT2tLSEtaeDcwbGxEdlJ5ZkVIVmp5a0RzVUprdTNMTUhuaXhCMmFXVmNwa0Vqd3V5ZXQ0c1lveTU2aG1sb2lVa0wyUEl4NHMtMTNVa1pGR1E2aXhIeDdVWUdVNUNqU1dEOVg0UnBvaHZOWklwRzZfRFRxbHdmaUltenVpd2JDWlR5LVJYOFVtSVE2QnJVOTdVR3FuaXNCNEQxR09ScVAtb2dCcTFWYm1GUGNQN1dVdXgyOTItOEJLNGM?oc=5",
+   "date": "2026-11-19T21:35:52+00:00",
+   "resume": "Anasse 2027 : 28 heures sans baisse de salaire, travailler moins et travailler tous Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Budget de l'armée 2027 : LFI surenchérit dans le militarisme au nom de « l'autonomie de la France » - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcEpVaC1iX3pwdGRFUnNwNzdTc2E5MVc4RFd6YWhETGY3T0E1SEZ4WUtQMThCQVNhWWNrQ1ZkMzM0MjdtOTRCUHZBTXQ2OG9Fak1aaW0yX0pFNXVjWnlVd1RZWllIemFCQ3lEY2FvMGt1T0RfV29MM1l4Yl9oVXJLdlIyMFVObzdIX0V5aktUTXM0TVE3OFpybHdHYWhsM3JrV1JSZy1Ta1VYeFpKUks2ZGR1NUx6WXNBeFZTbVJBZWR0TVBEdGNiMtIB0AFBVV95cUxPVjktRVJBMWQxWlJJb25ERnlVUkVab1ByZVJkODlxNTh5WWJxeVRrNE1MTERSQWpkWWh2NUgxSkEyRjM4YkNpZmJBd2ZxMHJmZmYzRlFXdGlLQjJOOV9BU1RuZzhvMU5jZ3VTTXJEVTBMZGZ0T3FveFlnbkhXMEZuTnJIZnBLOXJ1aFZCeFp0cG5lU3Mza1NjcFNFamxKU0FIQjhGbU40NFliN01FX0pUZUpscVF1UmVuR0J3eEYtT3FNMG5aek5IaVJMUXoyUndM?oc=5",
+   "date": "2026-11-19T21:32:21+00:00",
+   "resume": "Budget de l'armée 2027 : LFI surenchérit dans le militarisme au nom de « l'autonomie de la France » Revolution Permanente",
+   "pay": false
   },
   {
    "src": "CFDT",
@@ -4332,6 +4724,14 @@
    "date": "2026-11-19T21:17:16+00:00",
    "resume": "Selon les informations de «Libération», les perquisitions menées au siège du Rassemblement national et à Beauvau découleraient d’éléments judiciaires confidentiels découverts dans un bureau de Frédéric Chatillon, ancien chef du GUD et ami de la patronne de l’extrême droite.",
    "pay": true
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Une centaine de sans-abri expulsés à Stalingrad : la mairie de Paris poursuit son « nettoyage » raciste - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmhha1lOTFFxRzBCUTREbDFjdlc3VjBsVHlKdGVPd25qZEtQTks0RU9VdTJsMFFKZU9Kd29BWTIxNE5LeTlVUTlERHl6WVdRM29MQnp1ak5sdVlYWkhkYm1oS0xaa3VETHA2NjdmZmdtUHlNcWFhWW9lVFp1ZjA2T19QdTVOYWx0M2FYaVNQczhrRUExai00NER0QmJVUm10WVJPVGxXREIzVFdkN29qTDRZUDJhVFhjOEhWU3N2dVZzWTRicGFVWHBNRHhTN2R6d3paY1lR0gHWAUFVX3lxTE9uaGFrWU5MUXFHMEJRNERsMWN2VzdWMGxUeUp0ZU93bmpkS1BOSzRFT1V1MmwwUUplT0p3b0FZMjE0Tkt5OVVROUREeXpZV1Ezb0xCenVqTmx1WVhaSGRibWhLTFprdURMcDY2N2ZmZ21QeU1xYWFZb2VUWnVmMDZPX1B1NU5hbHQzYVhpU1BzOGtFQTFqLTQ0RHRCYlVSbXRZUk9UbFdEQjNUV2Q3b2pMNFlQMmFUWGM4SFZTc3Z1VnNZNGJwYVVYcE1EeFM3ZHp3elpjWVE?oc=5",
+   "date": "2026-11-19T21:09:25+00:00",
+   "resume": "Une centaine de sans-abri expulsés à Stalingrad : la mairie de Paris poursuit son « nettoyage » raciste Revolution Permanente",
+   "pay": false
   },
   {
    "src": "Libération",
@@ -4382,6 +4782,14 @@
    "pay": true
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Strasbourg : la présidence de l'université envoie les CRS pour interpeller et frapper les étudiants mobilisés - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWW9NUTVINzh1NWRfU3lKQVFZc0JndnVPZ2t3bmlQTkdxT0hpMU1tc3NUOVZ1amk0ZmFNcmZTSHRMTFhLbTM2NzlfekdENFI4RURXSU5SODBmczVaVENpb3dHZ0JiN1o1N2hfWkg4SlJaMXhUSmw3Wm9QNVhxMmlkUHNWYi1OenZpaTFyZkZnUzBoY21fdFRZRnBXLU8zQ3BQLUNRd3h1M1lvS3Z4aDdEWUwyR2ptaFU0d0NpQlItQ3R2bHZWUWM2LUV2cks1dkdVZGRKTjF30gHWAUFVX3lxTFBZb01RNUg3OHU1ZF9TeUpBUVlzQmd2dU9na3duaVBOR3FPSGkxTW1zc1Q5VnVqaTRmYU1yZlNIdExMWEttMzY3OV96R0Q0UjhFRFdJTlI4MGZzNVpUQ2lvd0dnQmI3WjU3aF9aSDhKUloxeFRKbDdab1A1WHEyaWRQc1ZiLU56dmlpMXJmRmdTMGhjbV90VFlGcFctTzNDcFAtQ1F3eHUzWW9LdnhoN0RZTDJHam1oVTR3Q2lCUi1DdHZsdlZRYzYtRXZySzV2R1VkZEpOMXc?oc=5",
+   "date": "2026-11-19T20:17:25+00:00",
+   "resume": "Strasbourg : la présidence de l'université envoie les CRS pour interpeller et frapper les étudiants mobilisés Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "Libération",
    "titre": "Après des débats houleux à l’Assemblée nationale, l’encadrement des loyers prolongé de deux ans",
    "url": "https://www.liberation.fr/societe/ville/apres-des-debats-houleux-lencadrement-des-loyers-prolonge-de-deux-ans-20261119_KBM353LD2VEULICY624EQXZNLU/",
@@ -4411,6 +4819,14 @@
    "url": "https://www.rts.ch/info/suisse/2026/article/conseil-federal-les-methodes-de-thomas-aeschi-critiquees-29421457.html?rts_source=rss_t",
    "date": "2026-11-19T19:42:26+00:00",
    "resume": "L'UDC choisira vendredi ses candidats pour succéder à Guy Parmelin au Conseil fédéral. Le Zougois Thomas Aeschi, chef du groupe UDC aux Chambres, considéré comme le grand favori, devrait figurer sur le ticket. Ses méthodes font toutefois débat au Parlement, y compris au sein de son propre groupe.",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "« Ce soir-là, on a pris double peine » : la famille de Cheikh, tué par la police du Pontet, réclame justice - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTJJNXdsOHI3UGNvSHlBdUFOM2F6Wi0wdkN2YmtpQ1JHcDJZZ3BkSm56ZVdYZXh1cmxwZWRGd2h4Z1BWYXVhTmhLT1dOT2plS0tHTHpiUDlyZks5U1REQlRIb1lBS2gtUGV6dDFLU2VWUXdxS1RzbVNxeXVBSEVrOWlQclNOMEg1TDQwZHhPZy1ZSmhyVl9ZSDVPcldBZzV3eUlIellYNFFueWh2Q2NtTk83YWQyX3A2UXZYd01jSUZGMDVUbVdfTWxwNm9rQ03SAdcBQVVfeXFMUEowam5teFlmSUY1VDhXcDBXQVo1TUFqQzdHcXpiMVdqUXFnMnBaaHA1Smk5SXB4RnpMcVcwVVZ3WTU1Z25UX3hvM2NvbHJBRU1BZE50eGNRVUN0elkyZERVcHQ0UXg1WkpEWDFSSERoS05jQWNXSldGRlAwVHdmbkZ3bEpETW0yc2lkVEpQVVAzV21mZ2tpM0t6Y1F2TWxtRFNLT1J4TWJqcGo2XzZSYzJLd3BlSTM5TXRubDR4ZjV4Qkk5TnBVakNjQXV5ZjZxcVlrQm9fUW8?oc=5",
+   "date": "2026-11-19T19:31:29+00:00",
+   "resume": "« Ce soir-là, on a pris double peine » : la famille de Cheikh, tué par la police du Pontet, réclame justice Revolution Permanente",
    "pay": false
   },
   {
@@ -4606,6 +5022,14 @@
    "pay": false
   },
   {
+   "src": "Amnesty International France",
+   "titre": "Le génocide des Rohingyas commis par l'État du Myanmar reconnu par la Cour internationale de justice - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcm9CX3BBSUR6SmZUSW5xWVRxX2ZmUklrVDBFNF94ZHRUMTNjblh5N3NZOVhvXzFtYzhJUzUxcXEwQ1ZOYnN2Z3hRTXpMUWVldWV2R2duOGpKYm5TVmZEWGZjZjNjMDQ0LW1WRmVIc0Q2bldiSG5SYXZKVHBybjlQdGg2cDFGQQ?oc=5",
+   "date": "2026-11-19T17:14:18+00:00",
+   "resume": "Le génocide des Rohingyas commis par l'État du Myanmar reconnu par la Cour internationale de justice Amnesty International France",
+   "pay": false
+  },
+  {
    "src": "22-med",
    "titre": "De l’Afrique à l’Europe, l’urgence de mesurer l’air",
    "url": "https://www.22-med.com/de-lafrique-a-leurope-lurgence-de-mesurer-lair/",
@@ -4780,6 +5204,14 @@
    "date": "2026-11-19T16:27:24+00:00",
    "resume": "Solidarité avec le peuple palestinien : rassemblement samedi 28 novembre fsu 81",
    "pay": false
+  },
+  {
+   "src": "Politis",
+   "titre": "Orchestre du nouveau monde : symphonie en lutte majeure - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcE1yVzFVbG9tN19fNHRnNjVwdnJyVWx0X25OS0Z0TkpMTFdZUG81WWJBczRQMVBoaGdUcnI1QVlNcTRzRG1vSTJVM0ZCNVRENmVrLVNaMTdmTlNSV0ZVSDN6VDQ4TjBaa3BLLXZuRTNUaUhuMWc5MG9fQXZ5VFYyb2dNQVZTM041OFlvRHBZWS1MNTZLU1U2VmpfRkxXcU1JVjg2OXVNbWtBcEhiOHVkRmlHeGxoYjB3ekFsbXdQa0Roa2s?oc=5",
+   "date": "2026-11-19T16:24:32+00:00",
+   "resume": "Orchestre du nouveau monde : symphonie en lutte majeure Politis.fr",
+   "pay": true
   },
   {
    "src": "Mediabask",
@@ -5046,6 +5478,14 @@
    "pay": true
   },
   {
+   "src": "Politis",
+   "titre": "PP-Vox : l’alliance de tous les dangers - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWHNCWTVaU0hHY2k1bUFaVmJqckRNVXFOZ2ZyU0VUSmhleDVaQUh1bmtBMFlid1hKSGtXV19vRTZob2hqWUhEbmxwclNIZ2U2a2Nrb05TLUMzeE13X2FMWDBKbXh0cnpoNVJHLXU1dGtzUTZJSGVvbUlOUzVDeWtlRlBRSQ?oc=5",
+   "date": "2026-11-19T14:34:40+00:00",
+   "resume": "PP-Vox : l’alliance de tous les dangers Politis.fr",
+   "pay": true
+  },
+  {
    "src": "FSU",
    "titre": "Samedi 21 : Manifestation contre la vie chère ! - fsu 07",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NTGJYSkh5YjNxWkh5RUd5LTJOX29JZ2RCeXVaWmxPQk9qZlo4c1VxNXMtMUV2dHNoMWpKLVQ3WDFpVVdsNFRCcE9tZ1RNWnVzbDhOeGYydWNYeFFyWTBJdjJZVEFyVk80d3RVNWxnc2gzY3M?oc=5",
@@ -5075,6 +5515,14 @@
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRWlGYUt0aHpKd081cDJDNkVRQWp5OVpIV3pQbGhlaVd1SG5iU1QtWDFtVWlnX2tXWV9GRUZPSW45aGc3VmNQd3ZyNjRIX3owNHE1LWxHMnQ0eWdJQWZXREpaX1dLU2NIQVlMM2J0VnV0TDZ5eGxaZE95M3J0dHVRbGJqdVV2YkdCaC1JX3FyNkRGckRxZnJGT2xva1NidW9oUW5raG50c25MUHYwVE0wUFF0ZGRRSmpWYzg3MHNUYTVnNjFSZnY5c2ZMaTZkLVNmZlkxY3p2RS1FZw?oc=5",
    "date": "2026-11-19T14:24:18+00:00",
    "resume": "Procès de l’interpellation violente de Michel Zecler par des policiers : réquisitions du parquet Le Club des Juristes",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Waffen der Kritik - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4ta09nRFVJUXg5R2tQaHB1S3RXV1o0TlN4V3VOTkx6M0EtVURfVnE3S2RJMWtwc0lzS2RmblY1alBKX3FJSkdxNzRuUjVvYTBSbE90dVUxRDdJUlVtN1oxTVVJYw?oc=5",
+   "date": "2026-11-19T14:24:06+00:00",
+   "resume": "Waffen der Kritik Revolution Permanente",
    "pay": false
   },
   {
@@ -5118,6 +5566,38 @@
    "pay": false
   },
   {
+   "src": "Politis",
+   "titre": "Vallée de la Roya : le Resto paysan menacé ? - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXhoTF85VzBxMmlQSWpENENyWGZtcG1CVkF1dDNzZ3J3eEhaMmhzelp1X09vSXd0NmxHS29CU1FEOWVpUDB4bUxHNWFmek5wV1ZNdFdBSTRwam5hczVqZzB1RGFkWFZUd1FBSThRLUV1NkdfYXY2RFQ5RGxSb195NXlTcUJpLVp0?oc=5",
+   "date": "2026-11-19T14:10:27+00:00",
+   "resume": "Vallée de la Roya : le Resto paysan menacé ? Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "Le peuple tchèque défend son audiovisuel public - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSVNLWHJ0N1pwOFJQVjhCSEZjMlAtc2w4dlR1ZG1MVm5XeHU3UEdXM0ZLd3FCd291QnZBY3kwdFFNenUzS01CbGcwSVZPQ2hJalB2cjBpNDdPeFNfSWhTbm9lUDNnVHg3MEh2REp2c2htYnBqWFlZVzZYbGIzTUZxZlNNakNkRWJFcm5ZODlOdElmdw?oc=5",
+   "date": "2026-11-19T14:10:27+00:00",
+   "resume": "Le peuple tchèque défend son audiovisuel public Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "27 novembre : Raisons d’agir fête ses 30 ans - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRzVGU2FwaURBdTNfcXFuWVpPOGw2U056S0lVa2hwcGxjUUMwWERxRVFnTDZQNW95eDNZcHZCQlpOazZ3dkd1N2RlMkhfUDRLMkZqd1JKb1pXaHlLdUtMZWV3VVRpd1BaT1lYeDZZQ2V4WlZ4UFZYQVF1djFRQkZFZENxX2hqSHh0c3c?oc=5",
+   "date": "2026-11-19T14:10:27+00:00",
+   "resume": "27 novembre : Raisons d’agir fête ses 30 ans Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "Cinéma : découvrir 3 continents - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNndZQ1prbTM4YmZsMUN3WlgtTEp2VHJadVhIdTNuckctWjZrU0w2RzJiaUdTN2Y5cnRKNlVoWUZzS3lZVWYyU0xIanF2V2JicXRlSHJaMUh2bXNJY0JSRjBxTjk4YU50MHdRaEFQWHZUaHVvSGx1SWZidWdsVDBPWEtOTUZqR0JCLTFHcmowOA?oc=5",
+   "date": "2026-11-19T14:04:31+00:00",
+   "resume": "Cinéma : découvrir 3 continents Politis.fr",
+   "pay": true
+  },
+  {
    "src": "FSU",
    "titre": "Crise démocratique : l’École en première ligne | FSU-Perdir Toulouse - fsu 81",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUtOendBb3pqNUtSZHNIcWM0emhCcXlWZFRHb0tITkxUNmZLakF3dktmUE1RWlFJWm5DcWdsOG1QQkV0M3M1VUxKVHN0UnFibjBHQTUwNERnTmZpellYZ0h1Rmt2U0pqb25NazZFNkNmcWN5SGY1TkdDMlZQR2xPSEVQWHh1SXJwUWQwMmM4M0FzbHduUnpQTDIxRFFIQnJQOXE2cnFobEFEdmRsdDcxMnFoSGE3V0pfVkVTM0dpTWZyd2dXanE1UHBidjJ0QQ?oc=5",
@@ -5150,11 +5630,11 @@
    "pay": true
   },
   {
-   "src": "CFDT",
-   "titre": "Au bord de la rupture - CFDT Interco",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZXNvOWRwWU9QTkwwOTZEWWx2LV9WQkVKeGZ3MjdtMEgwQk10OTFLLXoyc01NZ0piM1NkNHNNbEE2STB3SDhSYUhqXzBwNXpaYWdYVlNWdUlZZw?oc=5",
-   "date": "2026-11-19T13:57:24+00:00",
-   "resume": "Au bord de la rupture CFDT Interco",
+   "src": "Révolution permanente",
+   "titre": "Journée européenne du 20 novembre : « Les riches veulent la guerre, la jeunesse fera la révolution ! » - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1luYS1iVzE1QmZtM3hESHFtTkZzMEZ6blo1eU85dXl3RDZGa2JSQ09YWFdlcVpLNVowUEhjaVJ2UVNSQkw3N2xOMXdSNGJvM0paYmxRYnFzLTNKaV9FRG93VU5LR1V5LUNUQXVFeDh6VlIyNjVuWG4xR3RYaWFGdjE1STgtUE5FMkxiTVJVS0ZDQTZITnd6bzBJT056anhWUk1JSW1WRGN1MWhjNEFDNmpyS3VzdkNON3RHd2g0TDdoOG9zVjNVOdIB0AFBVV95cUxPNVdZdmtPZDZDZW9oLTlITG9jV2pJT2puc1V2WWJxOWJlM2EyNkhZTV85YjRsWlpJME9sX2MwNlp1T1g0NWlrUDVEUG9TRmhzVF9Id1NiYks5TFhueUVBcGlaa0t1QVpOam12ekNBMXA3US1yMFFvUmFpRl96by1CbU40eUdDakhNc1AxTFVlTF9OT2FYLWxUNjRiM3RKYzJtNjJkRHlmQW9aRGhLRWFaazRwUmYtVDhPNmFHY1A4QnNzM0lsUjFHS001alE5ZDE3?oc=5",
+   "date": "2026-11-19T13:56:59+00:00",
+   "resume": "Journée européenne du 20 novembre : « Les riches veulent la guerre, la jeunesse fera la révolution ! » Revolution Permanente",
    "pay": false
   },
   {
@@ -5286,6 +5766,14 @@
    "pay": false
   },
   {
+   "src": "Amnesty International France",
+   "titre": "Session d’éducation aux droits humains… en maternelle - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQell1NGN0LWswV3R3LTE5c0tObjhVVnBSNUl4bWdibUFSVmtuUVlMcmg0NW00V214ZmMzWDJDMW9TZndhUWVHX2lyc0FVOGdUUEJub2c3TkllNkJqY0R1bjVTSDFPeUh6anNaVS16U2NsVXlnYTJ4MkdpaUVFY1owNVR4aVR6WDB6TzRFd3Fn?oc=5",
+   "date": "2026-11-19T12:59:23+00:00",
+   "resume": "Session d’éducation aux droits humains… en maternelle Amnesty International France",
+   "pay": false
+  },
+  {
    "src": "Mediabask",
    "titre": "Un dispositif territorial pour lutter contre les violences voit le jour",
    "url": "https://www.mediabask.eus/info_mbsk/20261119/un-dispositif-territorial-pour-lutter-contre-les-violences-voit-le-jour",
@@ -5326,6 +5814,22 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Paris 8 : plusieurs AG votent le 10 améliorable, le mouvement étudiant doit l'imposer ! - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdVVPRUFRZmxSOG5TRFRaX2wxVFVEWS1IMmJBZXFrX2NvUXhROU5QT2NaNDJFUEp2TUp4UzFyVHo3V0FzRUdwWmFKWXJtdjJfRlNRbWlJallncG4tRGxEMlNrSDV3QTBfd1Fkckc1TENsbDdzT3dKWXNfTE9Za2dwYTlNSUUwU2dORUkxbmloRVdQRFJuMTZ1dEp2MjdBM2RkZ1RDdVV1VWRuLUs3MmFnR01nNmNReHVSVkHSAcIBQVVfeXFMTXlpZGtDOS1vUGJsN0Q5aE56MUdlX0ZkSmgyZmVaRWMxdHZ0ckFfZ0c2RDlDSlRUOXFtNWpvMmhUNWJ3cjdYcm9zVXYyZW4wbkNQemwwWWRWdXFtNDFQVXhIVW9HZEplOUhmeGlVa1hTZmZibTdka0NhVDlla3ZQbmZLb2V0cGphemxaMV9obG0wcThXeVFrU0M0SkNFemMxdjZwa21JdWpDMnFta1JFSG5xMTkyMl9NZnZlbnJCMDZLbWc?oc=5",
+   "date": "2026-11-19T12:23:37+00:00",
+   "resume": "Paris 8 : plusieurs AG votent le 10 améliorable, le mouvement étudiant doit l'imposer ! Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Paris 8 : plusieurs AG et l'UFR Art votent le 10 améliorable, le mouvement étudiant doit l'imposer ! - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTDlWMXJVNTRUTHF4a2NCblZ2SFAzamNEVUdQaXdrR21mamJNVUcydU5zamtoc3Yxb2pXazBSdmtLMDhxbkFCM213Y2tFeUx3bWs5UW5uczQyTEVnelR1a3hHbDVvRHE0V2sxV0FhYzB2VFVDaFZPeGkxbDNzalBXQUh0a2V2Tk85anRvWGRRNWttVU1hNlRxcFMzQzlZMzlxcG83UHcyTjhucFRxVDZBTGpJRHVUUE50Z19ad0hKUmVuWVFrb1J2TXFNVdIB0wFBVV95cUxPbjVIRFVVdE9xREJMWmNaS1hORmtzbUFOa2xfUzF4Ull6U2F1TVNDbDd5R2xNNDlEbEZIeTc4STkxQ0t4cmV3MDVLRDduX1kySzV5NV9ia3VqUlVQZVhhRXFUZy1CTnp5dWliX3JTREtLc0VNN2U3Ti16OHdhTXNWMHl4dVFGSVBPNTg3czhrdGV4SVY2R3RoQm16aU1CWUF2R3l1NlNyOFlPSFhXaHZLaEt3Um03UDF1dC1ncFp1WVdLR1JIeXI2aXpfOUt5RE84MTNF?oc=5",
+   "date": "2026-11-19T12:23:37+00:00",
+   "resume": "Paris 8 : plusieurs AG et l'UFR Art votent le 10 améliorable, le mouvement étudiant doit l'imposer ! Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "CFDT",
    "titre": "MOBILISATION DU 5 NOVEMBRE : NOTRE DROIT, NOS REVENDICATIONS ! - Fédération Chimie Energie CFDT",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXVIeGoybTVIWlJnUFNSTXdUTENVUWFPN054UXdldG9ZU3AteGx2eGxuMjA0RmRTRk41am5TZWxxNE1vYnRjWUJEMWRsN3FWREstMGpHaE1ZaTJtS3VYRkZSSmduUDRJRFBDVkFIRFRHZ3Y0RjJMRnZnc0JITVBFWkJjREY?oc=5",
@@ -5355,6 +5859,14 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SdlF2M0NoZXp0VElXMW9iVTExMmkwQjBmejlnZUxkakFjTVlPZmVTaHJEanRTVGxwdERqOFJ2SkJRQzBnSTM0Q0VyVQ?oc=5",
    "date": "2026-11-19T12:14:25+00:00",
    "resume": "Harmer spins South Africa to Test win over Bangladesh AFP.com",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "« Je veux que les jeunes sachent qu’ils peuvent remettre en cause ceux qui détiennent le pouvoir et exiger mieux » - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcC1uOE5ORFI2RXY5UzBRQ3dBanV0Q0JOYV82N21Cd18tekQtLXAwWEthRkY3Q2Ryak11eVRyRVptTi0tU2NiTGRvMDhNV2gyUHJjRV95WDFrdDN2al9WX2loSFlwUUJsYlZsNnFBOUVDNzd4bllqdGZ2d0E5RFFBN1R6U0VWZkVMUmFfQnRKN1lrQzBZaHBWaVgzdnhqQXUzbzRubW1jUWFldjFMUkg5ZVA4bzZHWmppMU9ueWlMaVNUOVR6bkRMVE51dVdWNjk0WVpEb1pHU2FsWnk5OVE?oc=5",
+   "date": "2026-11-19T12:14:05+00:00",
+   "resume": "« Je veux que les jeunes sachent qu’ils peuvent remettre en cause ceux qui détiennent le pouvoir et exiger mieux » Amnesty International France",
    "pay": false
   },
   {
@@ -5443,14 +5955,6 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObF84Q2lsVHgwTFN1Z3laLWo0UHZHMVIzX09ZRi1LdUNkRlI5Ujc2WFFiQzYybVdlbGxtcndYRmxXSEc0eWYxSGJ2LXZ3VDNPT3llVXBuR1lLejhzM01rTUFNVTlkbWRRV2syNFJWZGRvejZMREU1MFhLT092WW5SVDZWU0hrR1hMdUhIZkxvTGRMRlRmd05KUkdxMWdNMm5aWE9HRDVjYlh1QmlIak5yN3JTYm5BNFBlc3c?oc=5",
    "date": "2026-11-19T11:38:38+00:00",
    "resume": "[Élections professionnelles 2026] La profession de foi FSU de l'académie de Strasbourg - CCP AED-AESH fsu68",
-   "pay": false
-  },
-  {
-   "src": "FSU",
-   "titre": "[Élections professionnelles 2026] La profession de foi FSU de l'académie de Strasbourg - Agent·es contractuel·les - fsu68",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM183Qm1WbVpIRll3bW0tOEdiUW5nZTVEY3Y5WGNvRFBuRzZ4N3FiX0JyanM1dDJaT3BpS192Q3pjd3d1LXUzNkNqc0g4Y25sY3lHbUhZUWxha2hoUFlXNThZelk2UkZiU0F2TUNZek96MF91bUxrX1JNS1QtZ2JCVjJ2NG5PMXAteUF3S19iNmtTeW9KWm1YZzZSVk9GVUQtUV8zQXk2cmJaaXJTaTI3T3ZsNVBkbWZuRzdhYlczYzZidjlMaU91S2RxVzFGTXJoRU4wWjNsaw?oc=5",
-   "date": "2026-11-19T11:38:22+00:00",
-   "resume": "[Élections professionnelles 2026] La profession de foi FSU de l'académie de Strasbourg - Agent·es contractuel·les fsu68",
    "pay": false
   },
   {
@@ -5659,6 +6163,22 @@
    "url": "https://bonpote.com/gaz-lacrymogenes-laurent-nunez-deni-dangerosite/",
    "date": "2026-11-19T10:15:54+00:00",
    "resume": "Si vous n’avez pas respiré l’âcre et irritante odeur des « lacrymos » ces dernières semaines, vous avez de la chance. Vous êtes chanceux ou chanceuse, d’abord parce qu’il est quasiment impossible d’y échapper lorsqu’on manifeste en France, ou même simplement lorsqu’on vit ou se rend en ville. Les « lacrymos » sont désormais employées de façon industrielle par […]",
+   "pay": false
+  },
+  {
+   "src": "Politis",
+   "titre": "« Il y a une criminalisation des voix antifascistes, écologistes et anticoloniales » - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYjlHYXZHS0pGUHZhcWUwZ2VtYVVYejl1RGl1eV8zaXNKZGRBUnJCbU4taGxwazZMSjBkc2czQWVxOUdibEUxTHFncmZxdDhjV0EwV0JJczZZbGR5UDFrT2tXUktWYmVHakJXeng3d3FacTBuc2JiNXlyWW54U1NFX3VQdGxZZzRwVUpnenJYRUk1TjdWQ0hCQkFfanN3aWM4UUk3Z1FrWFVNNE5PQkpQWWVWZlBfbmxyd0c5anNZSUVKT1NyQzk2TzNvU0lYTmxDbkJVaVV4X0lNUFU1aFVvWDFn?oc=5",
+   "date": "2026-11-19T10:13:59+00:00",
+   "resume": "« Il y a une criminalisation des voix antifascistes, écologistes et anticoloniales » Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Ciné-rencontre, soirée sur le Soudan à Lille - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnQ2ZWgyZWtjZ3h3MENLd2RsZjRMMW5CekdTUEFsV0lKWjJqOG81TEF2emhLVnB4MlJtVE53NDhBQmVTYTYxbWxteFQtRHZ5SURNTkstZHI4NlJIZjM1QzR5bGhTVHZlaTI2UG5hMnMzSEFyWEVyMmhjSFlKbjJtYVlIQW4?oc=5",
+   "date": "2026-11-19T10:09:06+00:00",
+   "resume": "Ciné-rencontre, soirée sur le Soudan à Lille Amnesty International France",
    "pay": false
   },
   {
@@ -5918,6 +6438,14 @@
    "pay": false
   },
   {
+   "src": "Politis",
+   "titre": "Vincent Brengarth : « Un pays qui a perdu le goût des droits fondamentaux » - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeEkwV3BnSzR1UkRuNnRNUjllS19zYzBpZWR2NHU2dFVtYmhoSUxRTjZSa3VNQVZlSUN3SGdsUVR3VnVMTkQ0azRXblNNS01SVDZ0cExIUHlRQWFEZzUxTWktaFhENk9lX1ZXaWZwNmxlbTJQSHRWVmpCN1BKb3ZXNU8zM3RkTjBYbjRReUd5MFRtXy01TEVpUUQxc0Izd0dxNmJfZWRhR0tQSVhDWWRfRWI5dEJoLTZ1S3I5MmJteE5OWmNB?oc=5",
+   "date": "2026-11-19T08:18:34+00:00",
+   "resume": "Vincent Brengarth : « Un pays qui a perdu le goût des droits fondamentaux » Politis.fr",
+   "pay": true
+  },
+  {
    "src": "Les Surligneurs",
    "titre": "Présidentielle 2027 : Teddy Riner pourra-t-il « participer » aux JO 2028 s’il est élu président de la République ?",
    "url": "https://lessurligneurs.eu/presidentielle-2027-teddy-riner-pourra-t-il-participer-aux-jo-2028-sil-est-elu-president-de-la-republique/",
@@ -5955,6 +6483,14 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQlpoXy1MUDhWUWJoYUVyVTVDX3lBOEVwWGlnT0l6V3FxTF9MRUVJOTVLSWJJcEx6NmxaQnBBcDNXZGNsOUNWVHBxLW1KZ19LVURqc2JnSUVidlVLYW1CVnZfWUxFdkQzTndFNXZMUl9kMmoybEpRRVlpeUdRRWRNZk0teHRkSUpmNll0M05CclI4SG90aktaWHk4clM0Ym4yVmUwd1lVRndxSzlRdGtIOTJCdTE?oc=5",
    "date": "2026-11-19T08:00:00+00:00",
    "resume": "CO MM UNIQUÉ D E P R ESSE CGT",
+   "pay": false
+  },
+  {
+   "src": "CFDT",
+   "titre": "Déclaration liminaire CFDT au CSA Services Judiciaires du 19 novembre 2026 - CFDT Interco",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcG1VS29kM1lKMlBUWklEMTIxNlQxNF9WX2tSM19qLVZFclo0elNaMmlBUjFlRUJKeFlCRE9QbzRpd2VGWVhEXzA1aUtrSHhGSkJmbU53?oc=5",
+   "date": "2026-11-19T08:00:00+00:00",
+   "resume": "Déclaration liminaire CFDT au CSA Services Judiciaires du 19 novembre 2026 CFDT Interco",
    "pay": false
   },
   {
@@ -6310,6 +6846,62 @@
    "pay": true
   },
   {
+   "src": "Politis",
+   "titre": "\"On doit donner un titre de séjour aux personnes qui travaillent et payent leurs cotisations sociales\" - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUTNNdlZaOUFoSDg5ZS14dDk5TTQ4UnpHTXV0bGdOM3dNVWtKd0VRWERISTBRRkpQZ2dRSU5FMExPTjk1QUJodFJ4S0lMWFZSUGM4M1pKMlZuSXhXVHF6dmxkYTVtTS1sRGsxOUdYSkNBZXQwX3otTXhmNUxxZk9OWGp6N2JlaFA1dnljRWdKREY5M0p0WF8tdWZhLW15N1dhOUdsUXZuS0xyZ0lOeVRzc25ZeXBQYkRHbDY2Y0hVMjduUVo1M2ZodzdyYXFQR1RuUDFXTy03WTIzdjhDYThGb280TmdmbGhzcVdkSy1MSFdXUVNBZDFnNnNlbGI?oc=5",
+   "date": "2026-11-18T23:36:29+00:00",
+   "resume": "\"On doit donner un titre de séjour aux personnes qui travaillent et payent leurs cotisations sociales\" Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Ne pas être raciste ou être antiraciste, quelle est la différence ? - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFFpTnNON1V3Z1M0dF94QkwwR08wWjY1c01Zc2cyem9SQ0NHRE5SQ0Z1TDRUcE1Cc1doRzhSX05la1RQR1o3dG9jd3Uza21LM1BrRmlodnZiblFuZ3hwVTNHVVR0NlVXZ3RpT19UX20wVm1kMHVFX3Q2MWhYRGlLMUVmNmNlUF81S0ZobzQ3ZERldDNGNHdiRC1ibU1jUnQwMnc?oc=5",
+   "date": "2026-11-18T23:35:21+00:00",
+   "resume": "Ne pas être raciste ou être antiraciste, quelle est la différence ? Amnesty International France",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Italie. Le Parlement adopte une définition répressive de l’antisémitisme, « un jour sombre pour la liberté d’expression » - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa25PYlFGazFHSDVsZlRxUnpVcUoxZ2hUU0RsYUZIQ19ldlVQSUg3WGwxbEVFWnlwTmJqVk9VSlY4bWtpbWdZd2JKSkpfU3hWUnZjQ2dPWEl4OVNFZVZIam5BcFZGN2VlVXVvMlcxb2lpY1VpMXdjaFkzRnFSaVRVQ3FMS0NQOGlQWWhsQW1VeklVSnZGLXYtZWttQS1oakw3TlFTNGJXczdINHBMVGRhcXdPRXozNGliZXZSSkdxMlRXTEpFc3ZLZGItaERlVU5yam5sMHd0Vm56a28wYmdidFJZbw?oc=5",
+   "date": "2026-11-18T23:35:21+00:00",
+   "resume": "Italie. Le Parlement adopte une définition répressive de l’antisémitisme, « un jour sombre pour la liberté d’expression » Amnesty International France",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Turquie. Des défenseur·e·s des droits LGBTI doivent être immédiatement remis en liberté et les poursuites les visant abandonnées - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSEZScm9kUGotQVAwQzd5UXRGTWFDbVQ1S3puMUdOalVwaWlHaEtBb3FjR01BVnR4VEFMMDJoLXYxcXlpNU9rd1ZTVUs1Qk1lVnA3LWc4V3RDYkRUVThCRGkxam5VelVuaGRZNjBRV3FzSGZ4T0JzR2tpLTdYNHZaWXZWWVhQV21oclF3V0hxRm90SC12Z2hyNTBORWZ2WXk1dnNYRWRoLXRZelNrSUFaRVp4dDEwNy1rUkhTNnpZX0VUcDc0dmwwR1NWaVFRR2RLa0VtSXVqeVIwaUF4M2l3U0lOUWZKZEJhQXI0Y0F2SUpqQlpkU2VScWx1ZFphaS03RW5r?oc=5",
+   "date": "2026-11-18T23:35:21+00:00",
+   "resume": "Turquie. Des défenseur·e·s des droits LGBTI doivent être immédiatement remis en liberté et les poursuites les visant abandonnées Amnesty International France",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Soudan. Les frappes dévastatrices de drones des FAR contre des civil·e·s à El Obeid doivent faire l’objet d’une enquête pour crimes de guerre - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOR1NzZnBHWXZtVzdqU3EzOU1mdzQ3VUI2SUI5alZSdjJaampORVdXVE9fYU1vLTZhMU9JSWNXaDRhNUVZM1Bwc1d0My1TcnZOSlZJY2ZlTklaUlVkZHlMX3dBamZydE1Nc0pKa1BYdXY3OU51emFZVUNWdWFETVExWC1VQ3BsdFNRTXFlakJhdUdlV2d4R3FRTFJkNjMwWHljM0lQbEpBQl9TQ011OFBFeGdjakd5bS03X2daRlp1RTVHckFYa2xGdjBEY2lJY1BlcHFnTk5lR19QNmdBSHpFakR3QUJhLTBOaFh3WEh0NWhoZGJUNTNyQkxsd01fTjhucG1MM3NmMzM4S2VlTjkzOWF3?oc=5",
+   "date": "2026-11-18T23:35:21+00:00",
+   "resume": "Soudan. Les frappes dévastatrices de drones des FAR contre des civil·e·s à El Obeid doivent faire l’objet d’une enquête pour crimes de guerre Amnesty International France",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Arabie saoudite/ONU. Le classement de la plainte déposée auprès de l’OIT est un coup dur pour les travailleurs·euses migrants victimes de violations et de discriminations persistantes - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOVE81T1hQaGRtNWtjVFk3dUpQYzlFUUJsbTA3allsa25QeUtaTDZEYUUwZzNOTHBlSXJzWDdxQU1mYjFYdVM0dFZMczFXb0E3bW1XQVU0MXNXOWRwN2MtM0pDTnp6YV9SVHNVMlJXY1U0dUpRMkFwY1h3cVlzSlJ2NW5uTU45YU5lTHFrX1UtUVFYRDZPcE9FeFBwSlpOOHNPWXhodkhiQkNNeW5XdGRnbWtKYzJVbjBXRTNLUDJPVGp2dGJTN09mUFF3NkFLbnZlSHNfX3BQRS1zZDdfZVVyMXBvMUgwUmZab2JJSFZiRTFaQ19XLWNaZXdwX2h6QmV5RWp2V01KZEdjdVg3eFFEMkZBdnBiakJjVjBSRVVBbzVsUElCb01LTThWZ1pLV2RnSXNUYkpXT3pjOF93UUYzVmJmWFY?oc=5",
+   "date": "2026-11-18T23:35:20+00:00",
+   "resume": "Arabie saoudite/ONU. Le classement de la plainte déposée auprès de l’OIT est un coup dur pour les travailleurs·euses migrants victimes de violations et de discriminations persistantes Amnesty International France",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Russie. La scandaleuse peine de 11 ans d’emprisonnement prononcée contre Lev Chlosberg pour ses opinions anti-guerre a été confirmée - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOY3VEX001V3QxdmFyWjR6THBidFE0NW9QOHB0NnM5LUIyaHZwWUNJaUlOQ0p4dnBFdkU4Y2xFVklsdG1heXFhdFVzZU9YQklXYnRwdkJVYlhXVm9Ucy1qVk9xNzhtRGlPN3VCYVpIUEppS3RwQXpBVVgyX3p5ZURwQ0VDRjM0ZWloN3paRlFiZkdxNHhGdFltc1JHQmh6WkpEcERDc2gyRTFHZ00yV3dycUxOd1RNVUkxQ3ZSQ3FCRFZ6SmRiLVdINEowVFAwSUtSNkdGeWhHajJOUklEUGk5S3RNN0hlSXRscmw4U0haak1pM2JlOWtXRWdR?oc=5",
+   "date": "2026-11-18T23:35:20+00:00",
+   "resume": "Russie. La scandaleuse peine de 11 ans d’emprisonnement prononcée contre Lev Chlosberg pour ses opinions anti-guerre a été confirmée Amnesty International France",
+   "pay": false
+  },
+  {
    "src": "RSF",
    "titre": "Taïwan en première ligne de la lutte contre la propagande chinoise - RSF",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaHpmVTdXdGJVVm5SblpJTWVIM0xGRmRrTUdOYjhxbkMxSHAwYlRlUFpaZVRLaFBSX0RZV3R1OVNkZF9rNGJfemV4VTl6dnZNUENOMUlPOGVWS0Jnd1R2dVRBbFVfelZPajh3NnZRYVBEbkUyeXBrdzNveUFybl9wQ0hwSGFTZXh4N1prd0RQcnI5UEVRZE44Sktzcw?oc=5",
@@ -6374,6 +6966,14 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Samir Max - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdXlYVy1fSm5LTTlzZ1NJOXY4Q0VqaWZmZ2RYN1RZVG4xLWt5dHhqOWhOaGhTVmZGSGR3NXZSV0xkaE1nbHRvUnBZdUYtYjJjT2pQQldaeFE?oc=5",
+   "date": "2026-11-18T20:46:26+00:00",
+   "resume": "Samir Max Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "Le Média",
    "titre": "GTA VI : pourquoi Macron et les réacs paniquent (mais pas Mélenchon !)",
    "url": "https://www.lemediatv.fr/emissions/2026/gta-vi-pourquoi-macron-et-les-reacs-paniquent-mais-pas-melenchon-yKohGwE2TeqlyVi0koc_2A",
@@ -6387,6 +6987,14 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0eUlJUTNzMW9meVVBeDFwNE94dGsyekZVUTJneWNPLWR6R213cm82ZXpZaEhKeVJfQXV1RlZvczNJQjRiWjU2aE1wMA?oc=5",
    "date": "2026-11-18T20:43:45+00:00",
    "resume": "Hegseth makes surprise trip to Venezuela, inks defense pact AFP.com",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Anasse 2027 : exproprions Total sous contrôle des travailleurs ! - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVZRa1BHdVB5UUdCcVV6ZGpwcUtuRm9qUWx4ajRYVl93a0lzQWRRTWZYRThTLXA3d1QtTHZiUFlTbE1IU3dnb0lQdUtTTU1ZQTdpS0dJUXhwM2hvc25zUW1LeDFERGx2cDdGYUtRWEhweHc2UzNqaDBxZzdlN3JZTUszQ1dBQ0ZwdURDTUFsbEhEdk5rRmhYYkUwOWTSAaQBQVVfeXFMTy05S3dIdUxnMmszZm9Ja294NjNOQWs2X20zVUo3VXpEc2hEekNFOTJ6dGdIdVpDVGZuOUJ5NHI1Y2p0dnNXN2c2MkJHZU9ncGZLa3hmQ3E0aGdPMEhRMHREeGY5aHZPQlYtQlQ3cDV3SFdfWC1LaEhFcHBSVFdzZ0R4U0hPLW1NbXlKdVRwZ0xseU51dThuM1lYeU84emZOZC1TU0w?oc=5",
+   "date": "2026-11-18T20:40:37+00:00",
+   "resume": "Anasse 2027 : exproprions Total sous contrôle des travailleurs ! Revolution Permanente",
    "pay": false
   },
   {
@@ -6438,6 +7046,30 @@
    "pay": true
   },
   {
+   "src": "Politis",
+   "titre": "Youssef Swatt's : \"Je pars du principe qu’avoir un cœur qui bat suffit pour se saisir de la politique\" - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWEMwb1F6U1BrTTI4djBVTkg1OEpabExXM2dnUlNaLUwxT041Y0tYcG9ZWm5FbUZLNVlpNzJvTFJ5YXczUkxJTEdfS203b3BqRzRUVlN4UHZjcGVCcElSUFd5QmE5R1B0YlNVX1NYSlByX1BaTFJWWkhueUd1ZGg4WlQyV216VjRjb3EzU1FWT25XcVp1VWdxWlNtVUpQY05pMzBvZEJIb0hFa2dGOGpXbEtINWlfR0RtVlZFN3lmeVZqUjVlVEwtVTdRVzE4UmxLRG1leW9OMjR1akVLWm1HMU9n?oc=5",
+   "date": "2026-11-18T19:04:34+00:00",
+   "resume": "Youssef Swatt's : \"Je pars du principe qu’avoir un cœur qui bat suffit pour se saisir de la politique\" Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Lycée Paul Éluard : les mensonges contre les personnels et RP visent à criminaliser la mobilisation - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb1BtaVBlZHdEYlVrWWV2RTE2ZmxhR2NLSlR0Z3kzTS1yXy14SHJlMU5EdlNoTk5hMThySjBBbkFTZHcwQ05GNkI4TVZWclJCWU56YkNrRXdJT0pKN1lFVkVOQlExQmpwdzFaclZlNkxyaW44UTg4QWRaM09vSGdXV3FtQzYzMUV6VnE1WldNTGRlZ1lVMW5kYnk5N2o0TW1NT2xQRHRST3NlY2VwWGhqTzd3cnZGQ2ZYWXdiTXFiX3R3OGNJUWpjcTZsa1F4d9IB1gFBVV95cUxNeTRXd0RGUk9WamVsYk9DM3YxMWxSQk5DLWVHTkpxbXBtSWRCTmxQN1ZDRU5HUWtoNC1vQ0ZzSG9CUjJ1bGh2UXQxRE1PcWduNEhndVowWVc5NGdVUjFLeEhzdnpieFFDb053RzhPTmswaDNtU0JmcldLSVRxMnQ4T3JyRzJEbzlCRy0zWVR3N0hud09yRS0tNEY2R21mS0k2R1U0eFZ4RVRRaWlBenZjRk00TXNNTUxZakJKSEZua1NpSnMtbnBIWExkTEdKd1NrTGlaNXVR?oc=5",
+   "date": "2026-11-18T19:01:18+00:00",
+   "resume": "Lycée Paul Éluard : les mensonges contre les personnels et RP visent à criminaliser la mobilisation Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "L’Amnestienne : la grande course solidaire d’Amnesty International - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON2hLeUF3MkVqdEkyeEN2a0xTMU56T0NlNFladDlOTXdYa0pYdi1POGdWbkZjSDhxZ3BjR2ZwNzNma0EzUmtac1p4akhmbENMZmQ2djV3OFg0U2VuZW5SUEU5SEJiVEdEU3BPeTdVSnZEOHZUQXRYc3EybVRXYXRVTQ?oc=5",
+   "date": "2026-11-18T19:00:45+00:00",
+   "resume": "L’Amnestienne : la grande course solidaire d’Amnesty International Amnesty International France",
+   "pay": false
+  },
+  {
    "src": "Conseil national des barreaux",
    "titre": "Domiciliation Denfert-Rochereau - Conseil national des barreaux - CNB",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fWTBlLURDUHJ3ejlrTmZIaVotS0NzejFxMk5oM0lhSTM2aTNWYmpZSXkyS0hXRF8xN0JNalp3YU41QXNqbHVibkJnTDlQMzZIM2RRaWI4T3BPMlZqTm1lRjVBZ2RPYzBDaUVwUmFR?oc=5",
@@ -6462,11 +7094,43 @@
    "pay": true
   },
   {
+   "src": "Révolution permanente",
+   "titre": "« Retraite à 60 ans » de Le Pen : une arnaque sur le dos des plus précaires pour défendre les intérêts du patronat - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbjI4cmRMTVV5X3FsTklBNmJMaVZmQlJ4WFUxbWYxeFJ3Q3pDS3NncUpwOFdXbXl2aUppZTdXTDBJUlJlbVR6ZEdYd0Y1MGdxVzRyNm5zQmdkMzMzSkV3bXZHYWJEVjVVNlB6ZTNDMkFkd25VOEhyX1o2a0JXVzE0dXZBdzRPUVVSN29sYldSZXlpdzhJLUYzY1Q1RUg0cHB4cW53Yk80T0FPa3ZncUdkS3VRU0gwdXh5WnRNQzBlSEpCZjNxOU1UU18xeTVuVEZN0gHYAUFVX3lxTE5pVmV5SVcxc3VDSzAtb1FRQjgwQmQ5RThkUUZUSkg2LTZFbFdnTUNOWDl3MGQ3YkxhZkR4TWlWQmZkQ2NoNnJ1b1JfQ2k1RjlRcE96WlBOR3hWNGp0M2ZDU3BsMm5VTHh6ZEJyNW1KVEprdkFVNS1QVFlIaFNMd0d1dzV6elZQMllwTXZFSHdiWEo0M1U4a2xuWkNPWVZ3V2Y0d2lGOFJFZXQzT1VpYUc0MHZBb0hQTU1HTnFVOXlGZ2t3YkZ0clBMLXJHVkIwQmZqemN5SUNBOA?oc=5",
+   "date": "2026-11-18T18:15:55+00:00",
+   "resume": "« Retraite à 60 ans » de Le Pen : une arnaque sur le dos des plus précaires pour défendre les intérêts du patronat Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "AFP",
    "titre": "SA Rugby condemns online abuse of match officials - AFP.com",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1INkV0QWViangzb19mUGxOenZVN3p3aExtaVdSVDBYYmRmRVlCMG1pQWxaSHdhOHpJQktCOU8wWEFOc3hCUDlhaUJXVQ?oc=5",
    "date": "2026-11-18T18:15:34+00:00",
    "resume": "SA Rugby condemns online abuse of match officials AFP.com",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Mamdani dissout un corps répressif de la police à New-York : avancée ou arnaque ? - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVmhNWTBPREwyT2twd1hvblF1QlJWbDZ5MDRCX3dqTnpHUy1sWFMyaE9YY1BoUzFrQjNhcU1EV0U2cUJMNHJQR1FvYkotZVRqYmZHMnI0cVQtYTVLSGtIRmFQNnBzMHhZQnJKWW56eHprdWRuazV4MUxJbjFCYnRIbUoxV3p2OV9lTmZSYTVRWkh0WXFvRHhDWUhrclF6UkV4aFJOT1hoUWZPUkxNek9nS004NA?oc=5",
+   "date": "2026-11-18T18:14:30+00:00",
+   "resume": "Mamdani dissout un corps répressif de la police à New-York : avancée ou arnaque ? Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "L'antiterrorisme, laboratoire des attaques contre le droit de manifester - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSXg2enpZYWxraG00MHFLY3FtVU1USVZnYTJ1aE5lNmtjWFloX1dQNDUxWTRyRW9yZWhtMVlTMV90a0lXQi1WVFVEYm5NQVdPSi1wbEpyNWRpYlRlYzR2cFBLYkZlZEZ0T1dJbzJXSlhMNWJIRkt2NDlwLVVJeFJST3FibGdFNXJuWmhHX0tUaVNEXzU4aVJkcnhValQ2RWdjbW4tdFhBWTE3a3PSAbMBQVVfeXFMUFpPM1dQM3E0Tmhfc0pXdFN6RTZuQ3E1NGt3dnZxMkdCRncxZmZlM2stMUZVdUxBeFpyeFdzYXhaMjh2eFcydnQ0WW1tejBXNm92N3RjaEhmY2hib3BPTER5b1VoLThuckZFTnZNdk1aQlUzMzFXR3VGa05aVHlBWUNNaXB2NjFtWURlNzg4V3BobXY0VEQzYmpPSW5aeE1CSXdrUGwtRUFqYzYybXpfcmdOSjQ?oc=5",
+   "date": "2026-11-18T18:10:50+00:00",
+   "resume": "L'antiterrorisme, laboratoire des attaques contre le droit de manifester Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Amnesty International France",
+   "titre": "Les lauréats de la bourse Gaëtan Mootoo 2026 - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hZGZ3ZmNuUkE3VUV3SW0wWXl3aGtYRUNwek5GU0ozYmh3azFpSXQ0TmxjQnBVTDNoTUFYNnl3M09tajFqa1lXRHZvYlFaRU9BbkwxbVBIUEdZU1RjWGFEYWZ4Z3F1R2RQbFk2SFdHcHNoTXl0WjhnYlVfZDlhREU?oc=5",
+   "date": "2026-11-18T18:00:03+00:00",
+   "resume": "Les lauréats de la bourse Gaëtan Mootoo 2026 Amnesty International France",
    "pay": false
   },
   {
@@ -6494,11 +7158,35 @@
    "pay": true
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Paris Cité : en pleine mobilisation, la présidence impose son projet élitiste de Grand établissement - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2s5UVZFT3h3SmUzeHgzRG12Q05KWmNGVXVGUUJZQ19VVy1lUXlBUUUtSDc0dXdjeVhiZHh4M21kQVZCcnhpbVpuSjdVbFRvWC1MbFl2aVoxR19zNWRRUGpWdkNoWjUxV3prb080cmR5MWtHNGlHNUluY2FIVmV2UEVvaHZoblhaLURpTzV4em02engtYkNZMXFDUTVnWlZTUnl2eHExcjNlWGtmZHljRU9xbU9LVkM3Y3ZBY3duSU92azN5OEtPYXFsWVB1UdIB1gFBVV95cUxQN2dIVEhVZnMyUURacDlQSlhtb2ZEa2R3aGt5WE9WWGZ0dzM0RUNHbTlwbEt1aVlrYmZvZmVHRmVZWnFWRDZET0RvLUNhRjZSc2Ztc05XbWx3bWJGZ2g2MXQzb280Q0tvMWNaV1R2U1ZUTzU4XzhYUXprYzJwQ3NOclFEOENzTkg0N2RyOC01NGhDOGk3d3JUMEQyN3ZFTTI0NThlTGVLNEo1aXlfSlh0ME5oX213S0JPVDFSZ0VJVDFzb2lqb1BsR1FYTDR5TFE5UmRNSEdR?oc=5",
+   "date": "2026-11-18T17:37:33+00:00",
+   "resume": "Paris Cité : en pleine mobilisation, la présidence impose son projet élitiste de Grand établissement Revolution Permanente",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Modification des parcours, amendes pour des tractages : à Figeac, la mairie à l'offensive contre la mobilisation - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcUdfcHNwU3JqMHIyYzd6cVFlX0Z6S0twemxVMlRFVlItMTNxdE83X3EtenNoX0pMSU10bk93LUNvTjlQUDBPakY4RHRCSDBJU3BWNlJ3Tll3LTVfUEhrV3NQS243UEVPZF9FQ3N2UmRkSExYeEFtODB6MEh3eTVMYVF2Q3pBNFJuLUZoV1VUOW1ITENDbGxWemkyNjJWcUh1ZHhGY005VHZtMmp6eGk1ODZFSnRKTV8wME8ycFF2cV9tNUpfYUdkVFJMSWp0aGl0RHZF0gHTAUFVX3lxTFBxR19wc3BTcmowcjJjN3pxUWVfRnpLS3B6bFUyVEVWUi0xM3F0TzdfcS16c2hfSkxJTXRuT3ctQ29OOVBQME9qRjhEdEJIMElTcFY2UndOWXctNV9QSGtXc1BLbjdQRU9kX0VDc3ZSZGRITFh4QW04MHowSHd5NUxhUXZDekE0Um4tRmhXVVQ5bUhMQ0NsbFZ6aTI2MlZxSHVkeEZjTTlUdm0yanp4aTU4NkVKdEpNXzAwTzJwUXZxX201Sl9hR2RUUkxJanRoaXREdkU?oc=5",
+   "date": "2026-11-18T17:35:43+00:00",
+   "resume": "Modification des parcours, amendes pour des tractages : à Figeac, la mairie à l'offensive contre la mobilisation Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "La Croix",
    "titre": "École : quand le temps de transport restreint l’orientation",
    "url": "https://www.la-croix.com/societe/ecole-quand-le-temps-de-transport-restreint-l-orientation-20261118",
    "date": "2026-11-18T17:29:13+01:00",
    "resume": "L’Insee mesure pour la première fois à l’échelle nationale le temps nécessaire pour rejoindre un établissement ou une formation, mettant en lumière de fortes inégalités territoriales d’accès à l’offre éducative.",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "Extrême droite : l'Espagne va-t-elle basculer ? - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVzUyYm45aEZKXzJtMDlETUh6US1DVDVNMFd6TmQ4N1ZraHo5WHNaNDRSZlFIbHZ5OGk4cnZyQVgxN09ldnZUdzk5WkRwQ0drenZVTEp4WTVBeGlKb2FpeWlZQlNMVE0xLVIxWklRYnl5blAybmEtdmgxOHF2UWxQQg?oc=5",
+   "date": "2026-11-18T17:27:25+00:00",
+   "resume": "Extrême droite : l'Espagne va-t-elle basculer ? Politis.fr",
    "pay": true
   },
   {
@@ -6523,6 +7211,14 @@
    "url": "https://www.la-croix.com/societe/epidemie-d-arrets-maladie-chez-les-crs-ces-mobilisations-policieres-qui-ont-fait-date-20261118",
    "date": "2026-11-18T17:05:57+01:00",
    "resume": "Dépourvus du droit de grève, de nombreux CRS se sont fait porter pâles dans toute la France, mardi 17 novembre 2026. Un mouvement qui rappelle de précédentes contestations qui avaient défrayé la chronique.",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "« Ça ne correspond pas à la réalité » : deux policiers de la Brav-M rattrapés par les images - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTjV0UzIxUVduRFpqc2ZUbFQtRG5nb2xQQ2xWQVg5U3JULUI5OVRnWHEweTJYRXlJZURZR1E3T3VNX1Jlc0xLSDh6emk2NlViX3pmOWVwUE4tajBKRzJpZzBtUGJabDJuUXA1Ykt4UGdZN3BYR1NzMWRFM09lUHVRRXFzbmprMWx0NEdzUGI2TFJob3VocEpaYkkyaHpwalZEY2FOa3ZiWE5iNG1DNllta0drdG5nZnZDOFJqTUZfSzJId1NfYVRKVTM3MmQ0akdB?oc=5",
+   "date": "2026-11-18T17:02:51+00:00",
+   "resume": "« Ça ne correspond pas à la réalité » : deux policiers de la Brav-M rattrapés par les images Politis.fr",
    "pay": true
   },
   {
@@ -6646,6 +7342,14 @@
    "pay": false
   },
   {
+   "src": "Politis",
+   "titre": "L’extrême droite tue, l’État regarde ailleurs - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGk1X1IzS1phMFd4NGpDcGh4OXl5bGdpX1VURGs1TGRIWGg4ZDBkMnpSdTVhS0dXU0F4RFZGYW40TGZUVU5LbFNsOF9lVzUwWjFOT1lYbkR6RlllYTZlQlNxX2gtSFlqMkNYajRZRHA3MTBJd0R3YW12QVVYcVVUR3FnX1BjNmh0aG9B?oc=5",
+   "date": "2026-11-18T16:32:51+00:00",
+   "resume": "L’extrême droite tue, l’État regarde ailleurs Politis.fr",
+   "pay": true
+  },
+  {
    "src": "Next",
    "titre": "☕️ Les entreprises US utilisant l’IA chinoise pourraient être obligées de le déclarer",
    "url": "https://next.ink/brief-article/les-entreprises-us-utilisant-lia-chinoise-pourraient-etre-obligees-de-le-declarer/",
@@ -6676,6 +7380,14 @@
    "date": "2026-11-18T16:16:45+00:00",
    "resume": "La Macif écope de 5 millions d’euros pour des manquements à la sécurité des données personnelles de ses clients Le Club des Juristes",
    "pay": false
+  },
+  {
+   "src": "Politis",
+   "titre": "Xavier Domènech : en Espagne, \"les gauches conservent une capacité à mobiliser\" - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbmxkekg0QklXTVdOUFJDeXM3XzVIQ3YwRERjZlNkVnphUGtYV1FXc09uY1hMaVBfTzg1WlJEd1J0SG5ObVFBWFotZ3R1c2wyc2huMGZKaE91cWZDWWh2ekdxSnk2ZVFTRzZsU1JDLUhaTzZHVzNyUzJ2akZfeTJYT0x2SWVGOE8xNm9tM1pSMG5iMTF0ME1BOW9qX2ZvRUw0aWVydlhRV0tPN3NyVHZUT0NiMi1FaGpZTDhjNTVHUUMzZ0E?oc=5",
+   "date": "2026-11-18T16:07:56+00:00",
+   "resume": "Xavier Domènech : en Espagne, \"les gauches conservent une capacité à mobiliser\" Politis.fr",
+   "pay": true
   },
   {
    "src": "The Conversation France",
@@ -6750,6 +7462,14 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Marseille : à la cité de la Solidarité, les habitants s'organisent contre les pannes d'ascenseurs - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMkdMREtSdHl0UHBlZUFSUHRfaHBieXFFN1RwUVU1dzFRM1hNVW0wQktITzFIRlcxc3pkWk8zWlZOQnlUdTF0U1ZQSWMyZWRoN01hWWNMMFZMMWFzX01Mb05LZ1F1bEdzcGF3d25ISWFSQlJLSjhvVUNkM01wb2E3MmNQcC1VdzlpLW5YV09zNE5sWU1JWUw2aVZGY2NiZWh1QldSc003OXpiQVgwWmhpS3dYV096NnBmTmZUNWplWXFpaW5TOWRRazZn0gHSAUFVX3lxTE9GV2E5WE1zdmc3b0FkN0VJMEFkQzUxZWN6UUo0cS1xRzBHRl9ERHRibzR2NGJNdGJld195bVkwNVp5WDQzX3hOaDFlTHpzUXV3TWRWdGhKbHBlckhzaXpVdzhNM2s1aWcyejctVm83OWlhTkVtT3NWcUctTzFVTWZodUd4S2ZTclRaWkdXcnFsaWU4c2x3NXhmamRzRFdZSzh5d2ZTVVZZRHc5MldObS1vbG96aHpuMDlGdHFwX2gwTVhNRzQyUk8tVHpjclk4MUJIUQ?oc=5",
+   "date": "2026-11-18T15:44:02+00:00",
+   "resume": "Marseille : à la cité de la Solidarité, les habitants s'organisent contre les pannes d'ascenseurs Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "Next",
    "titre": "☕️ Flock : Disney peut bien aller se faire Mickey",
    "url": "https://next.ink/brief-article/flock-disney-peut-bien-aller-se-faire-mickey/",
@@ -6763,6 +7483,14 @@
    "url": "https://theconversation.com/la-peur-nous-rend-elle-plus-faciles-a-gouverner-290546",
    "date": "2026-11-18T15:39:25+00:00",
    "resume": "Plus un danger est médiatisé, plus il nous paraît proche et peut renforcer notre aspiration à la stabilité. Mais, lorsqu’elle est instrumentalisée, la peur peut aussi produire des effets de méfiance, voire de révolte.",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Le livre de Rima Hassan interdit d'antenne : la censure médiatique des voix pro-palestiniennes continue - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR3UweHFyOG1oQW9RLTV2dWlSQWRROFhLMU9Qd0pjVzNhU1JjTTJQQVZzMnR5d2tGZ2FfaWtHdlZyZUsxTDJwRmJTdmFXcnk0QzhQYTVsZUpDSVJfY1RPTlZma3RnVkNnZS1jZVpmWWRXVWxkNWc0UWRjMUJmNElFWjRmWXZLamFBd0g1THQzZERRMGthOHZ1SmpaVHhPR0stemVkSUdoSzIxb2YxLWtsNU1VYnBzSUhXanhPSDV4ZEhCdUJfSnNV0gHPAUFVX3lxTFBJM2RzbjhReXJxYm9KdHpxYnBDSkZ1dk5IWU5hQVE4eWlaT1A2bXFsYnlnYThFVmk5RERreGJybWdjS3NLQVJvamphS0R1ZHdjaF9YQ19wc1RUMkF5SzlUWnFZQV9nQXk2V0xJbXBMV0F5ODJfZTFEcHp2Q193ZTNZQVVnNlZCLVAzUjRELTAwVWhGWU9XQjhWbDE1RVhZOFQ5ZktEYWxtb2NSUHYtR0R4aVROWldkakdvYUVEdFpXWHRhUGlvaTFWT0VmcWVhWQ?oc=5",
+   "date": "2026-11-18T15:36:21+00:00",
+   "resume": "Le livre de Rima Hassan interdit d'antenne : la censure médiatique des voix pro-palestiniennes continue Revolution Permanente",
    "pay": false
   },
   {
@@ -6819,6 +7547,14 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTUVyZkpUaWVFU0VHYXY2RFZSQkZpUXBtcnFTY3EyXzd3TUZyQmtDb3FEMDRicWxQQlEzM1BjY3FtYW5tQ1ZzelhsSm9qZUlLMFFNemJlakNUNEpOdlI5UDNFblNrQnp4d2RxTFk1YXRoLUlJTHI5aWNKV0pLa3R0OXZoN0FsS0tP?oc=5",
    "date": "2026-11-18T15:17:37+00:00",
    "resume": "25 novembre : tract FD Services publics CGT",
+   "pay": false
+  },
+  {
+   "src": "CFDT",
+   "titre": "Lauréat : mon reclassement - CFDT",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRWdPaDJMbmpxcjZPR3dZcERMS1MxcG1fdVh0Sm9IUlg5VmxyWjVfT1RMd1JUUHBzRC1UV3N3NWZBMUVwaGlHUEQxMnFXR3phUW1OR3hRY201WEtQQWczakNCYW9BalA1SWc?oc=5",
+   "date": "2026-11-18T15:17:13+00:00",
+   "resume": "Lauréat : mon reclassement CFDT",
    "pay": false
   },
   {
@@ -6894,6 +7630,22 @@
    "pay": false
   },
   {
+   "src": "Politis",
+   "titre": "Extrême droite : l’Espagne va-t-elle basculer ? - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNDluS2Z6bUhVR0dxOTF5RkRLYnVLeVZrclhreExTX0dvMXgxZm9BcU9TSGRITUFSRUtUY2IxeE53aGF4OFhvczBVbEpsZ2dNa1d6cVdOX3lDc1J5MXBpME9mY1pFS2VPdjF5SHNXem9GQW1LUXJ5X0R1SHJ3NFkzOXJGaFRrM1NvOVZvSnhkQnkyZ3lHd0pyYTlKb21nZw?oc=5",
+   "date": "2026-11-18T14:47:44+00:00",
+   "resume": "Extrême droite : l’Espagne va-t-elle basculer ? Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "L'Espagne va-t-elle basculer ? - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiOUVVS2IyeUV6THY0ZlVweTFmYnRSd1Rjc1pEZlp2bkRLeHVPSnY0b0hXRW90anJ6S3pFWE9mNzk0NW9iSTE1a2JRdDhYT0NyTHozOG5TWTVUT3ppOFRWNGZ5anptYllZQ1ZCeQ?oc=5",
+   "date": "2026-11-18T14:47:44+00:00",
+   "resume": "L'Espagne va-t-elle basculer ? Politis.fr",
+   "pay": true
+  },
+  {
    "src": "LDH",
    "titre": "L’État de droit en péril : le démantèlement des contre-pouvoirs. De l’espace civique à l’indépendance de la justice",
    "url": "https://www.ldh-france.org/echos-du-colloque-organise-par-la-ldh-et-la-fidh-le-12-novembre-2026-a-lassemblee-nationale/",
@@ -6907,6 +7659,14 @@
    "url": "https://reporterre.net/C-est-pas-la-faute-de-Total-la-France-face-a-ses-contradictions-a-la-COP31",
    "date": "2026-11-18T14:45:16+00:00",
    "resume": "Alors que Macron se vante d'avoir fait de la France une « championne du climat », l'État refuse de faire payer les grands pollueurs et de mettre davantage d'argent sur la table pour financer la transition écologique. Antalya (Turquie), envoyé spécial « Make Our Planet Great Again. » Depuis son arrivée au pouvoir en 2017, Emmanuel Macron a œuvré à façonner l'image d'une France « championne du climat » à l'international. Ce, dès les prémices de son premier mandat. Dans une allocution (…) Lire la s",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Campagne contre le lycée Paul Eluard : les personnels répondent aux mensonges du rectorat et des médias - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQclhLREhwNHp1S0F4b290d3FLcHhIQ3k4RWNSdVE0cFZMSkRSR2JxQTBaNjRRZkdvNVZ1bWd2S0NaaWZDdzRCTmFack54cnhhZy03VHpQdG1STks1V1hfQzRfVDlmSVlnTk9MZ3dXZWloV2tSRmxIakYxZTBwMzYwTi13VFVENTRBUzZCUUtYTmtZVWFVS01FeHdjT3lxODlGcWQ0Nk1yVGxINTRzVGxqcjN2eGNBdmp0bWdsSk94Y1NaS0xEWWE3cGJ30gHSAUFVX3lxTE1aaHRWdHlucEVLSkJTRHEyd0gxbDNiSlpIU2Y3UnZ3VUktQVYxblNwa0txblNCQlhNZEJ0alAyNGhxd2UyNnl4VE9uWVFJQ1F0aVhNY2Uwd3ZmT1lmU2xBcERRMWhIWlBkeUp2YTZTUnpSNUtjYzhtUlgwT19saVd6TGFQMVdIWlNBdU0tM3dueTZJVmJlNkNHb0c1OHNyWmRFcmlCT05wNWRsaDVSVlFUSEh5NllRRjVYWmg2SUtseHNCWWJmVHJRb2FET2N1Ynk5QQ?oc=5",
+   "date": "2026-11-18T14:41:44+00:00",
+   "resume": "Campagne contre le lycée Paul Eluard : les personnels répondent aux mensonges du rectorat et des médias Revolution Permanente",
    "pay": false
   },
   {
@@ -6934,6 +7694,14 @@
    "pay": true
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Un collégien de 12 ans exclu 8 jours pour avoir porté un T-shirt Palestine - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbC15dmFKVkVuMmxtT1dmQlJ4VUZpbXBtLXlISTkyWU5CSFg5aHNWU0kxUDhybDJncjRnR2N6S0FjZXNQWU5FRm0zRXM2azVsanBBVDIxcW9EWE1CaTB1cFlrYV9zbW9UV010YTNqNnVUUmRDS3dDZTg3YXE0R2FIV29GcVhIRjNzZUJzZkZCVk5Fc05qOWdoeVgzcEdJMVNPUWtWdXNfV1Z5UVRycFRj0gG3AUFVX3lxTFBFUkV1VUx0WV8zdENtX245UEZRNGt2WnFVLVhQUE9uSDhVckpTTmNiSW9mc2VfVm4xVk9zMGdfNWNXMGJUdjF0M1B2TkxZNE1BT0VjaVh5T21ZYmNKUzZuMC1pUjNpdXZrelFkYUNhcnFwY19RakV4OUJRLU80b1BaQWZhQmtyUElUVklFQkpFVDhneVRrZldzOWFOS3FOcGMzNzNaNkUtbFY5THcza09jXzlvNHRxOA?oc=5",
+   "date": "2026-11-18T14:33:06+00:00",
+   "resume": "Un collégien de 12 ans exclu 8 jours pour avoir porté un T-shirt Palestine Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "Réseau Action Climat",
    "titre": "Trains de nuit : le ministre Philippe Tabarot va-t-il enterrer le réseau à 10 lignes ?",
    "url": "https://reseauactionclimat.org/trains-de-nuit-le-ministre-philippe-tabarot-va-t-il-enterrer-le-reseau-a-10-lignes/",
@@ -6955,6 +7723,14 @@
    "url": "https://www.rapporteur.com/fr/news/crise-de-lacierie-italienne-ilva-deux-acquereurs-mais-qui-paiera-la-facture/",
    "date": "2026-11-18T14:19:44+00:00",
    "resume": "La plus grande aciérie d'Europe a été mise à l'arrêt, et Rome peine à relancer son activité The post Crise de l’aciérie italienne Ilva : Deux acquéreurs, mais qui paiera la facture ? appeared first on Rapporteur FR .",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Répression syndicale chez Rockstar : derrière le casse du siècle, la casse sociale - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFJXU3lFb0ExSGdvSVYyVUNaQ2drcmVXRkdSeVk4LWRFZ3pGb3gwNUhIaUZhRG91NVU0dUR2NThBRjh3MVBVdW1RT2NNeGROeDIyRlZuR1dOZ2VfSXdRSk9kNGVSaFhFQWxRQkR2TGNxazdEX2NucFZGYUxteDBSSjVQMjRuNHg2THZsZFNUaUgyUUlqTDlDSWM1UGFLWUU0R3g1S0t4NDcwTzRxU2lGTVZSWkRGUdIBvgFBVV95cUxNR3AyVXhmVUFMZFNScDhWVk9oanB1MUhMUDBvcVU4WEU3dXVVQzh6X2I4aVV2M1VjLVFzNXdkcnVYMDFuSW02ZEoyajN2eWdpbTlYSzREUzJOd3V6RFl5V2VHNHVuelhFTTcydEFNaGpPZTJoVzFFdm0yRlZGU0VYcGM3WGhsdU9EVTliSU9iWTNKdDFITV9EdU9tbVpuYUFhSTBia2Y4TE5iUHgwT0VjQkNTNmVJSnJwcVZqZV9B?oc=5",
+   "date": "2026-11-18T14:12:55+00:00",
+   "resume": "Répression syndicale chez Rockstar : derrière le casse du siècle, la casse sociale Revolution Permanente",
    "pay": false
   },
   {
@@ -7006,11 +7782,35 @@
    "pay": false
   },
   {
+   "src": "Politis",
+   "titre": "Malika Mansouri : « Au défaut de réponse politique s’ajoute une réponse sécuritaire » - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORHAxQTJCVXRPNEVZeDNIUlNpaTB0TjdfSjFoSGhKS09pb2QtNDRRYXRzbjRmLWx6Q3V5Vm14bWptU054TFdiYWVrVVplN1pSN0t6Z2dGTS1NSnU1SmRKR29aUmZmTmNGNThuZFpVTnFKaVBQcGRiYjU4QW5ob3l4RjNCSXR4S3dISjFrV0NzcjJSVWpNN1VYZjhaaWZ3ZnE1TlJyUzZZcDNWcHRDWkZSeElCa2p3WVQ2djJPcUwyUm1OMHRGOEVPdVljblVLMGly?oc=5",
+   "date": "2026-11-18T13:47:40+00:00",
+   "resume": "Malika Mansouri : « Au défaut de réponse politique s’ajoute une réponse sécuritaire » Politis.fr",
+   "pay": true
+  },
+  {
+   "src": "Politis",
+   "titre": "Cerise Sudry-Le Dû - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tSVVIV1ZEV0dkc1ZzU2l3VVgyNEdIUEUtVFZ2R1Fnb0lyd3dwR0hQbUZzZkVmSy00eEJVRGJManJJanRGSkMySlFpMEd0R1JpWVZGVDNYZ195aThUMmtV?oc=5",
+   "date": "2026-11-18T13:41:55+00:00",
+   "resume": "Cerise Sudry-Le Dû Politis.fr",
+   "pay": true
+  },
+  {
    "src": "Le Club des juristes",
    "titre": "Procès des parents de la « Martyre de l’A10 » : le verdict de la Cour d’assises - Le Club des Juristes",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOTRXQVpYS1lBWWpzamw2VnpNdDZUVE1TXzNwSG5vY240R0RRb1ZiMll0RW5tSjNnaGlVd0RZdnlrcVBVYkJmb3NRY0lwMVhvZXpPMXltSl9rLVBYLUJJUFE0VnJTSWxaWnBtVnlIYkN2dllDOHptMnY4SGpDYzZkMks5VzloRHhzYW9ORndoa3FTbVZIMjNZVmlTSjFyMmZsUVpySkFqS25WdmNoZVhVSnN0U255VGdadjEtVQ?oc=5",
    "date": "2026-11-18T13:38:21+00:00",
    "resume": "Procès des parents de la « Martyre de l’A10 » : le verdict de la Cour d’assises Le Club des Juristes",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Christian Porta interrogé au commissariat : une intimidation politique pour son soutien aux lycéens - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYzZwenJmSlBGNXVxRm5WZGlwMy1JWmxQV2xyZWtRS3hhM01IaDlQeXFJckFiMWhsaDVzMXlkVzlrSHduRjZ0cHU4dF92cDhfLU5vSUNoVV96ck4xQjNsUGpodVhVMWVIMVBXR0hVbDRCOHJ4NmlPSlBwSzNIWGJPRHQzWWhldm5LVkFyN3hGYTBjaWlFNzBVdGd0d1o3RWV0aWtieGp5YTljXzM1QmtKVDQzMUs4UnE4cGFIbXJCRTJhRU52RUVWLXRWVk5Xd9IB1gFBVV95cUxQaW5EZlZVWTRWTllZS3pEOGtjQzR0eWt4ZFdfSXBRa2c3Smp2eUtTN2JPOGJMeG9SM2dpdklYeU1heGc3a3c0QlExYkRpMXk2NG1NMzlldmQ3amVFQmJmcXBTMHNQWkdhV21YTWxpQXVDZ0c5MmgyeGdVdzk4QVdHY2hkanVnVjJubkt2TjFYWXU3alRYaDVvenJpNUVtSnExUkJrSzFzVGJFWHFXSkxMOC15YUhDNFFXU2RKM2dDSzQwQzBpZlpaUW4yajF4bTJnclhsVlJR?oc=5",
+   "date": "2026-11-18T13:32:02+00:00",
+   "resume": "Christian Porta interrogé au commissariat : une intimidation politique pour son soutien aux lycéens Revolution Permanente",
    "pay": false
   },
   {
@@ -7070,6 +7870,14 @@
    "pay": true
   },
   {
+   "src": "Politis",
+   "titre": "Ukraine : l'agonie du Donbass - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aZ0FjZ21QRmVrUVVGa0FqeWhOQm5obXdwMW9qSHhHcVhPeUk2Q2pFa015S3hVTEFjT2FIS0V5YndGVGI5NkFxZS02VGF4SXZveDNuaFFlR0FXTEFFT1BxdEhWVHlkcUphWjFv?oc=5",
+   "date": "2026-11-18T12:45:33+00:00",
+   "resume": "Ukraine : l'agonie du Donbass Politis.fr",
+   "pay": true
+  },
+  {
    "src": "La Croix",
    "titre": "Mouvement lycéen : 3 000 conseils de discipline entre septembre et début novembre",
    "url": "https://www.la-croix.com/societe/mouvement-lyceen-3-000-conseils-de-discipline-entre-septembre-et-debut-novembre-20261118",
@@ -7100,6 +7908,14 @@
    "date": "2026-11-18T12:06:20+00:00",
    "resume": "",
    "pay": false
+  },
+  {
+   "src": "Politis",
+   "titre": "Ukraine : une proposition de Mélenchon qui fait débat - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWmhYLUItVjdfM2tUQW5MNFAxU3lPc2F0V3hIQXhrcV91Y20wdzVjbURyT3NBRmlQSmpfejFaSkltYmdpbXhyN3ZXNU52Q0hoQmo5WUZLX3VRQjN4REVCbUg0YkY0cTdEXzVvMWpGanZDdVZHMXpQQVFzTmd6eDFUMkpMOENkampDb3Mtb1puLUtFa1Y4SGhYTWpTbzQwdUlpc2hmTGtFSC1VekJURnlPTlRHQzU?oc=5",
+   "date": "2026-11-18T12:02:35+00:00",
+   "resume": "Ukraine : une proposition de Mélenchon qui fait débat Politis.fr",
+   "pay": true
   },
   {
    "src": "FSU",
@@ -7142,6 +7958,14 @@
    "pay": false
   },
   {
+   "src": "Amnesty International France",
+   "titre": "Les 10 jours pour signer : les situations - Amnesty International France",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhdk5mQUlPbTJwbXlCMzVaNTZhcVRKYmdtZEVPZTU5NkdJdlZwNGtFR3pibTAzS1lSbEtoN3VxNkx1VGVYTEVOWHZ1SEJxZFo0MEs2OXRuWEthRURBdXdXSGRUOEx0NEFvMnJlLVJsaFM4MHlraGNPUGRn?oc=5",
+   "date": "2026-11-18T11:37:42+00:00",
+   "resume": "Les 10 jours pour signer : les situations Amnesty International France",
+   "pay": false
+  },
+  {
    "src": "La Croix",
    "titre": "« GTA VI » : pourquoi la sortie de ce jeu vidéo est un phénomène sans précédent",
    "url": "https://www.la-croix.com/societe/gta-vi-pourquoi-la-sortie-de-ce-jeu-video-est-un-phenomene-sans-precedent-20261118",
@@ -7174,6 +7998,14 @@
    "pay": false
   },
   {
+   "src": "Révolution permanente",
+   "titre": "Montpellier : une salariée du CE de la SNCF aux Prud'hommes pour avoir dénoncé des VSS, soutien ! - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUjRfRkszX24tRTFld0dmUF9ZNTlXYnVBVy03NVBrcHFqWm5pWWQ1eUZiNjhjc3llbjcwRDRuVnB4eHV5NF95TnF5M3VqOGhDMDBUME5MZGdQNXo4UXAtZ1VmRnI1X0Y2NHllZlNid1lPUk9qYTZNWUxLdkE5Y1pPWW1mT1NxRkx6YnN3MVRNUTFUanMzNFFmTFBXQzAtNzJFSk5JQ09HUWpKR25NUXJrMG9UQWJCUlgzcW1VVGN6eFhTZlZ5ek40cUZlelQ1TGPSAc8BQVVfeXFMUFI0X0ZLM19uLUUxZXdHZlBfWTU5V2J1QVctNzVQa3BxalpuaVlkNXlGYjY4Y3N5ZW43MEQ0blZweHh1eTRfeU5xeTN1ajhoQzAwVDBOTGRnUDV6OFFwLWdVZkZyNV9GNjR5ZWZTYndZT1JPamE2TVlMS3ZBOWNaT1ltZk9TcUZMemJzdzFUTVExVGpzMzRRZkxQV0MwLTcyRUpOSUNPR1FqSkduTVFyazBvVEFiQlJYM3FtVVRjenhYU2ZWeXpONHFGZXpUNUxj?oc=5",
+   "date": "2026-11-18T11:13:52+00:00",
+   "resume": "Montpellier : une salariée du CE de la SNCF aux Prud'hommes pour avoir dénoncé des VSS, soutien ! Revolution Permanente",
+   "pay": false
+  },
+  {
    "src": "Next",
    "titre": "La CNIL sanctionne Macif Vie à hauteur de 5 millions d’euros pour des mots de passe en clair",
    "url": "https://next.ink/268231/la-cnil-sanctionne-macif-vie-a-hauteur-de-5-millions-deuros-pour-des-mots-de-passe-en-clair/",
@@ -7188,6 +8020,14 @@
    "date": "2026-11-18T11:09:35+00:00",
    "resume": "Mobilisation sociale : la justice administrative fait annuler trois arrêtés du ministère de l’intérieur Le Club des Juristes",
    "pay": false
+  },
+  {
+   "src": "Politis",
+   "titre": "En Ukraine, la lente agonie du Donbass - Politis.fr",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdENnN3g3MFVmMUs5NHlKMkN1eDI4bVo4TURzam4tQmVJVlpNUE5vcl82TFNmYnJ5NmFMSUxZbVF3ZzhQX000RkdjUnQwTV9TbWpONktPNjlaSjU3dXhYY1Ftd21iUWJpRFFfMWxTeFo4US04WmtsMDIxQ3FNbm9YN3VELWtlUlljenFCd2tvWjVXZTZoSW9XTEhXelhEZEJxUE5tZEZqRQ?oc=5",
+   "date": "2026-11-18T11:02:35+00:00",
+   "resume": "En Ukraine, la lente agonie du Donbass Politis.fr",
+   "pay": true
   },
   {
    "src": "Blast",
@@ -7259,6 +8099,14 @@
    "url": "https://lareleveetlapeste.fr/le-lichen-et-la-foret-nous-montrent-que-la-survie-passe-par-lalliance-non-par-la-competition/",
    "date": "2026-11-18T10:24:31+00:00",
    "resume": "« Je refuse l'idée que la compétition serait le moteur fondamental de l'évolution. Darwin lui-même parlait autant de coopération que de compétition. Mais le darwinisme social a privilégié une lecture brutale de sa théorie. » Cet article « Le lichen et la forêt nous montrent que la survie passe par l’alliance, non par la compétition » est apparu en premier sur La Relève et La Peste .",
+   "pay": false
+  },
+  {
+   "src": "Révolution permanente",
+   "titre": "Le Mans. 2 000 personnes dans la rue ce 17 novembre contre la répression et la vie chère - Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQnBOanFaUUJtaHFGbEdGV0t1SnhRNzVLa0tzanluUzMtVU95a3JWTm1IUGdEUzBKWVRIUVFodXNCQ2dkeDN0b0lWZjBoUWNENTdiYmJhODZPYVdKdUcyM3Zudm5UQjBwQ2pYb1ZfaUkwNEl0Vjh3ZnA0SllZOVVNTFp4NEhnQ0s3UDk1WWJ4dndRZ1A5RHpKdDY3X3NXVUZYcm5yWTNmeURGR0hhV3U2UGxIa1Rib3ZBeVB0Nk5CTTXSAcgBQVVfeXFMTk1maUxCSDlOM1lNTHVJQWZ1UUNUTnM5SmUtRmVBQUhHYUd0TGtOaTJFMGJndktxeVBzdGl2cWNKdURVTEFBZElsX1pTY0lBX3pSZ0FFeU1lRDhuMzFtbjhFa2QyNkhxOXhqNmdJUnlNN1FNMzRIamdVNUlQelVkUmR3WU40WnZsYWQzZlR6T3dPYk5yd2V6N2h4ODZwZ0Y5cXpEQzRPX1pZeUVUbE1CVDctWHpVMnhZMkJ3ekJMcnZ5b1dva0dINko?oc=5",
+   "date": "2026-11-18T10:22:16+00:00",
+   "resume": "Le Mans. 2 000 personnes dans la rue ce 17 novembre contre la répression et la vie chère Revolution Permanente",
    "pay": false
   },
   {
@@ -7366,14 +8214,6 @@
    "pay": true
   },
   {
-   "src": "Force ouvrière",
-   "titre": "L’inFO militante - Force Ouvrière",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00dE9OelBsanpPb0ZjbEdXUkVpVnp2VVlua2kwMlFGVWgxV0Zrelpmb3kzVFlJRWVVTnkyS2Z0MDd1djhMTDVWRnRRQzFUY3I1SmFOVVA1bmdfdUJI?oc=5",
-   "date": "2026-11-18T09:35:00+00:00",
-   "resume": "L’inFO militante Force Ouvrière",
-   "pay": false
-  },
-  {
    "src": "CGT",
    "titre": "Séminaire des mandaté.es CGT dans le groupe Action Logement 20 et 21 octobre 2026 - Analyses et Propositions - CGT",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUkJXQzhDbVRmZjRMam1qSnpqcG1FanpWLTlSNVNGdWVlVVczODhaWHRFaUNlQkU4ZG80WlJLc2Z3VDlNbjJFMjd4Vm9kSHpFZXIyeU5hZF9VSWpFN1o2QVJRVXZIQnZoQmRSTHRmemc2b25UV2RaanhpYnpfLW9zdDNMQUFxbzJRQVdkaDgwWWdDYW5XdVFiT3NpVXhMYXg0V1V1SFVkSWdEVHdNWlhNVU1CdGJCc1B2?oc=5",
@@ -7396,14 +8236,6 @@
    "date": "2026-11-18T09:12:49+00:00",
    "resume": "L'arrivée de Branko Grims aidera les Patriotes à conserver leur avance sur le CRE The post Mi-mandat : Un député européen slovène controversé rejoint les Patriotes d’extrême droite appeared first on Rapporteur FR .",
    "pay": false
-  },
-  {
-   "src": "La Croix",
-   "titre": "Santé : la Sécurité sociale jugée bien moins généreuse qu’elle ne l’est vraiment",
-   "url": "https://www.la-croix.com/societe/sante-la-securite-sociale-jugee-bien-moins-genereuse-qu-elle-ne-lest-vraiment-20261118",
-   "date": "2026-11-18T09:12:40+01:00",
-   "resume": "EXCLUSIF. Selon une étude publiée mercredi 18 novembre 2026 par le Club Landoy, seuls 11 % des Français savent que la Sécurité sociale rembourse 80 % des dépenses de santé, 61 % donnant un chiffre très inférieur à la réalité. Comment mieux les informer sans les culpabiliser ?",
-   "pay": true
   },
   {
    "src": "CGT",
@@ -7476,22 +8308,6 @@
    "date": "2026-11-18T08:38:50+00:00",
    "resume": "Appel de la FNPOS CGT à la grève le 17 novembre 2026 ! Fédération des Organismes Sociaux - CGT",
    "pay": false
-  },
-  {
-   "src": "Bon Pote",
-   "titre": "« Overshoot » : peut-on vraiment inverser le réchauffement climatique ?",
-   "url": "https://bonpote.com/overshoot-peut-on-vraiment-inverser-le-rechauffement-climatique/",
-   "date": "2026-11-18T08:33:19+00:00",
-   "resume": "Sur le front climatique comme ailleurs, les promesses n’engagent que ceux qui y croient. Même quand elles paraissent surréalistes. Lors de l’ouverture de la COP31 à Antalya, le 9 novembre 2026, le président des négociations Chris Bowen a déclaré que malgré le dépassement inéluctable de la limite de 1,5 °C, « nous pouvons encore revenir […]",
-   "pay": false
-  },
-  {
-   "src": "Le Club des juristes",
-   "titre": "Anne-Cécile Mailfert ramenée à sa condition d’épouse du numéro 2 de France Télévisions : franceinfo s’excuse et plaide la transparence - Le Club des Juristes",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPa3ppUDlxejloYlVJTmNtTTl1UDFPeXYyejhzSHdURDdWWjNZdkNqTXJsdGY4d1A2cHkzOENKZUNEYXN1LWZtUVVSazVZVkpoYmEzbEN1QjRieFlkRV95ZjBKRkt0dGFqUGJDVVdSOWZJVTFJbE9pWHZId2JSVFpTWml1MEd2WjZ5NVYyWHZ3VVRFRGhuQ0NFMnNFbEVCN1Z0V2dtM2hvaWRLYVhZV3RmYmM4T3RlRGtFRVpaVFJjdENGYkhuWXdSZ1lPeWhpYVRkVzZUbjNPVlFrVm1OaGdFMGktTEJLNmZ3bnU5TkNfOGNmTkJ1ck10SXZrejhocVltc1RacWdVcmROVmM?oc=5",
-   "date": "2026-11-18T08:31:31+00:00",
-   "resume": "Anne-Cécile Mailfert ramenée à sa condition d’épouse du numéro 2 de France Télévisions : franceinfo s’excuse et plaide la transparence Le Club des Juristes",
-   "pay": false
   }
  ],
  "errors": [
@@ -7509,6 +8325,11 @@
    "src": "Amnesty International France",
    "feed": "https://www.amnesty.fr/feed",
    "erreur": "ParseError: not well-formed (invalid token): line 245, column 14"
+  },
+  {
+   "src": "Fondation Abbé Pierre",
+   "feed": "https://news.google.com/rss/search?q=site%3Afondationabbepierre.fr%20when%3A4d&hl=fr&gl=FR&ceid=FR:fr",
+   "erreur": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  ]
 }
