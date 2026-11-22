@@ -70,7 +70,11 @@ def fetch(item):
             if k in f and f[k].text:
                 summ = clean(f[k].text); break
         if title and link and (date is None or date >= since):
-            out.append({"src": src, "titre": title, "url": link.strip(), "date": date.isoformat() if date else None, "resume": summ})
+            rec = {"src": src, "titre": title, "url": link.strip(), "date": date.isoformat() if date else None, "resume": summ}
+            if src.startswith("mot:") and "source" in f and f["source"].text:
+                rec["src"] = clean(f["source"].text, 80); rec["mot"] = src[4:]
+            out.append(rec)
+    if src.startswith("mot:"): out = out[:30]
     return src, url, out, None
 
 def texte(a):
@@ -98,6 +102,15 @@ def main():
             a, d = l.strip().split("|", 1)
             q = urllib.parse.quote(f"site:{d} when:{JOURS}d")
             items.append((a, f"https://news.google.com/rss/search?q={q}&hl=fr&gl=FR&ceid=FR:fr"))
+    try:
+        for l in open("gnews_mots.txt", encoding="utf-8"):
+            l = l.strip()
+            if l and not l.startswith("#"):
+                q = urllib.parse.quote(f"{l} when:2d")
+                items.append(("mot:" + l, f"https://news.google.com/rss/search?q={q}&hl=fr&gl=FR&ceid=FR:fr"))
+    except FileNotFoundError:
+        pass
+    noms = {re.sub(r"[^a-z0-9]", "", a.lower()) for a, _ in items if not a.startswith("mot:")}
     arts, errors, seen = [], [], set()
     with ThreadPoolExecutor(max_workers=12) as ex:
         for src, url, out, err in ex.map(fetch, items):
@@ -105,6 +118,10 @@ def main():
             for a in out:
                 if a["url"] in seen: continue
                 seen.add(a["url"]); arts.append(a)
+    for a in arts:
+        if "mot" in a:
+            n = re.sub(r"[^a-z0-9]", "", a["src"].lower())
+            a["ht"] = not any(n == x or (len(x) > 4 and (x in n or n in x)) for x in noms)
     arts.sort(key=lambda a: a["date"] or "", reverse=True)
     lim = (now - dt.timedelta(days=JOURS_TEXTE)).isoformat()
     cand = []
