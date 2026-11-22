@@ -89,3 +89,7 @@ La Quadrature du Net|https://www.laquadrature.net/feed/
 Greenpeace France|https://www.greenpeace.fr/feed/
 Les Amis de la Terre|https://www.amisdelaterre.org/feed/
 Notre Affaire à Tous|https://notreaffaireatous.org/feed/
+Reflets.info|https://reflets.info/feeds/public
+Orient XXI|https://orientxxi.info/spip.php?page=backend&lang=fr
+La Déferlante|https://www.revueladeferlante.fr/feed/
+Alternative Libertaire (UCL)|https://www.unioncommunistelibertaire.org/spip.php?page=backend
