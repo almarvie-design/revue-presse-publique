@@ -112,6 +112,16 @@ def decode_gnews(url, timeout=15):
         return json.loads(json.loads(t.split("\n\n",1)[1])[0][2])[1]
     except Exception: return None
 
+import unicodedata
+def _norm(t): return re.sub(r"[^a-z0-9]", "", unicodedata.normalize("NFKD", t.lower()).encode("ascii", "ignore").decode())
+def retire_suffixe_media(a):
+    """Titres Google Actualités « Titre - Nom du site » : retire le nom du site si c'est bien le média de l'article."""
+    if " - " not in a["titre"]: return
+    tete, suf = a["titre"].rsplit(" - ", 1)
+    n, m = _norm(suf), _norm(a["src"])
+    if tete.strip() and n and (n == m or n in m or m in n or re.search(r"\.(fr|com|org|net|info)$", suf.strip().lower())):
+        a["titre"] = tete.strip()
+
 def main():
     items = []
     for l in open("feeds.txt", encoding="utf-8"):
@@ -151,6 +161,8 @@ def main():
         if r and r.startswith("http"):
             a["url_gnews"] = a["url"]; a["url"] = r; ok += 1
     print(f"liens Google Actualités décodés : {ok}/{len(gn)}")
+    for a in arts:
+        if "url_gnews" in a or "news.google.com" in a["url"]: retire_suffixe_media(a)
     vus, uniq = set(), []
     for a in arts:
         if a["url"] in vus: continue
