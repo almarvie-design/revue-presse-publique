@@ -92,6 +92,26 @@ def texte(a):
         a["texte"] = t[:TEXTE_MAX]
     return a
 
+def decode_gnews(url, timeout=15):
+    """Lien Google Actualités -> URL directe de l'article (None si échec : on garde alors le lien d'origine)."""
+    m=re.search(r"/articles/([^?/]+)",url)
+    if not m: return None
+    gid=m.group(1)
+    for base in ("https://news.google.com/articles/","https://news.google.com/rss/articles/"):
+        try:
+            h=urllib.request.urlopen(urllib.request.Request(base+gid,headers={"User-Agent":UA}),timeout=timeout).read().decode("utf-8","ignore")
+            sg=re.search(r'data-n-a-sg="([^"]+)"',h); ts=re.search(r'data-n-a-ts="([^"]+)"',h)
+            if sg and ts: break
+        except Exception: pass
+    else: return None
+    inner=json.dumps(["garturlreq",[["X","X",["X","X"],None,None,1,1,"FR:fr",None,1,None,None,None,None,None,0,1],"X","X",1,[1,1,1],1,1,None,0,0,None,0],gid,int(ts.group(1)),sg.group(1)],separators=(",",":"))
+    body="f.req="+urllib.parse.quote(json.dumps([[["Fbv4je",inner,None,"generic"]]],separators=(",",":")))
+    req=urllib.request.Request("https://news.google.com/_/DotsSplashUi/data/batchexecute",data=body.encode(),headers={"User-Agent":UA,"Content-Type":"application/x-www-form-urlencoded;charset=UTF-8"})
+    try:
+        t=urllib.request.urlopen(req,timeout=timeout).read().decode("utf-8","ignore")
+        return json.loads(json.loads(t.split("\n\n",1)[1])[0][2])[1]
+    except Exception: return None
+
 def main():
     items = []
     for l in open("feeds.txt", encoding="utf-8"):
@@ -122,12 +142,26 @@ def main():
         if "mot" in a:
             n = re.sub(r"[^a-z0-9]", "", a["src"].lower())
             a["ht"] = not any(n == x or (len(x) > 4 and (x in n or n in x)) for x in noms)
+    # Liens Google Actualités -> liens directs (repli : lien d'origine conservé dans 'url_gnews')
+    gn = [a for a in arts if "news.google.com/rss/articles/" in a["url"]]
+    with ThreadPoolExecutor(max_workers=6) as ex:
+        res = list(ex.map(lambda a: decode_gnews(a["url"]), gn))
+    ok, deja = 0, {a["url"] for a in arts}
+    for a, r in zip(gn, res):
+        if r and r.startswith("http"):
+            a["url_gnews"] = a["url"]; a["url"] = r; ok += 1
+    print(f"liens Google Actualités décodés : {ok}/{len(gn)}")
+    vus, uniq = set(), []
+    for a in arts:
+        if a["url"] in vus: continue
+        vus.add(a["url"]); uniq.append(a)
+    arts = uniq
     arts.sort(key=lambda a: a["date"] or "", reverse=True)
     lim = (now - dt.timedelta(days=JOURS_TEXTE)).isoformat()
     cand = []
     for a in arts:
         a["pay"] = a["src"] in PAYANTS
-        if not a["pay"] and (a["date"] or "9") >= lim and len(cand) < MAX_TEXTES and "news.google.com" not in a["url"]:
+        if not a["pay"] and (a["date"] or "9") >= lim and len(cand) < MAX_TEXTES and "news.google.com" not in a["url"] and "url_gnews" not in a:
             cand.append(a)
     with ThreadPoolExecutor(max_workers=8) as ex:
         list(ex.map(texte, cand))
