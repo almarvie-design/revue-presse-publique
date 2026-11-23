@@ -38,7 +38,7 @@ Reporterre|https://reporterre.net/spip.php?page=backend
 Actu-Environnement|https://www.actu-environnement.com/ae/news/archives/rss.php4
 Lundi matin|https://lundi.am/spip.php?page=backend
 Fakir|https://fakirpresse.info/feed/
-Révolution permanente|https://www.revolutionpermanente.fr/spip.php?page=backend
+Révolution permanente|https://www.revolutionpermanente.fr/spip.php?page=backend_portada
 Le Vent se lève|https://lvsl.fr/feed/
 Mémoire des luttes|https://medelu.org/spip.php?page=backend
 Attac|https://france.attac.org/spip.php?page=backend
