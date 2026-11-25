@@ -69,8 +69,10 @@ def fetch(item):
         for k in ("description", "summary", "encoded", "content"):
             if k in f and f[k].text:
                 summ = clean(f[k].text); break
+        futur = bool(date and date > now + dt.timedelta(hours=2))
         if title and link and (date is None or date >= since):
             rec = {"src": src, "titre": title, "url": link.strip(), "date": date.isoformat() if date else None, "resume": summ}
+            if futur: rec["date_future"] = rec["date"]; rec["date"] = None
             if src.startswith("mot:") and "source" in f and f["source"].text:
                 rec["src"] = clean(f["source"].text, 80); rec["mot"] = src[4:]
             out.append(rec)
@@ -168,6 +170,9 @@ def main():
         if a["url"] in vus: continue
         vus.add(a["url"]); uniq.append(a)
     arts = uniq
+    # Dates futures ou absentes : on ne les mêle pas aux articles datés (elles faussaient « du jour »).
+    sans_date = [a for a in arts if not a["date"]]
+    arts = [a for a in arts if a["date"]]
     arts.sort(key=lambda a: a["date"] or "", reverse=True)
     lim = (now - dt.timedelta(days=JOURS_TEXTE)).isoformat()
     cand = []
@@ -180,7 +185,7 @@ def main():
     # Dépôt public : on ne publie jamais le texte intégral (droit d'auteur), seulement titre, lien, date, chapô.
     for a in arts:
         a.pop("texte", None); a.pop("texte_erreur", None)
-    json.dump({"genere": now.isoformat(), "jours": JOURS, "nb_articles": len(arts), "nb_flux": len(items), "nb_erreurs": len(errors), "articles": arts, "errors": errors},
+    json.dump({"genere": now.isoformat(), "jours": JOURS, "nb_articles": len(arts), "nb_flux": len(items), "nb_erreurs": len(errors), "nb_sans_date": len(sans_date), "articles": arts, "sans_date": sans_date, "errors": errors},
               open("data/latest.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"{len(arts)} articles, {len(errors)} flux en erreur sur {len(items)}")
 if __name__ == "__main__": main()
