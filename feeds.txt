@@ -100,3 +100,6 @@ Le Poulpe|https://www.lepoulpe.info/feed/
 CGT|https://www.cgt.fr/rss.xml
 Force ouvrière|https://www.force-ouvriere.fr/spip.php?page=backend
 CFE-CGC|https://www.cfecgc.org/rss/actualites.xml
+franceinfo (Radio France)|https://www.radiofrance.fr/franceinfo/rss
+France Culture|https://www.radiofrance.fr/franceculture/rss
+ici (ex-France Bleu)|https://www.ici.fr/rss/a-la-une.xml
