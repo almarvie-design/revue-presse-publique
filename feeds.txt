@@ -10,7 +10,7 @@ franceinfo|https://www.francetvinfo.fr/politique.rss
 franceinfo|https://www.francetvinfo.fr/societe.rss
 France Inter|https://www.radiofrance.fr/franceinter/rss
 Le Canard enchaîné|https://www.lecanardenchaine.fr/rss/index.xml
-Politis|https://www.politis.fr/rss.xml
+# abandonné le 28/11/2026 à la demande de l'utilisateur (flux bloqué ou mal formé) : Politis|https://www.politis.fr/rss.xml
 Blast|https://api.blast-info.fr/rss_articles.xml
 Disclose|https://disclose.ngo/feed/
 Brut|https://www.brut.media/rss/fr/france.xml
@@ -38,7 +38,7 @@ Reporterre|https://reporterre.net/spip.php?page=backend
 Actu-Environnement|https://www.actu-environnement.com/ae/news/archives/rss.php4
 Lundi matin|https://lundi.am/spip.php?page=backend
 Fakir|https://fakirpresse.info/feed/
-Révolution permanente|https://www.revolutionpermanente.fr/spip.php?page=backend_portada
+# abandonné le 28/11/2026 à la demande de l'utilisateur (flux bloqué ou mal formé) : Révolution permanente|https://www.revolutionpermanente.fr/spip.php?page=backend_portada
 Le Vent se lève|https://lvsl.fr/feed/
 Mémoire des luttes|https://medelu.org/spip.php?page=backend
 Attac|https://france.attac.org/spip.php?page=backend
@@ -80,7 +80,7 @@ Acta|https://acta.zone/feed/
 Radio Parleur|https://radioparleur.net/feed/
 Paris-luttes.info|https://paris-luttes.info/spip.php?page=backend
 La Brèche|https://journal-labreche.fr/feed/
-Amnesty International France|https://www.amnesty.fr/feed
+# abandonné le 28/11/2026 à la demande de l'utilisateur (flux bloqué ou mal formé) : Amnesty International France|https://www.amnesty.fr/feed
 LDH|https://www.ldh-france.org/feed/
 La Cimade|https://www.lacimade.org/feed/
 Observatoire des inégalités|https://www.inegalites.fr/spip.php?page=backend
